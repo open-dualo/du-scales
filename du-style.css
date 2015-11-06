@@ -9,12 +9,10 @@ body {
   flex-direction: column;
   min-height: 100vh;
 }
-header {
-  display: flex;
-  align-items: center;
-}
 .logo {
-  min-width: 2em;
+  float: left;
+  height: 4em;
+  padding: .5em .5em .5em 0;
 }
 .wrapper {
   flex: 1 1 auto;
@@ -48,7 +46,7 @@ nav {
 /* Responsive */
 
 @media (max-width: 640px) {
-	.wrapper {
+  .wrapper {
     flex-direction: column;
   }
   nav {
@@ -63,39 +61,39 @@ nav {
 /* Decoration */
 
 body {
-	margin: 0;
-	background: #fff;
-	font-family: "Century Gothic", helvetica, arial, sans-serif;
-	font-size: 1em;
+  margin: 0;
+  background: #fff;
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  font-size: 1em;
 }
 header, nav, section, footer {
-	margin: 0;
-	padding: 0;
-	color: #fff;
+  margin: 0;
+  padding: 0;
+  color: #fff;
 }
 header {
   padding: 0 1em;
-	background: black;
+  background: black;
 }
 h1 {
   margin-left: .2em;
 }
 nav {
-	background: gray;
+  background: gray;
 }
 nav a {
   display: block;
   padding: .5em 1em;
   color: #fff;
   text-decoration: none;
-  border-bottom: 1px solid rgba(255,255,255,.3);
+  border-bottom: 1px solid silver;
 }
 section {
-	color: gray;
+  color: gray;
   text-align: center;
 }
 footer {
-	background: black;
+  background: black;
   padding: .5em;
   text-align: right;
 }
