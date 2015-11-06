@@ -39,8 +39,12 @@ nav {
 }
 .svg-container-2 {
   flex: 1;
-  max-width: 980px;
   /*transform: rotateX(20deg);*/
+}
+.svg-object {
+  max-height: 100%;
+  max-width: 95vh;
+  width: 100%;
 }
 
 /* Responsive */
