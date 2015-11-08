@@ -22,7 +22,9 @@ La disposition particulière des touches, en hexagones, sur deux claviers, dans 
   
 J'ai fait mon étude personnelle, et isolé le tronçon type du clavier sur lequel on peut représenter toutes les gammes, et j'ai commencé à en retranscrire quelques unes à tâton :  
 
-![Quelques gammes](http://image.noelshack.com/fichiers/2015/46/1447025147-quelques-gammes2.gif)
+![Quelques gammes](http://image.noelshack.com/fichiers/2015/46/1447025147-quelques-gammes2.gif)  
+
+(Cliquez sur l'image pour voir le gif animé)  
 
 Cependant, il est bien plus intéressant de générer le dessin de chaque gamme procéduralement, en tachant de découvrir les relations permettant de valider ou non le dessin d'une gamme.  
   
