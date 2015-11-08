@@ -4,7 +4,8 @@
 
 ## Bonjour.
 
-Je suis musicien/graphiste/programmeur à mes heures perdues.  
+Je suis [musicien](https://soundcloud.com/dualo-joke)/[graphiste](http://joke-biloumaster.deviantart.com/gallery/)/[dev](https://github.com/RMEx) à mes heures perdues, et voici un petit projet potentiellement très cool.
+
 J'ai décidé de créer une petite application permettant de visualiser facilement toutes les gammes pour le dualo du-touch, un instrument tout nouveau, inventé en France, que je pratique depuis près d'un an.
 
 ![Display](http://image.noelshack.com/fichiers/2015/46/1447023948-du-scales2.png)  
