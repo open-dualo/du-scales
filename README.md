@@ -35,13 +35,14 @@ J'ai fait mon étude personnelle, et isolé le tronçon type du clavier sur lequ
 
 (Cliquez sur l'image pour voir le gif animé)  
 
-Cependant, il est bien plus intéressant de générer le dessin de chaque gamme procéduralement, en tachant de découvrir les relations permettant de valider ou non le dessin d'une gamme.  
+Cependant, les gammes sont très nombreuses, et il serait fastidieux de répertorier chaque dessin manuellement, avec la forte probabilité de passer à côté d'un dessin meilleur.
+C'est pourquoi je cherche à générer le dessin de chaque gamme procéduralement, à partir de la définition la plus basique de chacune (leurs intervalles), en tachant de découvrir les relations permettant de valider ou non le dessin.  
   
-La tâche n'est pas évidente, puisque dans le tronçon type du dualo, chaque note se retrouve *deux fois* : une fois sur le *clavier gauche*, une fois sur le *clavier droit*.  
+La tâche n'est pas évidente, puisque dans le tronçon type du dualo, chaque note se retrouve **deux fois** : une fois sur le *clavier gauche*, une fois sur le *clavier droit*.  
 
 Le fait est qu'on peut jouer toutes les notes du mode chromatique sur chaque clavier, séparément, mais tout le principe repose sur le fait de combiner les deux claviers (l'un décalé d'un ton par rapport à l'autre) et jongler entre les deux (gauche-droite-gauche-droite) pour trouver le chemin le plus simple et logique.  
 
-Pour une gamme de 7 notes, par exemple, il existe 64 dessins différents pour une même gamme. Parmis les 64 combinaisons possibles, en fait, seulement quelques unes sont intéressantes.  
+Pour une gamme de **7 notes**, par exemple, il existe *64 dessins différents*. Parmis les 64 combinaisons possibles, en fait, seulement quelques unes sont intéressantes.  
   
 L'objectif est donc de trouver un algorithme permettant de trouver pour chaque gamme qui existe, le dessin le plus simple à jouer, ainsi que ses variantes.
 
