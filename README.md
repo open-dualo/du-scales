@@ -16,7 +16,7 @@ J'ai décidé de créer une petite application permettant de visualiser facileme
 
 ## Nouvel instrument = Nouveau domaine de recherche musicale.
 
-Le [dualo du-touch](http://dualo.org/) est un nouvel instrument suivant le [principe dualo](https://fr.wikipedia.org/wiki/Principe_dualo), du même inventeur.  
+Le [dualo du-touch](http://dualo.org/) est un nouvel instrument, premier à présenter le [principe dualo](https://fr.wikipedia.org/wiki/Principe_dualo), du même inventeur.  
 Ayant pratiqué la guitare, le piano et l'accordéon et quelques bricoles pendant quelques dizaines années avant de passer enfin à cet instrument, je ne peux que confirmer que : Oui, cet instrument est cool.  
 
 Mais ô loin de moi l'envie d'en faire la publicité (zut), si vous ne connaîssez pas déjà l'instrument... m'allez donc googler ça ! :)  
