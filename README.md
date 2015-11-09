@@ -55,7 +55,10 @@ C'est donc en premier lieu une question de [recherche](https://github.com/Jauke/
 * HTML5
 * CSS3
 * SVG
-* JSON + JS + [D3.js](http://d3js.org/)
+* JSON
+* JS
+
+Et je me penche sur la très intéressante librairie [D3.js](http://d3js.org/). :)
 
 ---
 
