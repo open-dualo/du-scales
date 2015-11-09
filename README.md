@@ -1,6 +1,6 @@
 # Du-Scales : Explorateur de gammes pour le Dualo du-touch.  
 
-/!\ Projet en cours !
+/!\ Projet en cours /!\
 
 ## Bonjour.
 
@@ -19,7 +19,7 @@ J'ai décidé de créer une petite application permettant de visualiser facileme
 Le [dualo du-touch](http://dualo.org/) est un nouvel instrument, premier à présenter le [principe dualo](https://fr.wikipedia.org/wiki/Principe_dualo), du même inventeur.  
 Ayant pratiqué la guitare, le piano et l'accordéon et quelques bricoles pendant quelques dizaines années avant de passer enfin à cet instrument, je ne peux que confirmer que : Oui, cet instrument est cool.  
 
-Mais ô loin de moi l'envie d'en faire la publicité (zut), si vous ne connaîssez pas déjà l'instrument... m'allez donc googler ça ! :)  
+Mais ô loin de moi l'envie d'en faire la publicité, si vous ne connaîssez pas déjà l'instrument... m'allez donc googler ça ! 
 
 ---
 
@@ -29,7 +29,7 @@ Le dualo du-touch, ainsi que le principe dualo, ont l'objectif particulier de si
   
 La disposition particulière des touches, en hexagones, sur deux claviers, dans un rapport de tierces majeures et mineures, permet de simplifier radicalement la lecture d'une gamme ou d'un accord, grâce à la réunion des degrés paires et impaires.  
   
-J'ai fait mon étude personnelle, et isolé le tronçon type du clavier sur lequel on peut représenter toutes les gammes, et j'ai commencé à en retranscrire quelques unes à tâton :  
+J'ai isolé le tronçon type du clavier sur lequel on peut représenter toutes les gammes, et commencé à en retranscrire quelques unes à tâton :  
 
 ![Quelques gammes](http://image.noelshack.com/fichiers/2015/46/1447025147-quelques-gammes2.gif)  
 
@@ -44,9 +44,7 @@ Le fait est qu'on peut jouer toutes les notes du mode chromatique sur chaque cla
 
 Pour une gamme de **7 notes**, par exemple, il existe *64 dessins différents*. Parmis les 64 combinaisons possibles, en fait, seulement quelques unes sont intéressantes.  
   
-L'objectif est donc de trouver un algorithme permettant de trouver pour chaque gamme qui existe, le dessin le plus simple à jouer, ainsi que ses variantes.
-
-C'est donc en premier lieu une question de [recherche](https://github.com/Jauke/Du-Scales/tree/master/recherches) autour des différentes combinaisons possibles des dessins d'une gamme. :)
+L'objectif est donc de trouver un algorithme permettant de trouver, pour chaque gamme qui existe, le dessin le plus simple à jouer, ainsi que ses variantes.
 
 ---
 
@@ -58,7 +56,7 @@ C'est donc en premier lieu une question de [recherche](https://github.com/Jauke/
 * JSON
 * JS
 
-Et je me penche sur la très intéressante librairie [D3.js](http://d3js.org/). :)
+Et je me penche sur la très intéressante librairie [D3.js](http://d3js.org/) !
 
 ---
 
@@ -70,7 +68,8 @@ Et je me penche sur la très intéressante librairie [D3.js](http://d3js.org/). 
 
 ---
 
-## Participer au projet.
+## Participer au projet ?
 
+Je ne suis ni un excellent programmeur, ni un mathématicien, et je n'ai pas fait le conservatoire... toute aide est la bienvenue !  
 Ce projet est libre et open-source, n'hésitez pas à consulter [mes recherches](https://github.com/Jauke/Du-Scales/tree/master/recherches) et apporter vos idées !  
-Vous pouvez bien entendu [ouvrir une issue](https://github.com/Jauke/Du-Scales/issues) pour communiquer vos remarques.
+Vous pouvez bien entendu [ouvrir une issue](https://github.com/Jauke/Du-Scales/issues) pour communiquer vos remarques, bug ou fix.
