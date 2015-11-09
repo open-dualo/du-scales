@@ -29,7 +29,7 @@ Le dualo du-touch, ainsi que le principe dualo, ont l'objectif particulier de si
   
 La disposition particulière des touches, en hexagones, sur deux claviers, dans un rapport de tierces majeures et mineures, permet de simplifier radicalement la lecture d'une gamme ou d'un accord, grâce à la réunion des degrés paires et impaires.  
   
-J'ai isolé le tronçon type du clavier sur lequel on peut représenter toutes les gammes, et commencé à en retranscrire quelques unes à tâton :  
+J'ai isolé le tronçon type du clavier sur lequel on peut représenter toutes les gammes, et [commencé à en retranscrire quelques unes](recherches/gammes-retranscrites-manuellement.pdf) à tâton :  
 
 ![Quelques gammes](http://image.noelshack.com/fichiers/2015/46/1447025147-quelques-gammes2.gif)  
 
