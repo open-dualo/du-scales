@@ -1,0 +1,16 @@
+{
+  "5 notes": {
+    "Balinaise": ["T","2m","3m","5","6m"],
+    "Chinoise (deuxième forme)": ["T","3","4+","5","7"],
+    "Chinoise (première forme)": ["T","2","4","5","6"],
+    "Hirajoshi": ["T","2","2m","5","6m"]
+  },
+  "6 notes": {
+    "Augmentée": ["T","3m","3","5","6m","7"],
+    "Bahar": ["T","2","3m","4","5","7m"],
+    "Bitonal majeur chromatique": ["T","3m","3","5°","5","7"],
+    "Bitonal mineur chromatique": ["T","2","3m","5°","5","7"],
+    "Blues diminué (deuxième forme)": ["T","3m","3","5°","5","6"],
+    "Enigmatique": ["T","2m","3","4+","6m","7m"]
+  }
+}
