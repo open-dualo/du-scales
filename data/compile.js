@@ -1,3 +1,5 @@
+"use strict";
+
 var fs = require('fs');
 
 /* init src data */
@@ -24,10 +26,11 @@ function codeIntervals(scaleArr) {
 
 /* scale combination */
 
-function allCombinations(category, scaleCodeArr) {
+function allCombinations(category, scaleArr) {
+  var code = codeIntervals(scaleArr);
   return combin[category].variations.map(function(row) {
     return row.map(function(value, index) {
-      return (scaleCodeArr[index] || 12) + value * 12;
+      return code[index] + value * 12;
     });
   });
 };
@@ -35,7 +38,8 @@ function allCombinations(category, scaleCodeArr) {
 /* get intervals between values */
 
 function getIntervals(arr) {
-  var sorted = arr.sort(function(a, b) {a - b});
+  var sorted = arr.slice(0).sort(function(a, b) {return a - b});
+  sorted.push(24);
   var result = [];
   for (var i = 1; i < sorted.length; i++) {
     result.push(sorted[i] - sorted[i-1]);
@@ -53,20 +57,50 @@ function isToExclude(category, combination) {
   });
 };
 
+/* apply exclusions */
+
+function applyExclusions(category, combinations) {
+  var result = [];
+  for (var e of combinations) {
+    if (!isToExclude(category, e)) {
+      result.push(e);
+    };
+  };
+  return result;
+};
+
+/* get final combinations */
+
+function getCombinations(category, scaleArr) {
+  return applyExclusions(category, allCombinations(category, scaleArr));
+};
+
+/* add combinations to data */
+
+function addCombinationsToData() {
+  for (var category in data.scales) {
+    for (var scale in data.scales[category]) {
+      var arr = data.scales[category][scale].slice(0);
+      var combinations = getCombinations(category, arr);
+      data.scales[category][scale] = {
+        intervals:  arr,
+        variations: combinations
+      };
+    };
+  };
+};
+
 /* write data file */
 
 function writeData() {
-  var content = "var data = " + JSON.stringify(data, null, '  ');
+  var content = "var data = " + JSON.stringify(data, null, 2) + ";";
   fs.writeFile("data.js", content, function(err) {
     if(err) {
       return console.log(err);
-    }
+    };
     console.log("The data.js file is successfully compiled!");
-  })
+  });
 };
 
-console.log(getIntervals([0,5,10,15,20,25]));
-console.log(isToExclude("5 notes", [2,8,10,11]));
-console.log(isToExclude("5 notes", [1,7,10,12]));
-console.log(isToExclude("5 notes", [1,7,5,12]));
+addCombinationsToData()
 writeData();
