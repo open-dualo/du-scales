@@ -6,6 +6,7 @@
     "2+": {"code": 3, "name":"Seconde augmentée"},
     "3m": {"code": 3, "name":"Tierce mineure"},
     "3" : {"code": 4, "name":"Tierce majeure"},
+    "3+": {"code": 5, "name":"Tierce augmentée"},
     "4°": {"code": 4, "name":"Quarte diminuée"},
     "4" : {"code": 5, "name":"Quarte juste"},
     "4+": {"code": 6, "name":"Quarte augmentée"},
