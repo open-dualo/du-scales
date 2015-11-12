@@ -76,9 +76,9 @@ function tryExclusion(combinations, interval) {
   for (var e of combinations) {
     if (!getIntervals(e).some(function(value){return value == interval})) {
       result.push(e);
-    };
+    end;
   };
-  return result.length > 0 ? result : combinations;
+  return result || combinations;
 };
 
 /* get final combinations */
