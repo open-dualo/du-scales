@@ -29,19 +29,12 @@ nav {
   display: flex;
   flex-direction: column;
 }
-.svg-container-1 {
+.svg-container {
   flex: 1;
-  display: block;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-  /*perspective: 500px;*/
+  overflow: hidden;
+  margin: 0 5% 5% 5%;
 }
-.svg-container-2 {
-  flex: 1;
-  /*transform: rotateX(20deg);*/
-}
-.svg-object {
+.svg-container svg {
   max-height: 100%;
   max-width: 95vh;
   width: 100%;
@@ -67,7 +60,6 @@ nav {
 body {
   margin: 0;
   background: #fff;
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
   font-size: 1em;
 }
 header, nav, section, footer {
@@ -83,21 +75,54 @@ h1 {
   margin-left: .2em;
 }
 nav {
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
   background: gray;
 }
 nav a {
+  color: #fff;
   display: block;
   padding: .5em 1em;
-  color: #fff;
   text-decoration: none;
   border-bottom: 1px solid silver;
 }
 section {
-  color: gray;
+  color: black;
   text-align: center;
 }
 footer {
   background: black;
   padding: .5em;
   text-align: right;
+}
+
+.touch, .hexagon {
+  -webkit-transition: all 0.1s ease-in-out;
+  -moz-transition: all 0.1s ease-in-out;
+  -o-transition: all 0.1s ease-in-out;
+  transition: all 0.1s ease-in-out;
+}
+
+.touch {
+  transform-origin: center;
+  transform: scale(1);
+  cursor: pointer;
+}
+.hexagon {
+  fill: "#F3F3F3";
+  stroke: black;
+  stroke-width: .5;
+}
+.notation {
+  font-family: 'Verdana';
+  font-size: .4em;
+  text-anchor: middle;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+.touch:hover {
+  transform: scale(0.9);
 }

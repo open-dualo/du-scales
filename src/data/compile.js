@@ -4,9 +4,9 @@ var fs = require('fs');
 
 /* init src data */
 
-var scales = JSON.parse(fs.readFileSync('src/scales.json', 'utf8'));
-var codage = JSON.parse(fs.readFileSync('src/codage.json', 'utf8'));
-var combin = JSON.parse(fs.readFileSync('src/combin.json', 'utf8'));
+var scales = JSON.parse(fs.readFileSync('scales.json', 'utf8'));
+var codage = JSON.parse(fs.readFileSync('codage.json', 'utf8'));
+var combin = JSON.parse(fs.readFileSync('combin.json', 'utf8'));
 
 /* init data */
 
@@ -88,7 +88,7 @@ function getCombinations(category, scaleArr) {
   result = applyExclusions(category, result);
   result = tryExclusion(result, 5);
   result = tryExclusion(result, 2);
-  result = tryExclusion(result, 1);
+  //result = tryExclusion(result, 1);
   return result;
 };
 

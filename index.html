@@ -4,40 +4,33 @@
 <head>
   <meta charset="UTF-8">
   <title>Du-Scales : Les gammes, selon le principe dualo</title>
-  <link rel="stylesheet" href="du-style.css">
+  <link rel="stylesheet" href="src/du-style.css">
 </head>
 
 <body>
 
   <header>
-    <img src="svg/du-logo.svg" class="logo">
-    <h1>Du-Scales : Principe dualo - Gammes</h1>
+    <img src="src/du-logo.svg" class="logo">
+    <h1>Du-Scales : Explorateur de gammes</h1>
   </header>
   
   <div class="wrapper">
     <nav id="navigation" role="navigation">
-      <!-- in progress... -->
       <a href="#">Majeure</a>
-      <a href="#">Mineure naturelle</a>
-      <a href="#">Mineure mélodique</a>
-      <a href="#">Mineure harmonique</a>
-      <a href="#">Etc.</a>
     </nav>
     <section class="content">
-      <h2>Gamme Bilouteuse</h2>
-      <div class="svg-container-1">
-        <div class="svg-container-2">
-          <object type="image/svg+xml" data="svg/du-display.svg" class="svg-object">
-          </object>
-        </div>
+      <h2>Titre</h2>
+      <div class="svg-container">
+        <svg viewBox="-1 -1 192 138"></svg>
       </div>
     </section>
   </div>
   
-  <footer>BilouMaster Joke sisi.</footer>
+  <footer>.</footer>
 
-  <script>
-  </script>
+  <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+  <script src="src/data/data.js" charset="utf-8"></script>
+  <script src="src/du-scales.js" charset="utf-8"></script>
 
 </body>
 
