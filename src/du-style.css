@@ -24,6 +24,7 @@ body {
 }
 nav {
   width: 15em;
+  float: left;
   overflow: auto;
 }
 .content {
@@ -35,12 +36,12 @@ nav {
 }
 .svg-container {
   flex: 1;
-  /*overflow: auto;*/
   padding: 0 5%;
 }
 .svg-container svg {
   max-height: 100%;
   max-width: 95vh;
+  min-height: 50vh;
   width: 100%;
 }
 
@@ -74,7 +75,9 @@ header, nav, section, footer {
   color: #fff;
 }
 header {
+  overflow: hidden;
   padding: 0 1em;
+  background: black;
   background: linear-gradient(#222, black);
   box-shadow: 0 0 1em #444;
   z-index: 1000;
@@ -86,6 +89,7 @@ h1 span {
   font-size: .6em;
 }
 nav {
+  background: gray;
   background: linear-gradient(90deg,#444, gray);
   box-shadow: 0 0 1em #444 inset;
   color: #fff;
@@ -121,6 +125,7 @@ section {
   text-align: center;
 }
 footer {
+  background: black;
   background: linear-gradient(black,#111);
   padding: .5em;
   text-align: right;
