@@ -34,17 +34,21 @@ var text = touch
     .attr("y", function(d,i) {return d.y + 3})
     .text(keys);
 
-navig.selectAll("ul")
+var categories = navig
+  .selectAll("li")
     .data(d3.entries(data.scales))
   .enter()
-    .append("ul").append("li")
+    .append("li")
     .text(function(d){return d.key})
-    .selectAll("ul")
-      .data(function(d){return d3.keys(d.value)})
-    .enter()
-      .append("ul").append("li")
-      .text(function (d){return d})
-      .on("click", toggleScale);
+    .append("ul");
+
+var scales = categories
+  .selectAll("li")
+    .data(function(d){return d3.keys(d.value)})
+  .enter()
+    .append("li")
+    .text(function (d){return d})
+    .on("click", toggleScale);
 
 function toggleScale(d,i) {
   transpo = 1;
