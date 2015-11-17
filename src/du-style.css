@@ -121,6 +121,9 @@ nav li li:hover {
 .content {
   background: radial-gradient(white,lightgray);
 }
+.content h2 {
+  font-size: 3vw;
+}
 section {
   color: black;
   text-align: center;
