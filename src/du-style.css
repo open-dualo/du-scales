@@ -94,17 +94,7 @@ footer {
   padding: .5em;
   text-align: right;
 }
-
-.touch, .hexagon {
-  -webkit-transition: all 0.1s ease-in-out;
-  -moz-transition: all 0.1s ease-in-out;
-  -o-transition: all 0.1s ease-in-out;
-  transition: all 0.1s ease-in-out;
-}
-
 .touch {
-  transform-origin: center;
-  transform: scale(1);
   cursor: pointer;
 }
 .hexagon {
@@ -113,7 +103,6 @@ footer {
   stroke-width: .5;
 }
 .notation {
-  font-family: 'Verdana';
   font-size: .4em;
   text-anchor: middle;
   -webkit-touch-callout: none;
@@ -122,7 +111,4 @@ footer {
   -moz-user-select: none;
   -ms-user-select: none;
   user-select: none;
-}
-.touch:hover {
-  transform: scale(0.9);
 }
