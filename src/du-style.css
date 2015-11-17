@@ -76,6 +76,7 @@ header, nav, section, footer {
 }
 header {
   overflow: hidden;
+  min-height: 4.8em;
   padding: 0 1em;
   background: black;
   background: linear-gradient(#222, black);
