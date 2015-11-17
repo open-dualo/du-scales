@@ -8,6 +8,7 @@ body {
   display: flex;
   flex-direction: column;
   min-height: 100vh;
+  max-height: 100vh;
 }
 .logo {
   float: left;
@@ -19,15 +20,18 @@ body {
   display: block;
   display: flex;
   flex-direction: row;
+  overflow: auto;
 }
 nav {
   width: 15em;
+  overflow: auto;
 }
 .content {
   flex: 1;
   display: block;
   display: flex;
   flex-direction: column;
+  overflow: auto;
 }
 .svg-container {
   flex: 1;
@@ -69,28 +73,53 @@ header, nav, section, footer {
 }
 header {
   padding: 0 1em;
-  background: black;
+  background: linear-gradient(#222, black);
+  box-shadow: 0 0 1em #444;
+  z-index: 1000;
 }
 h1 {
   margin-left: .2em;
 }
-nav {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
-  background: gray;
+h1 span {
+  font-size: .6em;
 }
-nav a {
+nav {
+  background: linear-gradient(90deg,#444, gray);
+  box-shadow: 0 0 1em #444 inset;
   color: #fff;
+}
+nav ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+nav li {
   display: block;
   padding: .5em 1em;
   text-decoration: none;
   border-bottom: 1px solid silver;
+  color:#999;
+}
+nav li li {
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  padding: .5em 1em;
+  margin: 0 -1em;
+  border: none;
+  cursor: pointer;
+  color: white;
+}
+nav li li:hover {
+  background: #444;
+}
+.content {
+  background: radial-gradient(white,lightgray);
 }
 section {
   color: black;
   text-align: center;
 }
 footer {
-  background: black;
+  background: linear-gradient(black,#111);
   padding: .5em;
   text-align: right;
 }

@@ -1,4 +1,4 @@
-var navigation = d3.select("#navigation"),
+var navig = d3.select("#navigation"),
     content = d3.select(".content"),
     svg  =  content.select("svg"),
     title = content.select("h2");
@@ -33,6 +33,26 @@ var text = touch
     .attr("x", function(d) {return d.x})
     .attr("y", function(d,i) {return d.y + 3})
     .text(keys);
+
+navig.selectAll("ul")
+    .data(d3.entries(data.scales))
+  .enter()
+    .append("ul").append("li")
+    .text(function(d){return d.key})
+    .selectAll("ul")
+      .data(function(d){return d3.keys(d.value)})
+    .enter()
+      .append("ul").append("li")
+      .text(function (d){return d})
+      .on("click", toggleScale);
+
+function toggleScale(d,i) {
+  transpo = 1;
+  variation = 0;
+  category = this.parentNode.parentNode.__data__.key;
+  currScale = d;
+  update();
+};
 
 function mouseover(d) {
   var dx = -d.x*(0.9-1),
@@ -71,7 +91,7 @@ function transpose(d,i) {
 };
 
 function newTitle() {
-  title.text("Gamme "+ currScale +" en "+ keys(transpo));
+  title.text("Gamme "+ currScale +" en "+ keys(null, transpo));
 };
 
 function update(){
