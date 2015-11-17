@@ -1,6 +1,6 @@
 var navig = d3.select("#navigation"),
     content = d3.select(".content"),
-    svg  =  content.select("svg"),
+    svg  =  content.select("svg").select(".gkeyboard"),
     title = content.select("h2");
     
 var notes = "usual",
@@ -25,7 +25,7 @@ var hexa = touch
     .attr("class", "hexagon")
     .attr("points", "0,11.547 10,5.774 10,-5.774 0,-11.547 -10,-5.774 -10.000,5.774")
     .attr("transform", function(d,i) {return "translate("+ d.x +","+ d.y +")";})
-    .style("fill", lighten);
+    .attr("fill", lighten);
 
 var text = touch
   .append("text")
@@ -40,6 +40,10 @@ var categories = navig
   .enter()
     .append("li")
     .text(function(d){return d.key})
+    .on("click", function(d){
+      d3.select(".current").classed("current", false);
+      d3.select(this).classed("current", true);
+    })
     .append("ul");
 
 var scales = categories
@@ -51,6 +55,8 @@ var scales = categories
     .on("click", toggleScale);
 
 function toggleScale(d,i) {
+  d3.select(".selected").classed("selected",false);
+  d3.select(this).classed("selected", true);
   transpo = 1;
   variation = 0;
   category = this.parentNode.parentNode.__data__.key;
@@ -79,10 +85,10 @@ function range(i) {
 function lighten(d,i) {
   var sc = data.scales[category][currScale].variations[variation];
   return (range(i) == 0)
-    ? "#FFC057"
+    ? 'url(#prime)'
     : (sc.indexOf(range(i)) != -1)
-      ? "#80EF80"
-      : "#F3F3F3";
+      ? "url(#lighten)"
+      : "url(#unlighten)";
 };
 
 function keys(d,i) {
@@ -100,8 +106,8 @@ function newTitle() {
 
 function update(){
   text.text(keys);
-  hexa.style("fill", lighten);
+  hexa.attr("fill", lighten);
   newTitle();
 };
 
-newTitle()
+newTitle();

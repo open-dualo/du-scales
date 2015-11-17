@@ -10,12 +10,9 @@
 <body>
 
   <header>
-    <img src="src/du-logo.svg" class="logo">
+    <img src="src/logos/du-logo.svg" class="logo">
     <h1>
-      Du-Scales
-      <span>
-         : Dictionnaire de gammes pour le dualo du-touch
-      </span>
+      Du-Scales <span>: Dictionnaire de gammes pour le dualo du-touch</span>
      </h1>
   </header>
   
@@ -25,12 +22,55 @@
     <section class="content">
       <h2>Titre</h2>
       <div class="svg-container">
-        <svg viewBox="-1 -1 192 138"></svg>
+        <svg viewBox="-1 -1 192 138">
+          <defs>
+            <radialGradient id="lighten"   cx="40%" cy="40%" r="100%" fx="50%" fy="50%">
+              <stop offset="0%" style="stop-color:rgb(200,255,200)"></stop>
+              <stop offset="100%" style="stop-color:rgb(50, 230, 50)"></stop>
+            </radialGradient>
+            <radialGradient id="prime"     cx="40%" cy="40%" r="100%" fx="50%" fy="50%">
+              <stop offset="0%" style="stop-color:rgb(255,230,150)"></stop>
+              <stop offset="100%" style="stop-color:rgb(255, 130, 30)"></stop>
+            </radialGradient>
+            <radialGradient id="unlighten" cx="40%" cy="40%" r="100%" fx="50%" fy="50%">
+              <stop offset="0%" style="stop-color:rgb(255,255,255)"></stop>
+              <stop offset="100%" style="stop-color:rgb(200,200,200)"></stop>
+            </radialGradient>
+            <filter id="shadow" x="0" y="0" width="150%" height="150%">
+              <feOffset result="offOut" in="SourceAlpha" dx="1" dy="1"></feOffset>
+              <feColorMatrix result="matrixOut" in="offOut" type="matrix"
+                values="0 0 0 0 0
+                        0 0 0 0 0
+                        0 0 0 0 0
+                        0 0 0 .2 0"></feColorMatrix>
+              <feGaussianBlur result="blurOut" in="matrixOut" stdDeviation=".5"></feGaussianBlur>
+              <feBlend in="SourceGraphic" in2="blurOut" mode="normal" ></feBlend>
+            </filter>
+          </defs>
+          <g class="gkeyboard"></g>
+        </svg>
       </div>
     </section>
   </div>
   
-  <footer>.</footer>
+  <footer>
+    <a href="https://twitter.com/BilouMaster">
+      <img src="src/logos/joke-logo.svg" class="logo-footer">
+      BilouMaster
+    </a>
+    <a href="http://dualo.org/">
+      <img src="src/logos/du-logo-2.svg" class="logo-footer">
+      dualo.org
+    </a>
+    <a href="http://d3js.org/">
+      <img src="src/logos/d3-logo.svg" class="logo-footer">
+      Data Driven Documents
+    </a>
+    <a href="https://github.com/open-dualo/du-scales">
+      <img src="src/logos/github-logo.svg" class="logo-footer">
+      View on GitHub
+    </a>
+  </footer>
 
   <script src="src/d3.min.js" charset="utf-8"></script>
   <script src="src/data/data.js" charset="utf-8"></script>

@@ -1,8 +1,33 @@
 /* Layout */
 
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  -webkit-box-shadow: inset 0 0 8px rgba(0,0,0,0.8);
+  box-shadow: inset 0 0 6px rgba(0,0,0,0.8); 
+  padding: 2px;
+}
+::-webkit-scrollbar-thumb {
+  -webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.8);
+  box-shadow: inset 0 0 3px rgba(0,0,0,0.8);
+  border-radius: 6px;
+  background: rgba(127,127,127,0.5);
+}
+::-webkit-scrollbar-thumb:hover {
+  background: gray;
+  border: solid 1px #444;
+}
 html {
   display: flex;
   flex-direction: column;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
 }
 body {
   display: flex;
@@ -43,6 +68,7 @@ nav {
   max-width: 95vh;
   min-height: 50vh;
   width: 100%;
+  overflow: hidden;
 }
 
 /* Responsive */
@@ -76,11 +102,12 @@ header, nav, section, footer {
 }
 header {
   overflow: hidden;
+  height: 4.8em;
   min-height: 4.8em;
   padding: 0 1em;
   background: black;
   background: linear-gradient(#222, black);
-  box-shadow: 0 0 1em #444;
+  box-shadow: 0 0 .5em #444;
   z-index: 1000;
 }
 h1 {
@@ -88,38 +115,10 @@ h1 {
 }
 h1 span {
   font-size: .6em;
-}
-nav {
-  background: gray;
-  background: linear-gradient(90deg,#444, gray);
-  box-shadow: 0 0 1em #444 inset;
-  color: #fff;
-}
-nav ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-nav li {
-  display: block;
-  padding: .5em 1em;
-  text-decoration: none;
-  border-bottom: 1px solid silver;
-  color:#999;
-}
-nav li li {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
-  padding: .5em 1em;
-  margin: 0 -1em;
-  border: none;
-  cursor: pointer;
-  color: white;
-}
-nav li li:hover {
-  background: #444;
+  color: gray;
 }
 .content {
-  background: radial-gradient(white,lightgray);
+  background: radial-gradient(white,#DDD);
 }
 .content h2 {
   font-size: 3vw;
@@ -129,26 +128,118 @@ section {
   text-align: center;
 }
 footer {
+  color: gray;
   background: black;
-  background: linear-gradient(black,#111);
-  padding: .5em;
+  background: linear-gradient(#111, black);
+  box-shadow: 0 0 .5em #444;
+  padding: .3em;
   text-align: right;
+}
+.logo-footer {
+  height: 1.2em;
+  margin: -0.1em 0 -0.2em .7em;
+}
+footer a {
+  text-decoration: none;
+  font-style: normal;
+  color: white;
+  font-size: 1em;
+  display: inline-block;
+  opacity: 0.3;
+  -webkit-transition-property: opacity;
+  -webkit-transition-duration: .2s;
+  -moz-transition-property: opacity;
+  -moz-transition-duration: .2s;
+  transition-property: opacity;
+  transition-duration: .2s;
+}
+footer a:last-child {
+  opacity: 0.7;
+}
+footer a:hover {
+  opacity: 1;
 }
 .touch {
   cursor: pointer;
 }
 .hexagon {
-  fill: "#F3F3F3";
-  stroke: black;
+  stroke: #444;
   stroke-width: .5;
 }
 .notation {
   font-size: .4em;
   text-anchor: middle;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
+}
+.gkeyboard {
+  -webkit-filter: drop-shadow(5px 5px 2px black); 
+}
+
+nav {
+  background: #444;
+  background: linear-gradient(90deg,#333,#555);
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+}
+nav li {
+  transition: all .3s ease-in-out;
+  margin: 0;
+  padding: 0;
+  font-size: 1.1em;
+  cursor: pointer;
+  display: block;
+  border-top: 1px solid gray;
+  color: silver;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  line-height: 2em;
+  min-height: 2em;
+  flex: 0;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  height: 0;
+  overflow: hidden;
+  flex: 1;
+  border-top: 1px solid gray;
+  box-shadow: 0 0 3em #444 inset;
+}
+nav li li {
+  transition: none;
+  padding: .5em 1em;
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  border: none;
+  color: white;
+  font-size: .8em;
+  text-align: left;
+}
+nav li.current {
+  cursor: default;
+  color: white;
+}
+nav li:hover {
+  background: #555;
+  background: linear-gradient(90deg,#444, #666);
+  color: white;
+}
+nav li.current {
+  background: #666;
+  background: linear-gradient(90deg,#444, #777);
+}
+nav li li.selected {
+  background: #444;
+  box-shadow: 0 0 1em #333 inset;
+  color: #FFC057;
+  cursor: default;
+}
+nav li.current {
+  flex: 1;
+}
+nav li.current ul {
+  height: auto;
+  overflow-y: auto;
 }
