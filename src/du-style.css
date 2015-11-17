@@ -35,8 +35,8 @@ nav {
 }
 .svg-container {
   flex: 1;
-  overflow: hidden;
-  margin: 0 5% 5% 5%;
+  /*overflow: auto;*/
+  padding: 0 5%;
 }
 .svg-container svg {
   max-height: 100%;
@@ -49,10 +49,12 @@ nav {
 @media (max-width: 640px) {
   .wrapper {
     flex-direction: column;
+    overflow: visible;
   }
   nav {
     width: auto;
     order: 1;
+    min-height: 100vw;
   }
   .content {
     min-height: 100vw;
