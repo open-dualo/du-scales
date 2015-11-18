@@ -66,8 +66,7 @@ nav {
 .svg-container svg {
   max-height: 80vmin;
   max-width: 80vmin;
-  min-height: 50vmin;
-  width: 100%;
+  min-height: 50vh;
   overflow: hidden;
 }
 
@@ -138,6 +137,7 @@ footer {
 .logo-footer {
   height: 1.2em;
   margin: -0.1em 0 -0.2em .7em;
+  border: none;
 }
 footer a {
   text-decoration: none;
@@ -180,7 +180,7 @@ nav {
   flex-direction: column;
 }
 nav li {
-  transition: all .3s ease-out;
+  transition: min-height .3s ease-out;
   margin: 0;
   padding: 0;
   font-size: 1.1em;
