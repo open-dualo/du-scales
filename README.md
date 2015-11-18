@@ -1,6 +1,4 @@
-# Du-Scales : Explorateur de gammes pour le Dualo du-touch.  
-
-/!\ Projet en cours /!\
+# Du-Scales : Explorateur de gammes pour le Dualo du-touch.
 
 ## Bonjour.
 
@@ -8,9 +6,7 @@ Je suis [musicien](https://soundcloud.com/dualo-joke)/[graphiste](http://joke-bi
 
 J'ai décidé de créer une petite application permettant de visualiser facilement toutes les gammes pour le dualo du-touch, un instrument tout nouveau, inventé en France, que je pratique depuis près d'un an.
 
-![Display](http://image.noelshack.com/fichiers/2015/46/1447023948-du-scales2.png)  
-
-(layout non définitif)  
+![Display](http://i.giphy.com/xTiTnJ3dZSBWDjsu8E.gif)
 
 ---
 
