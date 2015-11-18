@@ -85,7 +85,7 @@ function range(i) {
 function lighten(d,i) {
   var sc = data.scales[category][currScale].variations[variation];
   return (range(i) == 0)
-    ? 'url(#prime)'
+    ? "url(#prime)"
     : (sc.indexOf(range(i)) != -1)
       ? "url(#lighten)"
       : "url(#unlighten)";

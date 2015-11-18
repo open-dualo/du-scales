@@ -182,7 +182,7 @@ nav {
   flex-direction: column;
 }
 nav li {
-  transition: all .3s ease-in-out;
+  transition: all .3s ease-out;
   margin: 0;
   padding: 0;
   font-size: 1.1em;
@@ -217,16 +217,16 @@ nav li li {
   font-size: .8em;
   text-align: left;
 }
-nav li.current {
-  cursor: default;
-  color: white;
-}
 nav li:hover {
   background: #555;
   background: linear-gradient(90deg,#444, #666);
   color: white;
 }
-nav li.current {
+nav li.current, nav li.current:hover {
+  cursor: default;
+  color: white;
+  flex: 1;
+  min-height: 8em;
   background: #666;
   background: linear-gradient(90deg,#444, #777);
 }
@@ -235,9 +235,6 @@ nav li li.selected {
   box-shadow: 0 0 1em #333 inset;
   color: #FFC057;
   cursor: default;
-}
-nav li.current {
-  flex: 1;
 }
 nav li.current ul {
   height: auto;
