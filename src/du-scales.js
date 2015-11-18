@@ -104,10 +104,9 @@ function transpose(d,i) {
 };
 
 function newTitle() {
-  var title_text = (category == "")
-    ? "Choisissez une gamme..."
-    : currScale +" en "+ keys(null, transpo)
-  title.text(title_text);
+  if (category != "") {
+    title.text(currScale +" en "+ keys(null, transpo));
+  };
 };
 
 function update(){
