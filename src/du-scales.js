@@ -101,7 +101,7 @@ function transpose(d,i) {
 };
 
 function newTitle() {
-  title.text("Gamme "+ currScale +" en "+ keys(null, transpo));
+  title.text(currScale +" en "+ keys(null, transpo));
 };
 
 function update(){

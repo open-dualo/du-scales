@@ -62,7 +62,7 @@ function isToExclude(category, combination) {
 function applyExclusions(category, combinations) {
   var result = [];
   for (var e of combinations) {
-    if (!isToExclude(category, e) && !e.some(function(value){return value == 13})) {
+    if (!isToExclude(category, e) /*&& !e.some(function(value){return value == 13})*/) {
       result.push(e);
     };
   };
@@ -86,9 +86,10 @@ function tryExclusion(combinations, interval) {
 function getCombinations(category, scaleArr) {
   var result = allCombinations(category, scaleArr);
   result = applyExclusions(category, result);
+  result = tryExclusion(result, 6);
   result = tryExclusion(result, 5);
   result = tryExclusion(result, 2);
-  //result = tryExclusion(result, 1);
+  /*result = tryExclusion(result, 1);*/
   return result;
 };
 

@@ -9,7 +9,7 @@
       [0,1,1,0,1],
       [0,0,1,0,1]
     ],
-    "exclusions":[2,8,10,11]
+    "exclusions":[8,11]
   },
   "6 notes":{
     "variations":[
@@ -24,7 +24,7 @@
       [0,1,1,0,1,0],
       [0,0,1,0,1,0]
     ],
-    "exclusions":[8,9,11]
+    "exclusions":[8,11]
   },
   "7 notes":{
     "variations":[

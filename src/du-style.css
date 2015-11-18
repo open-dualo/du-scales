@@ -64,9 +64,9 @@ nav {
   padding: 0 5%;
 }
 .svg-container svg {
-  max-height: 100%;
-  max-width: 95vh;
-  min-height: 50vh;
+  max-height: 80vmin;
+  max-width: 80vmin;
+  min-height: 50vmin;
   width: 100%;
   overflow: hidden;
 }
@@ -81,10 +81,7 @@ nav {
   nav {
     width: auto;
     order: 1;
-    min-height: 100vw;
-  }
-  .content {
-    min-height: 100vw;
+    flex: 1;
   }
 }
 
@@ -122,6 +119,9 @@ h1 span {
 }
 .content h2 {
   font-size: 3vw;
+  color: #444;
+  font-style: italic;
+  margin: .5em 0;
 }
 section {
   color: black;
@@ -169,9 +169,7 @@ footer a:hover {
 .notation {
   font-size: .4em;
   text-anchor: middle;
-}
-.gkeyboard {
-  -webkit-filter: drop-shadow(5px 5px 2px black); 
+  fill: #444;
 }
 
 nav {
