@@ -4,8 +4,8 @@ var navig = d3.select("#navigation"),
     title = content.select("h2");
     
 var notes = "usual",
-    category = "5 notes",
-    currScale = "Chinoise (première forme)";
+    category = "",
+    currScale = "";
     
 var variation = 0, 
     transpo = 1;
@@ -83,6 +83,9 @@ function range(i) {
 };
     
 function lighten(d,i) {
+  if (category == "") {
+    return "url(#unlighten)";
+  };
   var sc = data.scales[category][currScale].variations[variation];
   return (range(i) == 0)
     ? "url(#prime)"
@@ -101,7 +104,10 @@ function transpose(d,i) {
 };
 
 function newTitle() {
-  title.text(currScale +" en "+ keys(null, transpo));
+  var title_text = (category == "")
+    ? "Choisissez une gamme..."
+    : currScale +" en "+ keys(null, transpo)
+  title.text(title_text);
 };
 
 function update(){
