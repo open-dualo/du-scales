@@ -199,24 +199,6 @@ var data = {
           ]
         ]
       },
-      "Pentatonique locrien (deuxième forme)": {
-        "intervals": [
-          "T",
-          "2m",
-          "3m",
-          "5°",
-          "6m"
-        ],
-        "variations": [
-          [
-            0,
-            13,
-            3,
-            6,
-            20
-          ]
-        ]
-      },
       "Pentatonique locrien (première forme)": {
         "intervals": [
           "T",
@@ -232,6 +214,24 @@ var data = {
             15,
             6,
             8
+          ]
+        ]
+      },
+      "Pentatonique locrien (deuxième forme)": {
+        "intervals": [
+          "T",
+          "2m",
+          "3m",
+          "5°",
+          "6m"
+        ],
+        "variations": [
+          [
+            0,
+            13,
+            3,
+            6,
+            20
           ]
         ]
       },
@@ -670,34 +670,6 @@ var data = {
           ]
         ]
       },
-      "Majeur blues (deuxième forme)": {
-        "intervals": [
-          "T",
-          "3m",
-          "4",
-          "4+",
-          "5",
-          "6"
-        ],
-        "variations": [
-          [
-            0,
-            3,
-            17,
-            18,
-            7,
-            21
-          ],
-          [
-            0,
-            3,
-            17,
-            6,
-            7,
-            21
-          ]
-        ]
-      },
       "Majeur blues (première forme)": {
         "intervals": [
           "T",
@@ -727,23 +699,31 @@ var data = {
           ]
         ]
       },
-      "Mineur blues (deuxième forme)": {
+      "Majeur blues (deuxième forme)": {
         "intervals": [
           "T",
           "3m",
+          "4",
           "4+",
-          "6m",
-          "6",
-          "7m"
+          "5",
+          "6"
         ],
         "variations": [
           [
             0,
             3,
+            17,
             18,
-            8,
-            9,
-            22
+            7,
+            21
+          ],
+          [
+            0,
+            3,
+            17,
+            6,
+            7,
+            21
           ]
         ]
       },
@@ -763,6 +743,26 @@ var data = {
             17,
             18,
             7,
+            22
+          ]
+        ]
+      },
+      "Mineur blues (deuxième forme)": {
+        "intervals": [
+          "T",
+          "3m",
+          "4+",
+          "6m",
+          "6",
+          "7m"
+        ],
+        "variations": [
+          [
+            0,
+            3,
+            18,
+            8,
+            9,
             22
           ]
         ]
@@ -1587,28 +1587,6 @@ var data = {
           ]
         ]
       },
-      "Orientale (deuxième forme)": {
-        "intervals": [
-          "T",
-          "2m",
-          "3",
-          "4",
-          "5°",
-          "6m",
-          "7°"
-        ],
-        "variations": [
-          [
-            0,
-            13,
-            4,
-            17,
-            6,
-            20,
-            9
-          ]
-        ]
-      },
       "Orientale (première forme)": {
         "intervals": [
           "T",
@@ -1631,6 +1609,28 @@ var data = {
           ]
         ]
       },
+      "Orientale (deuxième forme)": {
+        "intervals": [
+          "T",
+          "2m",
+          "3",
+          "4",
+          "5°",
+          "6m",
+          "7°"
+        ],
+        "variations": [
+          [
+            0,
+            13,
+            4,
+            17,
+            6,
+            20,
+            9
+          ]
+        ]
+      },
       "Orientale (troisième forme)": {
         "intervals": [
           "T",
@@ -1650,6 +1650,37 @@ var data = {
             8,
             21,
             11
+          ]
+        ]
+      },
+      "Persane (première forme)": {
+        "intervals": [
+          "T",
+          "2m",
+          "3",
+          "4",
+          "4+",
+          "5",
+          "7m"
+        ],
+        "variations": [
+          [
+            0,
+            13,
+            16,
+            5,
+            6,
+            19,
+            10
+          ],
+          [
+            0,
+            13,
+            4,
+            5,
+            18,
+            19,
+            10
           ]
         ]
       },
@@ -1699,37 +1730,6 @@ var data = {
             18,
             8,
             23
-          ]
-        ]
-      },
-      "Persane (première forme)": {
-        "intervals": [
-          "T",
-          "2m",
-          "3",
-          "4",
-          "4+",
-          "5",
-          "7m"
-        ],
-        "variations": [
-          [
-            0,
-            13,
-            16,
-            5,
-            6,
-            19,
-            10
-          ],
-          [
-            0,
-            13,
-            4,
-            5,
-            18,
-            19,
-            10
           ]
         ]
       },
