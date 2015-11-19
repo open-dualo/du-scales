@@ -50,9 +50,7 @@ L'objectif est donc de trouver un algorithme permettant de trouver, pour chaque 
 * CSS3
 * SVG
 * JSON
-* JS
-
-Et je me penche sur la très intéressante librairie [D3.js](http://d3js.org/) !
+* JS + [D3.js](http://d3js.org/)
 
 ---
 
