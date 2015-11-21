@@ -14,7 +14,10 @@ Et c'est tout pour le moment. ;)
 
 Le nouvel algorithme est basé sur une découverte que j'ai faite récemment, après des recherches géométriques appliquées sur la disposition des touches du clavier du-touch, sur AutoCAD :
 
-![](http://image.noelshack.com/fichiers/2015/47/1448136516-dualo-clavier-explication-codage7.png)
+![](http://image.noelshack.com/fichiers/2015/47/1448136516-dualo-clavier-explication-codage7.png)  
+  
+Son utilisation :  
+![](http://image.noelshack.com/fichiers/2015/47/1448137758-correspondance.png)
 
 Je ferais peut-être une démonstration plus tard, pour expliquer le raisonnement derrière, sans quoi l'image est indescriptible.  
 
