@@ -6,7 +6,6 @@ var fs = require('fs');
 
 var scales = JSON.parse(fs.readFileSync('scales.json', 'utf8'));
 var codage = JSON.parse(fs.readFileSync('codage.json', 'utf8'));
-var combin = JSON.parse(fs.readFileSync('combin.json', 'utf8'));
 
 /* init data */
 
@@ -24,17 +23,6 @@ function codeIntervals(scaleArr) {
   });
 };
 
-/* scale combination */
-
-function allCombinations(category, scaleArr) {
-  var code = codeIntervals(scaleArr);
-  return combin[category].variations.map(function(row) {
-    return row.map(function(value, index) {
-      return code[index] + value * 12;
-    });
-  });
-};
-
 /* get intervals between values */
 
 function getIntervals(arr) {
@@ -47,67 +35,7 @@ function getIntervals(arr) {
   return result;
 };
 
-/* match exclusions */
-
-function isToExclude(category, combination) {
-  return getIntervals(combination).some(function(el) {
-    return combin[category].exclusions.some(function(ex) {
-      return el == ex;
-    });
-  });
-};
-
-/* apply exclusions */
-
-function applyExclusions(category, combinations) {
-  var result = [];
-  for (var e of combinations) {
-    if (!isToExclude(category, e) /*&& !e.some(function(value){return value == 13})*/) {
-      result.push(e);
-    };
-  };
-  return result;
-};
-
-/* try exclusion for a specific interval */
-
-function tryExclusion(combinations, interval) {
-  var result = [];
-  for (var e of combinations) {
-    if (!getIntervals(e).some(function(value){return value == interval})) {
-      result.push(e);
-    };
-  };
-  return result.length > 0 ? result : combinations;
-};
-
-/* get final combinations */
-
-function getCombinations(category, scaleArr) {
-  var result = allCombinations(category, scaleArr);
-  result = applyExclusions(category, result);
-  result = tryExclusion(result, 6);
-  result = tryExclusion(result, 5);
-  result = tryExclusion(result, 2);
-  /*result = tryExclusion(result, 1);*/
-  return result;
-};
-
-/* add combinations to data */
-
-function addCombinationsToData2() {
-  for (var category in data.scales) {
-    for (var scale in data.scales[category]) {
-      var arr = data.scales[category][scale].slice(0);
-      var combinations = getCombinations(category, arr);
-      console.log(combinations.length + " combinations for " + scale + " (" + category + ")");
-      data.scales[category][scale] = {
-        intervals:  arr,
-        variations: combinations
-      };
-    };
-  };
-};
+/* get balance factor between right and left keyboard */
 
 function balance(code) {
   var length = code.length;
@@ -120,9 +48,13 @@ function balance(code) {
   return Math.abs(0.5 - (length - odd - 1)/(length-1));
 };
 
+/* match depreciated intervals */
+
 function balance2(code) {
   return getIntervals(code).some(function(value){return value===1});
 };
+
+/* add combinations to data */
 
 function addCombinationsToData() {
   for (var category in data.scales) {
