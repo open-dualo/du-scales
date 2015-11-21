@@ -25,15 +25,15 @@ Pour la suite, ce sera :
 - Ajouter une option "papier" pour basculer dans un affichage propice à l'impression (fond blanc, contours noirs), avec éventuellement un bouton pour une sortie PDF ou impression directe.
 - Ajouter la notation en tétrades du fameux principe Dualo.
 Des surprises, et peut-être... vos idées ?  
-
-
-
+  
+  
+  
 ---
 ---
-
-
-
-## Présentation
+  
+  
+  
+# Présentation
 
 Je suis [musicien](https://soundcloud.com/dualo-joke)/[graphiste](http://joke-biloumaster.deviantart.com/gallery/)/[dev](https://github.com/RMEx) à mes heures perdues, et voici un petit projet potentiellement très cool.
 
