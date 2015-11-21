@@ -8,8 +8,6 @@ Nouvelle version de l'application du-scales, avec :
   
 http://open-dualo.github.io/du-scales/  
   
-Et c'est tout pour le moment. ;) 
-  
 ![](http://i.giphy.com/xTiTnE7sVnqaatVqlW.gif)  
 
 Son utilisation :  
