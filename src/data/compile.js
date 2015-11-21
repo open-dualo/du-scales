@@ -95,7 +95,7 @@ function getCombinations(category, scaleArr) {
 
 /* add combinations to data */
 
-function addCombinationsToData() {
+function addCombinationsToData2() {
   for (var category in data.scales) {
     for (var scale in data.scales[category]) {
       var arr = data.scales[category][scale].slice(0);
@@ -104,6 +104,55 @@ function addCombinationsToData() {
       data.scales[category][scale] = {
         intervals:  arr,
         variations: combinations
+      };
+    };
+  };
+};
+
+function balance(code) {
+  var length = code.length;
+  var odd = 0;
+  for (var value of code) {
+    if (value > 11) {
+      odd += 1;
+    };
+  };
+  return Math.abs(0.5 - (length - odd - 1)/(length-1));
+};
+
+function balance2(code) {
+  return getIntervals(code).some(function(value){return value===1});
+};
+
+function addCombinationsToData() {
+  for (var category in data.scales) {
+    for (var scale in data.scales[category]) {
+      var arr = data.scales[category][scale].slice(0);
+      var code = codeIntervals(arr);
+      var magic = [
+        [0,13,14,3,4,17,6,7,20,21,10,11,24],
+        [0,13,14,3,4,17,18,7,20,21,10,11,24]
+      ];
+      var nb_result = code.some(function(i){return i === 6}) ? 2 : 1;
+      var result = (nb_result === 2) ? [[],[]] : [[]];
+      for (var interval of code) {
+        result[0].push(magic[0][interval]);
+        if (nb_result === 2) {
+          result[1].push(magic[1][interval]);
+        };
+      };
+      if (nb_result === 2) {
+        var b = [balance(result[0]),  balance(result[1]),
+                 balance2(result[0]), balance2(result[1])];
+        if (scale==="Hexa-lydien") {console.log(b)};
+        if (b[0] > b[1] || (b[0] === b[1] && b[2] && !b[3])) {
+          result = [result[1], result[0]];
+        };
+      };
+      console.log(result.length + " combinations for " + scale + " (" + category + ")");
+      data.scales[category][scale] = {
+        intervals:  arr,
+        variations: result
       };
     };
   };
