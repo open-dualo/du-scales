@@ -1,6 +1,39 @@
 # Du-Scales : Explorateur de gammes pour le Dualo du-touch.
 
-## Bonjour.
+## News du 21-11-2015
+
+Nouvelle version de l'application du-scales, avec :
+- Le nouveau design flat et sombre, plus fonctionnel
+- Les dessins améliorés par le nouvel algo (qui peut encore et toujours être amélioré)  
+  
+http://open-dualo.github.io/du-scales/  
+  
+Et c'est tout pour le moment. ;) 
+  
+![](http://i.giphy.com/xTiTnE7sVnqaatVqlW.gif)
+
+Le nouvel algorithme est basé sur une découverte que j'ai faite récemment, après des recherches géométriques appliquées sur la disposition des touches du clavier du-touch, sur AutoCAD :
+
+![](http://image.noelshack.com/fichiers/2015/47/1448136516-dualo-clavier-explication-codage7.png)
+
+Je ferais peut-être une démonstration plus tard, pour expliquer le raisonnement derrière, sans quoi l'image est indescriptible.  
+
+Pour la suite, ce sera :
+- Ajouter un bouton "play" pour écouter la gamme et voir comment elle se joue.
+- Ajouter un panneau "Options", pour changer la notation des notes (anglaise, italienne, allemande, etc.) et activer/désactiver le mode "autoplay", ou encore switcher entre "transposer la gamme" et "jouer note" pour le clic sur les touches.
+- Afficher un clavier piano en dessous du du-touch pour faire les correspondances.
+- Ajouter une option "papier" pour basculer dans un affichage propice à l'impression (fond blanc, contours noirs), avec éventuellement un bouton pour une sortie PDF ou impression directe.
+- Ajouter la notation en tétrades du fameux principe Dualo.
+Des surprises, et peut-être... vos idées ?  
+
+
+
+---
+---
+
+
+
+## Présentation
 
 Je suis [musicien](https://soundcloud.com/dualo-joke)/[graphiste](http://joke-biloumaster.deviantart.com/gallery/)/[dev](https://github.com/RMEx) à mes heures perdues, et voici un petit projet potentiellement très cool.
 
@@ -10,7 +43,7 @@ J'ai décidé de créer une petite application permettant de visualiser facileme
 
 ---
 
-## Nouvel instrument = Nouveau domaine de recherche musicale.
+## Nouvel instrument = Nouveau domaine de recherche musicale
 
 Le [dualo du-touch](http://dualo.org/) est un nouvel instrument, premier à présenter le [principe dualo](https://fr.wikipedia.org/wiki/Principe_dualo), du même inventeur.  
 Ayant pratiqué la guitare, le piano et l'accordéon et quelques bricoles pendant quelques dizaines années avant de passer enfin à cet instrument, je ne peux que confirmer que : Oui, cet instrument est cool.  
@@ -19,7 +52,7 @@ Mais ô loin de moi l'envie d'en faire la publicité, si vous ne connaîssez pas
 
 ---
 
-## Une problématique intéressante.
+## Une problématique intéressante
 
 Le dualo du-touch, ainsi que le principe dualo, ont l'objectif particulier de simplifier la musique, la rendre visuelle, logique, instinctive, mémotechnique.  
   
