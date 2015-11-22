@@ -1,294 +1,105 @@
-[Scales]
-(majeure)=1
-Major Scale=1,3,5,6,8,10,12
-Pentatonic Major Scale =1,3,5,8,10
-Blues Major Scale=1,4,6,7,8,10
-(mineure)=2
-Minor Scale=1,3,4,6,8,9,11
-Melodic Minor Scale=1,3,4,6,8,10,12
-Harmonic Minor Scale=1,3,4,6,8,9,12
-Pentatonic Minor Scale=1,4,6,8,11
-Blues Minor Scale=1,4,6,7,8,11
-(Scales Symétriques)=3
-Augmented Scale=1,4,5,8,9,12
-Be-Bop Scale=1,3,5,6,8,10,11,12
-Chromatic Scale=1,2,3,4,5,6,7,8,9,10,11,12
-Whole-Half Scale=1,3,4,6,7,9,10,12
-Half-Whole Scale=1,2,4,5,7,8,10,11
-Whole Tone Scale=1,3,5,7,9,11
-Augmented fifth Scale=1,3,5,6,8,9,10,12
-(Scales Exotiques)=4
-Algerian Scale=1,3,4,7,8,9,12
-Arabian Scale=1,3,5,6,7,9,11
-Balinese Scale=1,2,4,8,9
-Bartok Scale=1,3,5,7,8,10,11
-Byzantine Scale=1,2,5,6,8,9,12
-Chinese Scale=1,3,5,8,10
-Egyptian Scale=1,3,6,8,11
-Enigmatic Scale=1,2,5,7,9,11,12
-Spanish Scale=1,2,5,6,8,9,11
-Spanish 8 Tone Scale=1,2,4,5,6,7,9,11
-Ethiopian Scale=1,3,4,6,8,9,11
-Gypsy Scale=1,2,5,6,8,10,11
-Hungarian Gypsy Scale=1,3,4,7,8,9,11
-Hindu Scale=1,3,5,6,8,9,11
-Iwato Scale=1,2,6,7,11
-Japanese Scale=1,2,6,8,9
-Javanese Scale=1,2,4,6,8,10,11
-Jewish Scale=1,2,5,6,8,9,11
-Hawaiian Scale=1,3,4,6,8,10,12
-Hirajoshi Scale=1,3,4,8,9
-Hungarian Minor Scale=1,3,4,7,8,9,12
-Hungarian Major Scale=1,4,5,7,8,10,11
-Kumoi Scale=1,2,6,8,9
-Leading Whole Tone Scale=1,3,5,7,9,11,12
-Mohammedan Scale=1,3,4,6,8,9,12
-Mongolian Scale=1,3,5,8,10
-Neapolitan Minor Scale=1,2,4,6,8,9,12
-Neapolitan Major Scale=1,2,4,6,8,10,12
-Oriental Scale=1,2,5,6,7,10,11
-Overtone Scale=1,3,5,7,8,10,11
-Pelog Scale=1,2,4,8,11
-Persian Scale=1,2,5,6,7,9,12
-(Modes Majeurs)=5
-Ionian Mode=1,3,5,6,8,10,12
-Dorian Mode=1,3,4,6,8,10,11
-Phrygian Mode=1,2,4,6,8,9,11
-Lydian Mode=1,3,5,7,8,10,12
-Mixolydian Mode=1,3,5,6,8,10,11
-Aeolian Mode=1,3,4,6,8,9,11
-Locrian Mode=1,2,4,6,7,9,11
-(Modes Mineurs)=6
-Ionian Harmonic Mode=1,3,4,6,8,9,12
-Locrian Nat 6 Mode=1,2,4,6,7,10,11
-Major Sharp 5 Mode=1,3,5,6,9,10,12
-Dorian Sharp 4 Mode=1,3,4,7,8,10,11
-Phrygian Major Mode=1,2,5,6,8,9,11
-Lydian Sharp 2 mode=1,4,5,7,8,10,12
-Superlocrian Double Flat 7 Mode=1,2,4,5,7,9,10
-Jazz Minor Mode=1,3,4,6,8,10,12
-Dorian b2 Minor Mode=1,2,4,6,8,10,12
-Lydian Augmented Minor Mode=1,3,5,7,9,10,12
-Lydian Flat 7 Minor Mode=1,3,5,7,8,10,11
-Mixolydian Flat 6 Minor Mode=1,3,5,6,8,9,11
-Locrian Sharp 2 Minor Mode=1,3,4,6,7,9,11
-Superlocrian Minor Mode=1,2,4,5,7,9,11
-(Modes Pentatoniques)=7
-Pentatonic Majeur Mode=1,3,5,8,10
-Pentatonic Mode 2=1,3,6,8,11
-Pentatonic Mode 3=1,4,6,9,11
-Pentatonic Mode 4=1,3,6,8,10
-Pentatonic Dominant Mode=1,3,5,8,11
-Pentatonic Minor Mode=1,4,6,8,11
-Altered Pentatonic Mode=1,2,5,8,10
-Blues Mode=1,4,6,7,8,10
-(Arpèges)=1
-Major Arpeggio=1,5,8
-Minor Arpeggio=1,4,8
-Major 7th Major Arpeggio=1,5,8,12
-Major 7th Minor Arpeggio=1,5,8,11
-Minor 7th Major Arpeggio=1,4,8,12
-Minor 7th Minor Arpeggio=1,4,8,11
-Major 9th Arpeggio=1,3,5,8,11
-Minor 9th Arpeggio=1,3,4,8,11
-Major 11th Arpeggio=1,3,5,6,8,11
-Minor 11th Arpeggio=1,3,4,6,8,11
-Major 13th Arpeggio=1,3,5,6,8,10,11
-Minor 13th Arpeggio=1,3,4,6,8,10,11
-Augmented Arpeggio=1,5,9
-Diminished Arpeggio=1,4,7,10
-[Francais]
-(majeure)=1
-Gamme Majeure=1,3,5,6,8,10,12
-Gamme Pentatonique Majeure=1,3,5,8,10
-Gamme Blues Majeure=1,4,6,7,8,10
-(mineure)=2
-Gamme Mineure Naturelle=1,3,4,6,8,9,11
-Gamme Mineure Mélodique=1,3,4,6,8,10,12
-Gamme Mineure Harmonique=1,3,4,6,8,9,12
-Gamme Pentatonique Mineure=1,4,6,8,11
-Gamme Blues Mineure=1,4,6,7,8,11
-(Gammes Symétriques)=3
-Gamme Augmentée=1,4,5,8,9,12
-Gamme Be-Bop=1,3,5,6,8,10,11,12
-Gamme Chromatique=1,2,3,4,5,6,7,8,9,10,11,12
-Gamme Diminuée 1=1,3,4,6,7,9,10,12
-Gamme Diminuée 2=1,2,4,5,7,8,10,11
-Gamme Ton Par Ton=1,3,5,7,9,11
-Gamme Quinte Augmentée=1,3,5,6,8,9,10,12
-(Gammes Exotiques)=4
-Gamme Algérienne=1,3,4,7,8,9,12
-Gamme Arabe=1,3,5,6,7,9,11
-Gamme Balinoise=1,2,4,8,9
-Gamme Bartok=1,3,5,7,8,10,11
-Gamme Byzantine=1,2,5,6,8,9,12
-Gamme Chinoise=1,3,5,8,10
-Gamme Egyptienne=1,3,6,8,11
-Gamme Enigmatique=1,2,5,7,9,11,12
-Gamme Espagnole=1,2,5,6,8,9,11
-Gamme Espagnole 8 tons=1,2,4,5,6,7,9,11
-Gamme Ethiopienne=1,3,4,6,8,9,11
-Gamme Gitane=1,2,5,6,8,10,11
-Gamme Hongroise Gitane=1,3,4,7,8,9,11
-Gamme Indienne=1,3,5,6,8,9,11
-Gamme Iwato=1,2,6,7,11
-Gamme Japonnaise=1,2,6,8,9
-Gamme Javanaise=1,2,4,6,8,10,11
-Gamme Juive=1,2,5,6,8,9,11
-Gamme Hawaïenne=1,3,4,6,8,10,12
-Gamme Hirajoshi=1,3,4,8,9
-Gamme Hongroise Mineure=1,3,4,7,8,9,12
-Gamme Hongroise Majeure=1,4,5,7,8,10,11
-Gamme Kumoi=1,2,6,8,9
-Gamme Mongole=1,3,5,8,10
-Gamme Napolitaine Mineure=1,2,4,6,8,9,12
-Gamme Napolitaine Majeure=1,2,4,6,8,10,12
-Gamme Orientale=1,2,5,6,7,10,11
-Gamme Pelog=1,2,4,8,11
-Gamme Persienne=1,2,5,6,7,9,12
-(Modes Majeurs)=5
-Mode Ionien=1,3,5,6,8,10,12
-Mode Dorien=1,3,4,6,8,10,11
-Mode Phrygien=1,2,4,6,8,9,11
-Mode Lydien=1,3,5,7,8,10,12
-Mode Mixolydien=1,3,5,6,8,10,11
-Mode Aéolien=1,3,4,6,8,9,11
-Mode Locrien=1,2,4,6,7,9,11
-(Modes Mineurs)=6
-Mode Harmonique Ionien=1,3,4,6,8,9,12
-Mode Harmonique Dorien=1,2,4,6,7,10,11
-Mode Harmonique Phrygien=1,3,5,6,9,10,12
-Mode Harmonique Lydien=1,3,4,7,8,10,11
-Mode Harmonique Mixolydien=1,2,5,6,8,9,11
-Mode Harmonique Aéolien=1,4,5,7,8,10,12
-Mode Harmonique Locrien=1,2,4,5,7,9,10
-Mode Mélodique Ionien=1,3,4,6,8,10,12
-Mode Mélodique Dorien=1,2,4,6,8,10,12
-Mode Mélodique Lydien augmenté=1,3,5,7,9,10,12
-Mode Mélodique Lydien=1,3,5,7,8,10,11
-Mode Mélodique Mixolydien=1,3,5,6,8,9,11
-Mode Mélodique Locrien=1,3,4,6,7,9,11
-Mode Mélodique Superlocrien=1,2,4,5,7,9,11
-(Modes Pentatoniques)=7
-Mode Majeur=1,3,5,8,10
-Mode 2=1,3,6,8,11
-Mode 3=1,4,6,9,11
-Mode 4=1,3,6,8,10
-Mode Dominante Pentatonique=1,3,5,8,11
-Mode Mineur=1,4,6,8,11
-Mode Pentatonique Altéré=1,2,5,8,10
-Mode Blues=1,4,6,7,8,10
-(Arpèges)=1
-Arpège Majeur=1,5,8
-Arpège Mineur=1,4,8
-Arpège Majeur Septième Majeure=1,5,8,12
-Arpège Majeur Septième Mineure=1,5,8,11
-Arpège Mineur Septième Majeure=1,4,8,12
-Arpège Mineur Septième Majeure=1,4,8,11
-Arpège Majeur Neuvième=1,3,5,8,11
-Arpège Mineur Neuvième=1,3,4,8,11
-Arpège Majeur Onzième=1,3,5,6,8,11
-Arpège Mineur Onzième=1,3,4,6,8,11
-Arpège Majeur Treizième=1,3,5,6,8,10,11
-Arpège Mineur Treizième=1,3,4,6,8,10,11
-Arpège Augmenté=1,5,9
-Arpège Diminué=1,4,7,10
-[Deutsch]
-(majeure)=1
-Dur-Tonleiter=1,3,5,6,8,10,12
-Pentatonik [Dur]=1,3,5,8,10
-Voodoo Blues [Dur]=1,4,6,7,8,10
-(mineure)=2
-natürliches Moll=1,3,4,6,8,10,12
-harmonisches Moll=1,3,4,6,8,9,12
-melodisches Moll=1,3,4,6,8,9,11
-Pentatonik [Moll]=1,4,6,8,11
-Blues [Moll]=1,4,6,7,8,11
-(Scales Symétriques)=3
-Erweiterete Skala=1,4,5,8,9,12
-Be-Bop Tonleiter=1,3,5,6,8,10,11,12
-Chromatische Tonleiter=1,2,3,4,5,6,7,8,9,10,11,12
-Ganzton / Halbton Skala=1,3,4,6,7,9,10,12
-Halbton / Ganzton Skala=1,2,4,5,7,8,10,11
-Ganzton Tonleiter=1,3,5,7,9,11
-Erweiterte-Fünf Skala=1,3,5,6,8,9,10,12
-(Scales Exotiques)=4
-Algerian Tonleiter=1,3,4,7,8,9,12
-Arabische Tonleiter=1,3,5,6,7,9,11
-Balinesische Tonleiter=1,2,4,8,9
-Bartok Skala=1,3,5,7,8,10,11
-Byzantinische Tonleiter=1,2,5,6,8,9,12
-Chinesische Tonleiter=1,3,5,8,10
-Egyptische Tonleiter=1,3,6,8,11
-Enigmatic Skala=1,2,5,7,9,11,12
-Spanische Tonleiter=1,2,5,6,8,9,11
-Spanische 8-Ton Tonleiter=1,2,4,5,6,7,9,11
-Ethiopianische Skala=1,3,4,6,8,9,11
-Zigeuner-Dur-Tonleiter=1,2,5,6,8,10,11
-Zigeuner-Moll-Tonleiter=1,3,4,7,8,9,11
-Hindu Tonleiter=1,3,5,6,8,9,11
-Iwato Tonleiter=1,2,6,7,11
-Japanische Tonleiter=1,2,6,8,9
-Javanesische Tonleiter=1,2,4,6,8,10,11
-Jüdische Tonleiter=1,2,5,6,8,9,11
-Hawaiianische Tonleiter=1,3,4,6,8,10,12
-Hirajoshi Tonleiter=1,3,4,8,9
-Hungarische Moll Tonleiter=1,3,4,7,8,9,12
-Hungarische Dur Tonleiter=1,4,5,7,8,10,11
-Kumoi Tonleiter=1,2,6,8,9
-Führende Ganzton Skala=1,3,5,7,9,11,12
-Mohammedanische Tonleiter=1,3,4,6,8,9,12
-Mongolianische Tonleiter=1,3,5,8,10
-Neapolitan Moll Tonleiter=1,2,4,6,8,9,12
-Neapolitan Dur Tonleiter=1,2,4,6,8,10,12
-Orientalische Tonleiter=1,2,5,6,7,10,11
-Overtone Skala=1,3,5,7,8,10,11
-Pelog Tonleiter=1,2,4,8,11
-Persische Tonleiter=1,2,5,6,7,9,12
-(Modes Majeurs)=5
-Modus 1 / Ionisch [Dur]=1,3,5,6,8,10,12
-Modus 2 / Dorisch=1,3,4,6,8,10,11
-Modus 3 / Phrygisch=1,2,4,6,8,9,11
-Modus 4 / Lydisch=1,3,5,7,8,10,12
-Modus 5 / Mixolydisch=1,3,5,6,8,10,11
-Modus 6 / Aeolisch [Moll]=1,3,4,6,8,9,11
-Modus 7 / Lokrisch=1,2,4,6,7,9,11
-(Modes Mineurs)=6
-Ionisch Harmonischer Modus=1,3,4,6,8,9,12
-Lokrisch Nat 6 Modus=1,2,4,6,7,10,11
-Dur Sharp 5 Moduss=1,3,5,6,9,10,12
-Dorisch Sharp 4 Modus=1,3,4,7,8,10,11
-Phrygisch Dur Modus=1,2,5,6,8,9,11
-Lydisch Sharp 2 Modus=1,4,5,7,8,10,12
-Superlokrisch Double Flat 7 Mode=1,2,4,5,7,9,10
-Jazz Moll Skala=1,3,4,6,8,10,12
-Dorian b2 Moll Modus=1,2,4,6,8,10,12
-Lydian Augmented Moll Mode=1,3,5,7,9,10,12
-Lydian Flat 7 Moll Mode=1,3,5,7,8,10,11
-Mixolydian Flat 6 Moll Mode=1,3,5,6,8,9,11
-Lokrisch Sharp 2 Moll Mode=1,3,4,6,7,9,11
-Superlokrisch Moll Mode=1,2,4,5,7,9,11
-(Modes Pentatoniques)=7
-Pentatonischer Dur Modus=1,3,5,8,10
-Pentatonischer Modus 2=1,3,6,8,11
-Pentatonischer Modus 3=1,4,6,9,11
-Pentatonischer Modus 4=1,3,6,8,10
-Pentatonischer Dominant Modus=1,3,5,8,11
-Pentatonischer Moll Modus=1,4,6,8,11
-Alterierter Pentatonischer Modus=1,2,5,8,10
-Blues Modus=1,4,6,7,8,10
-(Arpèges)=1
-Dur Arpeggio=1,5,8
-Moll Arpeggio=1,4,8
-Dur 7. Dur Arpeggio=1,5,8,12
-Dur 7. Moll Arpeggio=1,5,8,11
-Moll 7. Dur Arpeggio=1,4,8,12
-Moll 7. Moll Arpeggio=1,4,8,11
-Dur 9. Arpeggio=1,3,5,8,11
-Moll 9. Arpeggio=1,3,4,8,11
-Dur 11. Arpeggio=1,3,5,6,8,11
-Moll 11. Arpeggio=1,3,4,6,8,11
-Dur 13. Arpeggio=1,3,5,6,8,10,11
-Moll 13. Arpeggio=1,3,4,6,8,10,11
-Erweitertes Arpeggio=1,5,9
-Vermindertes Arpeggio=1,4,7,10
+{
+  "Gammes Majeure": {  
+    "Gamme Pentatonique Majeure": [1,3,5,8,10],
+    "Gamme Blues Majeure": [1,4,6,7,8,10],
+    "Gamme Majeure": [1,3,5,6,8,10,12]
+  },
+  "Gammes Mineure": {
+    "Gamme Mineure Naturelle": [1,3,4,6,8,9,11],
+    "Gamme Mineure Mélodique": [1,3,4,6,8,10,12],
+    "Gamme Mineure Harmonique": [1,3,4,6,8,9,12],
+    "Gamme Pentatonique Mineure": [1,4,6,8,11],
+    "Gamme Blues Mineure": [1,4,6,7,8,11]
+  },
+  "Gammes Symétriques": {
+    "Gamme Augmentée": [1,4,5,8,9,12],
+    "Gamme Be-Bop": [1,3,5,6,8,10,11,12],
+    "Gamme Chromatique": [1,2,3,4,5,6,7,8,9,10,11,12],
+    "Gamme Diminuée 1": [1,3,4,6,7,9,10,12],
+    "Gamme Diminuée 2": [1,2,4,5,7,8,10,11],
+    "Gamme Ton Par Ton": [1,3,5,7,9,11],
+    "Gamme Quinte Augmentée": [1,3,5,6,8,9,10,12]
+  },
+  "Gammes Exotiques": {
+    "Gamme Algérienne": [1,3,4,7,8,9,12],
+    "Gamme Arabe": [1,3,5,6,7,9,11],
+    "Gamme Balinoise": [1,2,4,8,9],
+    "Gamme Bartok": [1,3,5,7,8,10,11],
+    "Gamme Byzantine": [1,2,5,6,8,9,12],
+    "Gamme Chinoise": [1,3,5,8,10],
+    "Gamme Egyptienne": [1,3,6,8,11],
+    "Gamme Enigmatique": [1,2,5,7,9,11,12],
+    "Gamme Espagnole": [1,2,5,6,8,9,11],
+    "Gamme Espagnole 8 tons": [1,2,4,5,6,7,9,11],
+    "Gamme Ethiopienne": [1,3,4,6,8,9,11],
+    "Gamme Gitane": [1,2,5,6,8,10,11],
+    "Gamme Hongroise Gitane": [1,3,4,7,8,9,11],
+    "Gamme Indienne": [1,3,5,6,8,9,11],
+    "Gamme Iwato": [1,2,6,7,11],
+    "Gamme Japonnaise": [1,2,6,8,9],
+    "Gamme Javanaise": [1,2,4,6,8,10,11],
+    "Gamme Juive": [1,2,5,6,8,9,11],
+    "Gamme Hawaïenne": [1,3,4,6,8,10,12],
+    "Gamme Hirajoshi": [1,3,4,8,9],
+    "Gamme Hongroise Mineure": [1,3,4,7,8,9,12],
+    "Gamme Hongroise Majeure": [1,4,5,7,8,10,11],
+    "Gamme Kumoi": [1,2,6,8,9],
+    "Gamme Mongole": [1,3,5,8,10],
+    "Gamme Napolitaine Mineure": [1,2,4,6,8,9,12],
+    "Gamme Napolitaine Majeure": [1,2,4,6,8,10,12],
+    "Gamme Orientale": [1,2,5,6,7,10,11],
+    "Gamme Pelog": [1,2,4,8,11],
+    "Gamme Persienne": [1,2,5,6,7,9,12]
+  },
+  "Modes Majeurs": {
+    "Mode Ionien": [1,3,5,6,8,10,12],
+    "Mode Dorien": [1,3,4,6,8,10,11],
+    "Mode Phrygien": [1,2,4,6,8,9,11],
+    "Mode Lydien": [1,3,5,7,8,10,12],
+    "Mode Mixolydien": [1,3,5,6,8,10,11],
+    "Mode Aéolien": [1,3,4,6,8,9,11],
+    "Mode Locrien": [1,2,4,6,7,9,11]
+  },
+  "Modes Mineurs": {
+    "Mode Harmonique Ionien": [1,3,4,6,8,9,12],
+    "Mode Harmonique Dorien": [1,2,4,6,7,10,11],
+    "Mode Harmonique Phrygien": [1,3,5,6,9,10,12],
+    "Mode Harmonique Lydien": [1,3,4,7,8,10,11],
+    "Mode Harmonique Mixolydien": [1,2,5,6,8,9,11],
+    "Mode Harmonique Aéolien": [1,4,5,7,8,10,12],
+    "Mode Harmonique Locrien": [1,2,4,5,7,9,10],
+    "Mode Mélodique Ionien": [1,3,4,6,8,10,12],
+    "Mode Mélodique Dorien": [1,2,4,6,8,10,12],
+    "Mode Mélodique Lydien augmenté": [1,3,5,7,9,10,12],
+    "Mode Mélodique Lydien": [1,3,5,7,8,10,11],
+    "Mode Mélodique Mixolydien": [1,3,5,6,8,9,11],
+    "Mode Mélodique Locrien": [1,3,4,6,7,9,11],
+    "Mode Mélodique Superlocrien": [1,2,4,5,7,9,11]
+  },
+  "Modes Pentatoniques": {
+    "Mode Majeur": [1,3,5,8,10],
+    "Mode 2": [1,3,6,8,11],
+    "Mode 3": [1,4,6,9,11],
+    "Mode 4": [1,3,6,8,10],
+    "Mode Dominante Pentatonique": [1,3,5,8,11],
+    "Mode Mineur": [1,4,6,8,11],
+    "Mode Pentatonique Altéré": [1,2,5,8,10],
+    "Mode Blues": [1,4,6,7,8,10]
+  },
+  "Arpèges": {
+    "Arpège Majeur": [1,5,8],
+    "Arpège Mineur": [1,4,8],
+    "Arpège Majeur Septième Majeure": [1,5,8,12],
+    "Arpège Majeur Septième Mineure": [1,5,8,11],
+    "Arpège Mineur Septième Majeure": [1,4,8,12],
+    "Arpège Mineur Septième Majeure (2)": [1,4,8,11],
+    "Arpège Majeur Neuvième": [1,3,5,8,11],
+    "Arpège Mineur Neuvième": [1,3,4,8,11],
+    "Arpège Majeur Onzième": [1,3,5,6,8,11],
+    "Arpège Mineur Onzième": [1,3,4,6,8,11],
+    "Arpège Majeur Treizième": [1,3,5,6,8,10,11],
+    "Arpège Mineur Treizième": [1,3,4,6,8,10,11],
+    "Arpège Augmenté": [1,5,9],
+    "Arpège Diminué": [1,4,7,10]
+  }
+}

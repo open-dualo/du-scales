@@ -1,7 +1,7 @@
 var data = {
   "scales": {
     "Gammes Majeure": {
-      "Gamme Pentatonique Majeure": {
+      "Pentatonique Majeure": {
         "intervals": [
           1,
           3,
@@ -19,7 +19,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Blues Majeure": {
+      "Blues Majeure": {
         "intervals": [
           1,
           4,
@@ -47,7 +47,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Majeure": {
+      "Majeure": {
         "intervals": [
           1,
           3,
@@ -71,7 +71,7 @@ var data = {
       }
     },
     "Gammes Mineure": {
-      "Gamme Mineure Naturelle": {
+      "Mineure Naturelle": {
         "intervals": [
           1,
           3,
@@ -93,7 +93,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Mineure Mélodique": {
+      "Mineure Mélodique": {
         "intervals": [
           1,
           3,
@@ -115,7 +115,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Mineure Harmonique": {
+      "Mineure Harmonique": {
         "intervals": [
           1,
           3,
@@ -137,7 +137,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Pentatonique Mineure": {
+      "Pentatonique Mineure": {
         "intervals": [
           1,
           4,
@@ -155,7 +155,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Blues Mineure": {
+      "Blues Mineure": {
         "intervals": [
           1,
           4,
@@ -185,7 +185,7 @@ var data = {
       }
     },
     "Gammes Symétriques": {
-      "Gamme Augmentée": {
+      "Augmentée": {
         "intervals": [
           1,
           4,
@@ -205,7 +205,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Be-Bop": {
+      "Be-Bop": {
         "intervals": [
           1,
           3,
@@ -229,7 +229,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Chromatique": {
+      "Chromatique": {
         "intervals": [
           1,
           2,
@@ -275,7 +275,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Diminuée 1": {
+      "Diminuée 1": {
         "intervals": [
           1,
           3,
@@ -309,7 +309,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Diminuée 2": {
+      "Diminuée 2": {
         "intervals": [
           1,
           2,
@@ -343,7 +343,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Ton Par Ton": {
+      "Ton Par Ton": {
         "intervals": [
           1,
           3,
@@ -371,7 +371,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Quinte Augmentée": {
+      "Quinte Augmentée": {
         "intervals": [
           1,
           3,
@@ -397,7 +397,7 @@ var data = {
       }
     },
     "Gammes Exotiques": {
-      "Gamme Algérienne": {
+      "Algérienne": {
         "intervals": [
           1,
           3,
@@ -428,7 +428,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Arabe": {
+      "Arabe": {
         "intervals": [
           1,
           3,
@@ -459,7 +459,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Balinoise": {
+      "Balinoise": {
         "intervals": [
           1,
           2,
@@ -477,7 +477,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Bartok": {
+      "Bartok": {
         "intervals": [
           1,
           3,
@@ -508,7 +508,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Byzantine": {
+      "Byzantine": {
         "intervals": [
           1,
           2,
@@ -530,7 +530,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Chinoise": {
+      "Chinoise": {
         "intervals": [
           1,
           3,
@@ -548,7 +548,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Egyptienne": {
+      "Egyptienne": {
         "intervals": [
           1,
           3,
@@ -566,7 +566,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Enigmatique": {
+      "Enigmatique": {
         "intervals": [
           1,
           2,
@@ -597,7 +597,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Espagnole": {
+      "Espagnole": {
         "intervals": [
           1,
           2,
@@ -619,7 +619,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Espagnole 8 tons": {
+      "Espagnole 8 tons": {
         "intervals": [
           1,
           2,
@@ -653,7 +653,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Ethiopienne": {
+      "Ethiopienne": {
         "intervals": [
           1,
           3,
@@ -675,7 +675,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Gitane": {
+      "Gitane": {
         "intervals": [
           1,
           2,
@@ -697,7 +697,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Hongroise Gitane": {
+      "Hongroise Gitane": {
         "intervals": [
           1,
           3,
@@ -728,7 +728,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Indienne": {
+      "Indienne": {
         "intervals": [
           1,
           3,
@@ -750,7 +750,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Iwato": {
+      "Iwato": {
         "intervals": [
           1,
           2,
@@ -775,7 +775,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Japonnaise": {
+      "Japonnaise": {
         "intervals": [
           1,
           2,
@@ -793,7 +793,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Javanaise": {
+      "Javanaise": {
         "intervals": [
           1,
           2,
@@ -815,7 +815,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Juive": {
+      "Juive": {
         "intervals": [
           1,
           2,
@@ -837,7 +837,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Hawaïenne": {
+      "Hawaïenne": {
         "intervals": [
           1,
           3,
@@ -859,7 +859,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Hirajoshi": {
+      "Hirajoshi": {
         "intervals": [
           1,
           3,
@@ -877,7 +877,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Hongroise Mineure": {
+      "Hongroise Mineure": {
         "intervals": [
           1,
           3,
@@ -908,7 +908,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Hongroise Majeure": {
+      "Hongroise Majeure": {
         "intervals": [
           1,
           4,
@@ -939,7 +939,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Kumoi": {
+      "Kumoi": {
         "intervals": [
           1,
           2,
@@ -957,7 +957,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Mongole": {
+      "Mongole": {
         "intervals": [
           1,
           3,
@@ -975,7 +975,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Napolitaine Mineure": {
+      "Napolitaine Mineure": {
         "intervals": [
           1,
           2,
@@ -997,7 +997,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Napolitaine Majeure": {
+      "Napolitaine Majeure": {
         "intervals": [
           1,
           2,
@@ -1019,7 +1019,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Orientale": {
+      "Orientale": {
         "intervals": [
           1,
           2,
@@ -1050,7 +1050,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Pelog": {
+      "Pelog": {
         "intervals": [
           1,
           2,
@@ -1068,7 +1068,7 @@ var data = {
           ]
         ]
       },
-      "Gamme Persienne": {
+      "Persienne": {
         "intervals": [
           1,
           2,
@@ -1101,7 +1101,7 @@ var data = {
       }
     },
     "Modes Majeurs": {
-      "Mode Ionien": {
+      "Ionien": {
         "intervals": [
           1,
           3,
@@ -1123,7 +1123,7 @@ var data = {
           ]
         ]
       },
-      "Mode Dorien": {
+      "Dorien": {
         "intervals": [
           1,
           3,
@@ -1145,7 +1145,7 @@ var data = {
           ]
         ]
       },
-      "Mode Phrygien": {
+      "Phrygien": {
         "intervals": [
           1,
           2,
@@ -1167,7 +1167,7 @@ var data = {
           ]
         ]
       },
-      "Mode Lydien": {
+      "Lydien": {
         "intervals": [
           1,
           3,
@@ -1198,7 +1198,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mixolydien": {
+      "Mixolydien": {
         "intervals": [
           1,
           3,
@@ -1220,7 +1220,7 @@ var data = {
           ]
         ]
       },
-      "Mode Aéolien": {
+      "Aéolien": {
         "intervals": [
           1,
           3,
@@ -1242,7 +1242,7 @@ var data = {
           ]
         ]
       },
-      "Mode Locrien": {
+      "Locrien": {
         "intervals": [
           1,
           2,
@@ -1275,7 +1275,7 @@ var data = {
       }
     },
     "Modes Mineurs": {
-      "Mode Harmonique Ionien": {
+      "Harmonique Ionien": {
         "intervals": [
           1,
           3,
@@ -1297,7 +1297,7 @@ var data = {
           ]
         ]
       },
-      "Mode Harmonique Dorien": {
+      "Harmonique Dorien": {
         "intervals": [
           1,
           2,
@@ -1328,7 +1328,7 @@ var data = {
           ]
         ]
       },
-      "Mode Harmonique Phrygien": {
+      "Harmonique Phrygien": {
         "intervals": [
           1,
           3,
@@ -1350,7 +1350,7 @@ var data = {
           ]
         ]
       },
-      "Mode Harmonique Lydien": {
+      "Harmonique Lydien": {
         "intervals": [
           1,
           3,
@@ -1381,7 +1381,7 @@ var data = {
           ]
         ]
       },
-      "Mode Harmonique Mixolydien": {
+      "Harmonique Mixolydien": {
         "intervals": [
           1,
           2,
@@ -1403,7 +1403,7 @@ var data = {
           ]
         ]
       },
-      "Mode Harmonique Aéolien": {
+      "Harmonique Aéolien": {
         "intervals": [
           1,
           4,
@@ -1434,7 +1434,7 @@ var data = {
           ]
         ]
       },
-      "Mode Harmonique Locrien": {
+      "Harmonique Locrien": {
         "intervals": [
           1,
           2,
@@ -1465,7 +1465,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Ionien": {
+      "Mélodique Ionien": {
         "intervals": [
           1,
           3,
@@ -1487,7 +1487,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Dorien": {
+      "Mélodique Dorien": {
         "intervals": [
           1,
           2,
@@ -1509,7 +1509,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Lydien augmenté": {
+      "Mélodique Lydien augmenté": {
         "intervals": [
           1,
           3,
@@ -1540,7 +1540,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Lydien": {
+      "Mélodique Lydien": {
         "intervals": [
           1,
           3,
@@ -1571,7 +1571,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Mixolydien": {
+      "Mélodique Mixolydien": {
         "intervals": [
           1,
           3,
@@ -1593,7 +1593,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Locrien": {
+      "Mélodique Locrien": {
         "intervals": [
           1,
           3,
@@ -1624,7 +1624,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mélodique Superlocrien": {
+      "Mélodique Superlocrien": {
         "intervals": [
           1,
           2,
@@ -1657,7 +1657,7 @@ var data = {
       }
     },
     "Modes Pentatoniques": {
-      "Mode Majeur": {
+      "Majeur": {
         "intervals": [
           1,
           3,
@@ -1729,7 +1729,7 @@ var data = {
           ]
         ]
       },
-      "Mode Dominante Pentatonique": {
+      "Dominante Pentatonique": {
         "intervals": [
           1,
           3,
@@ -1747,7 +1747,7 @@ var data = {
           ]
         ]
       },
-      "Mode Mineur": {
+      "Mineur": {
         "intervals": [
           1,
           4,
@@ -1765,7 +1765,7 @@ var data = {
           ]
         ]
       },
-      "Mode Pentatonique Altéré": {
+      "Pentatonique Altéré": {
         "intervals": [
           1,
           2,
@@ -1783,7 +1783,7 @@ var data = {
           ]
         ]
       },
-      "Mode Blues": {
+      "Blues": {
         "intervals": [
           1,
           4,
@@ -1813,7 +1813,7 @@ var data = {
       }
     },
     "Arpèges": {
-      "Arpège Majeur": {
+      "Majeur": {
         "intervals": [
           1,
           5,
@@ -1827,7 +1827,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Mineur": {
+      "Mineur": {
         "intervals": [
           1,
           4,
@@ -1841,7 +1841,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Majeur Septième Majeure": {
+      "Majeur Septième Majeure": {
         "intervals": [
           1,
           5,
@@ -1857,7 +1857,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Majeur Septième Mineure": {
+      "Majeur Septième Mineure": {
         "intervals": [
           1,
           5,
@@ -1873,7 +1873,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Mineur Septième Majeure": {
+      "Mineur Septième Majeure": {
         "intervals": [
           1,
           4,
@@ -1889,7 +1889,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Mineur Septième Majeure (2)": {
+      "Mineur Septième Majeure (2)": {
         "intervals": [
           1,
           4,
@@ -1905,7 +1905,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Majeur Neuvième": {
+      "Majeur Neuvième": {
         "intervals": [
           1,
           3,
@@ -1923,7 +1923,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Mineur Neuvième": {
+      "Mineur Neuvième": {
         "intervals": [
           1,
           3,
@@ -1941,7 +1941,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Majeur Onzième": {
+      "Majeur Onzième": {
         "intervals": [
           1,
           3,
@@ -1961,7 +1961,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Mineur Onzième": {
+      "Mineur Onzième": {
         "intervals": [
           1,
           3,
@@ -1981,7 +1981,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Majeur Treizième": {
+      "Majeur Treizième": {
         "intervals": [
           1,
           3,
@@ -2003,7 +2003,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Mineur Treizième": {
+      "Mineur Treizième": {
         "intervals": [
           1,
           3,
@@ -2025,7 +2025,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Augmenté": {
+      "Augmenté": {
         "intervals": [
           1,
           5,
@@ -2039,7 +2039,7 @@ var data = {
           ]
         ]
       },
-      "Arpège Diminué": {
+      "Diminué": {
         "intervals": [
           1,
           4,
