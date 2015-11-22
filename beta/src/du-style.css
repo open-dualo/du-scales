@@ -80,7 +80,7 @@ nav li {
 
 /* Responsive */
 
-@media (max-width: 640px) {
+@media screen and (max-width: 640px) {
   .wrapper {
     flex-direction: column;
     overflow: visible;
@@ -104,47 +104,40 @@ nav li {
 /* Decoration */
 
 body {
-  margin: 0;
-  background: #fff;
-  font-size: 1em;
-}
-header, nav, section, footer {
+  color: #BBB;
+  background: #444;
   margin: 0;
   padding: 0;
-  color: #fff;
+  font-size: 1em;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+}
+.wrapper {
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
 }
 header {
-  overflow: hidden;
+  color: white;
+  background: #111;
+  padding: 0 1em;
   height: 4.8em;
   min-height: 4.8em;
-  padding: 0 1em;
-  background: #111;
-  z-index: 1000;
+  overflow: hidden;
 }
 h1 {
   margin-left: .2em;
+  font-weight: normal;
 }
-h1 span {
-  font-size: .6em;
-  color: #BBB;
-}
-.content {
-  background: #444;
-}
-.content h2 {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
+h2 {
   font-size: 1.2em;
   font-weight: normal;
   text-align: center;
   margin: .5em 0;
-  color: #BBB;
 }
 .touch {
   cursor: pointer;
 }
 .hexagon {
-  stroke: #444;
   fill: #333;
+  stroke: #444;
   stroke-width: 1;
 }
 .touch.green .hexagon {
@@ -157,16 +150,14 @@ h1 span {
   fill: #666;
   font-size: .4em;
   text-anchor: middle;
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
 }
 .touch.orange .notation, .touch.green .notation {
   fill: #222;
 }
 footer {
-  color: #BBB;
   background: #111;
-  padding: .3em;
   text-align: right;
+  padding: .3em;
 }
 .logo-footer {
   height: 1.2em;
@@ -174,9 +165,9 @@ footer {
   border: none;
 }
 footer a {
+  color: white;
   text-decoration: none;
   font-style: normal;
-  color: white;
   font-size: 1em;
   display: inline-block;
   opacity: 0.1;
@@ -194,9 +185,7 @@ footer a:hover {
   opacity: 1;
 }
 nav {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
   background: #333;
-  color: #fff;
 }
 nav li {
   border-bottom: 2px solid #444;
@@ -204,29 +193,24 @@ nav li {
   margin: 0;
   padding: 0;
   cursor: pointer;
-  color: #BBB;
   text-align: center;
-  line-height: 2.1em;
-  min-height: 2em;
+  line-height: 2.5em;
+  min-height: 2.5em;
   font-size: 1.2em;
 }
 nav ul {
+  color: #111;
   background: #999;
   height: 0;
   margin: 0;
   padding: 0;
   list-style-type: none;
   overflow: hidden;
-  border-top: 1px solid #444;
   cursor: default;
 }
 nav li li {
-  transition: none;
   padding: .5em;
-  font-family: initial;
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
   border: none;
-  color: #111;
   font-size: 1em;
   line-height: 1.2em;
   min-height: 2em;
@@ -240,8 +224,8 @@ nav li.current li {
   font-weight: normal;
 }
 nav li.current li.selected {
-  font-weight: 600;
   background: #AAA;
+  font-weight: 600;
   cursor: default;
 }
 nav li.current ul {
@@ -256,12 +240,12 @@ nav li.current ul {
   justify-content: space-around;
 }
 .buttons_flex div {
-  font-size: 1.2em;
-  padding: .8em;
-  margin: .5em;
 	color: #666;
 	background: none;
   border-radius: 1em;
+  font-size: 1.2em;
+  padding: .8em;
+  margin: .5em;
 }
 .buttons_flex div::before {
   content: "(";
@@ -270,7 +254,6 @@ nav li.current ul {
   content: ")";
 }
 .buttons_flex div.active {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
   color: #BBB;
   background: #333;
 	cursor: pointer;

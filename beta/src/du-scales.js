@@ -1,6 +1,6 @@
 var navig = d3.select("#navigation"),
     content = d3.select(".content"),
-    svg  =  content.select("svg").select(".gkeyboard"),
+    svg  =  content.select("svg"),
     title = content.select("h2");
     
 var notes = "interval",
