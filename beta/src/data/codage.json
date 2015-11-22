@@ -20,9 +20,25 @@
     "7m": {"code": 10, "name":"Septième mineure"},
     "7" : {"code": 11, "name":"Septième majeure"}
   },
+  "simplifié": {
+    "T" : {"code": 0, "name":"Prime"},
+    "2m": {"code": 1, "name":"Seconde mineure"},
+    "2" : {"code": 2, "name":"Seconde majeure"},
+    "3m": {"code": 3, "name":"Tierce mineure"},
+    "3" : {"code": 4, "name":"Tierce majeure"},
+    "4" : {"code": 5, "name":"Quarte juste"},
+    "4+": {"code": 6, "name":"Quarte augmentée"},
+    "5°": {"code": 6, "name":"Quinte diminuée"},
+    "5" : {"code": 7, "name":"Quinte juste"},
+    "6m": {"code": 8, "name":"Sixte mineure"},
+    "6" : {"code": 9, "name":"Sixte majeure"},
+    "7m": {"code": 10, "name":"Septième mineure"},
+    "7" : {"code": 11, "name":"Septième majeure"}
+  },
   "keyboard": {
     "full": ["Cb","C","C#","Ebb","Eb","E","E#","Gb","G","G#","Bbb","Bb","B","B#","Db","D","D#","Fb","F","F#","F##","Ab","A","A#"],
     "usual": ["B","C","C#","D","D#","E","F","F#","G","G#","A","A#","B","C","C#","D","D#","E","F","F#","G","G#","A","A#"],
+    "interval": ["T","2m","2","3m","3","4","4+","5","6m","6","7m","7","T","2m","2","3m","3","4","4+","5","6m","6","7m","7"],
     "coordinates": [
       {"x":170.000, "y":125.130},
       {"x":150.000, "y":125.130},

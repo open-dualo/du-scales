@@ -3,7 +3,7 @@ var navig = d3.select("#navigation"),
     svg  =  content.select("svg").select(".gkeyboard"),
     title = content.select("h2");
     
-var notes = "usual",
+var notes = "interval",
     category = "",
     currScale = "";
     
@@ -132,7 +132,8 @@ function lighten(d,i) {
 };
 
 function keys(d,i) {
-  return data.keyboard[notes][i%24];
+  i = (notes === "interval") ? range(i) : i%24; 
+  return data.keyboard[notes][i];
 };
 
 function transpose(d,i) {
