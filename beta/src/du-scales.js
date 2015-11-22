@@ -139,10 +139,11 @@ function keys(d,i) {
 function transpose(d,i) {
   transpo = i%24;
   update();
+  newTitle();
 };
 
 function newTitle() {
-  title.text(currScale +" en "+ keys(null, transpo));
+  title.text(currScale +" en "+ data.keyboard["usual"][transpo]);
 };
 
 function update(){
