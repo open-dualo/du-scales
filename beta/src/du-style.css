@@ -1,0 +1,282 @@
+/* Layout */
+
+::-webkit-scrollbar {
+  width: 12px;
+}
+::-webkit-scrollbar-track {
+  padding: 2px;
+}
+::-webkit-scrollbar-thumb {
+  border-radius: 6px;
+  background: #666;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #BBB;
+  border: solid 1px #444;
+}
+html {
+  display: flex;
+  flex-direction: column;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  cursor: default;
+}
+body {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+  max-height: 100vh;
+}
+.logo {
+  float: left;
+  height: 4em;
+  padding: .5em .5em .5em 0;
+}
+.wrapper {
+  flex: 1 1 auto;
+  display: block;
+  display: flex;
+  flex-direction: row;
+  overflow: auto;
+}
+nav {
+  width: 15em;
+  float: left;
+  display: flex;
+  overflow: auto;
+  flex-direction: column;
+}
+nav li {
+  display: block;
+  display: flex;
+  overflow: hidden;
+  flex-direction: column;
+  flex: 0;
+  justify-content: center;
+}
+.content {
+  flex: 1;
+  display: block;
+  display: flex;
+  flex-direction: column;
+  overflow: auto;
+  text-align: center;
+}
+.svg-container {
+  flex: 1;
+  padding: 0 5%;
+  overflow: auto;
+}
+.svg-container svg {
+  max-height: 60vmin;
+  max-width: 80vmin;
+  /*min-height: 50vh;*/
+  overflow: hidden;
+}
+
+/* Responsive */
+
+@media (max-width: 640px) {
+  .wrapper {
+    flex-direction: column;
+    overflow: visible;
+  }
+  nav {
+    width: auto;
+    order: 1;
+    flex: 1;
+  }
+  .content {
+    flex: 0;
+    overflow: visible;
+  }
+  .svg-container svg {
+    max-height: none;
+    max-width: 100%;
+    min-height: none;
+  }
+}
+
+/* Decoration */
+
+body {
+  margin: 0;
+  background: #fff;
+  font-size: 1em;
+}
+header, nav, section, footer {
+  margin: 0;
+  padding: 0;
+  color: #fff;
+}
+header {
+  overflow: hidden;
+  height: 4.8em;
+  min-height: 4.8em;
+  padding: 0 1em;
+  background: #111;
+  z-index: 1000;
+}
+h1 {
+  margin-left: .2em;
+}
+h1 span {
+  font-size: .6em;
+  color: #BBB;
+}
+.content {
+  background: #444;
+}
+.content h2 {
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  font-size: 1.2em;
+  font-weight: normal;
+  text-align: center;
+  margin: .5em 0;
+  color: #BBB;
+}
+.touch {
+  cursor: pointer;
+}
+.hexagon {
+  stroke: #444;
+  fill: #333;
+  stroke-width: 1;
+}
+.touch.green .hexagon {
+  fill: #7CC17C;
+}
+.touch.orange .hexagon {
+  fill: #DEA874;
+}
+.notation {
+  fill: #666;
+  font-size: .4em;
+  text-anchor: middle;
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+}
+.touch.orange .notation, .touch.green .notation {
+  fill: #222;
+}
+footer {
+  color: #BBB;
+  background: #111;
+  padding: .3em;
+  text-align: right;
+}
+.logo-footer {
+  height: 1.2em;
+  margin: -0.1em 0 -0.2em .7em;
+  border: none;
+}
+footer a {
+  text-decoration: none;
+  font-style: normal;
+  color: white;
+  font-size: 1em;
+  display: inline-block;
+  opacity: 0.1;
+  -webkit-transition-property: opacity;
+  -webkit-transition-duration: .2s;
+  -moz-transition-property: opacity;
+  -moz-transition-duration: .2s;
+  transition-property: opacity;
+  transition-duration: .2s;
+}
+footer a:last-child {
+  opacity: 0.5;
+}
+footer a:hover {
+  opacity: 1;
+}
+nav {
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  background: #333;
+  color: #fff;
+}
+nav li {
+  border-bottom: 2px solid #444;
+  transition: min-height .3s ease-out;
+  margin: 0;
+  padding: 0;
+  cursor: pointer;
+  color: #BBB;
+  text-align: center;
+  line-height: 3.1em;
+  min-height: 3em;
+  font-size: 1.2em;
+}
+nav ul {
+  background: #999;
+  height: 0;
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+  overflow: hidden;
+  border-top: 1px solid #444;
+}
+nav li li {
+  transition: none;
+  padding: .5em;
+  font-family: initial;
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  border: none;
+  color: #111;
+  font-size: 1em;
+  line-height: 1.2em;
+  min-height: 2em;
+}
+nav li.current {
+  background: #666;
+  font-weight: 600;
+  flex: 1;
+}
+nav li.current li {
+  font-weight: normal;
+}
+nav li.current li.selected {
+  font-weight: 600;
+  background: #AAA;
+  cursor: default;
+}
+nav li.current ul {
+  flex: 1;
+  height: auto;
+  overflow-y: auto;
+}
+.buttons_flex {
+  display: block;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+}
+.buttons_flex div {
+  font-size: 1.2em;
+  padding: .8em;
+  margin: .5em;
+	color: #666;
+	background: none;
+  border-radius: 1em;
+}
+.buttons_flex div::before {
+  content: "(";
+}
+.buttons_flex div::after {
+  content: ")";
+}
+.buttons_flex div.active {
+  font-family: "Century Gothic", helvetica, arial, sans-serif;
+  color: #BBB;
+  background: #333;
+	cursor: pointer;
+}
+.buttons_flex div.active::before {
+  content: "voir le ";
+}
+.buttons_flex div.active::after {
+  content: "";
+}
