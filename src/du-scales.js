@@ -1,6 +1,8 @@
+"use strict";
+
 var navig = d3.select("#navigation"),
     content = d3.select(".content"),
-    svg  =  content.select("svg").select(".gkeyboard"),
+    svg  =  content.select("svg"),
     title = content.select("h2");
     
 var notes = "usual",
@@ -132,16 +134,18 @@ function lighten(d,i) {
 };
 
 function keys(d,i) {
-  return data.keyboard[notes][i%24];
+  i = (notes === "interval") ? range(i) : i%24; 
+  return data.keyboard[notes][i];
 };
 
 function transpose(d,i) {
   transpo = i%24;
   update();
+  newTitle();
 };
 
 function newTitle() {
-  title.text(currScale +" en "+ keys(null, transpo));
+  title.text(currScale +" en "+ data.keyboard["usual"][transpo]);
 };
 
 function update(){

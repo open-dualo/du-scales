@@ -1,283 +1,255 @@
 /* Layout */
 
 ::-webkit-scrollbar {
-  width: 12px;
+    width: 12px;
 }
 ::-webkit-scrollbar-track {
-  padding: 2px;
+    padding: 2px;
 }
 ::-webkit-scrollbar-thumb {
-  border-radius: 6px;
-  background: #666;
+    border-radius: 6px;
+    background: #666;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #BBB;
-  border: solid 1px #444;
+    background: #BBB;
+    border: solid 1px #444;
 }
 html {
-  display: flex;
-  flex-direction: column;
-  -webkit-touch-callout: none;
-  -webkit-user-select: none;
-  -khtml-user-select: none;
-  -moz-user-select: none;
-  -ms-user-select: none;
-  user-select: none;
-  cursor: default;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    cursor: default;
+    display: flex;
+    flex-direction: column;
+    user-select: none;
 }
 body {
-  display: flex;
-  flex-direction: column;
-  min-height: 100vh;
-  max-height: 100vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
 }
 .logo {
-  float: left;
-  height: 4em;
-  padding: .5em .5em .5em 0;
+    float: left;
+    height: 4em;
+    padding: .5em .5em .5em 0;
 }
 .wrapper {
-  flex: 1 1 auto;
-  display: block;
-  display: flex;
-  flex-direction: row;
-  overflow: auto;
+    overflow: auto;
+    flex: 1 1 auto;
+    display: block;
+    display: flex;
+    flex-direction: row;
 }
 nav {
-  width: 15em;
-  float: left;
-  display: flex;
-  overflow: auto;
-  flex-direction: column;
+    overflow: auto;
+    width: 15em;
+    display: block;
+    display: flex;
+    flex-direction: column;
 }
 nav li {
-  display: block;
-  display: flex;
-  overflow: hidden;
-  flex-direction: column;
-  flex: 0;
-  justify-content: center;
+    overflow: hidden;
+    flex: 0 1 auto;
+    display: block;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+nav li.current {
+    min-height: 10em;
+}
+nav li.current ul {
+    height: auto;
+    overflow-y: auto;
 }
 .content {
-  flex: 1;
-  display: block;
-  display: flex;
-  flex-direction: column;
-  overflow: auto;
-  text-align: center;
+    flex: 1 1 0%;
+    overflow: auto;
+    display: block;
+    display: flex;
+    flex-direction: column;
 }
 .svg-container {
-  flex: 1;
-  padding: 0 5%;
-  overflow: auto;
+    flex: 1 1 0%;
+    overflow: hidden;
+    padding: 0 5%;
+    min-height: 60vmin;
 }
 .svg-container svg {
-  max-height: 60vmin;
-  max-width: 80vmin;
-  /*min-height: 50vh;*/
-  overflow: hidden;
+    max-height: 60vmin;
 }
 
 /* Responsive */
 
-@media (max-width: 640px) {
-  .wrapper {
-    flex-direction: column;
-    overflow: visible;
-  }
-  nav {
-    width: auto;
-    order: 1;
-    flex: 1;
-  }
-  .content {
-    flex: 0;
-    overflow: visible;
-  }
-  .svg-container svg {
-    max-height: none;
-    max-width: 100%;
-    min-height: none;
-  }
+@media screen and (max-width: 640px) {
+    body {
+        height: auto;
+    }
+    .wrapper {
+        flex-direction: column;
+    }
+    nav {
+        width: auto;
+        float: none;
+        order: 1;
+    }
+    .content,
+    .svg-container {
+        flex-basis: auto;
+    }
 }
-
 /* Decoration */
 
 body {
-  margin: 0;
-  background: #fff;
-  font-size: 1em;
+    color: #BBB;
+    background: #444;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
 }
-header, nav, section, footer {
-  margin: 0;
-  padding: 0;
-  color: #fff;
+.wrapper {
+    font-family: "Century Gothic", helvetica, arial, sans-serif;
 }
 header {
-  overflow: hidden;
-  height: 4.8em;
-  min-height: 4.8em;
-  padding: 0 1em;
-  background: #111;
-  z-index: 1000;
+    color: white;
+    background: #111;
+    padding: 0 1em;
+    height: 4.8em;
+    min-height: 4.8em;
+    overflow: hidden;
 }
 h1 {
-  margin-left: .2em;
+    margin-left: .2em;
+    font-weight: normal;
 }
-h1 span {
-  font-size: .6em;
-  color: #BBB;
+h2 {
+    margin: .5em 0;
+    font-size: 1.2em;
+    font-weight: normal;
+    text-align: center;
 }
 .content {
-  background: #444;
-}
-.content h2 {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
-  font-size: 1.2em;
-  font-weight: normal;
-  text-align: center;
-  margin: .5em 0;
-  color: #BBB;
+    text-align: center;
 }
 .touch {
-  cursor: pointer;
+    cursor: pointer;
 }
 .hexagon {
-  stroke: #444;
-  fill: #333;
-  stroke-width: 1;
+    fill: #333;
+    stroke: #444;
+    stroke-width: 1;
 }
 .touch.green .hexagon {
-  fill: #7CC17C;
+    fill: #7CC17C;
 }
 .touch.orange .hexagon {
-  fill: #DEA874;
+    fill: #DEA874;
 }
 .notation {
-  fill: #666;
-  font-size: .4em;
-  text-anchor: middle;
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
+    fill: #666;
+    font-size: .4em;
+    text-anchor: middle;
 }
-.touch.orange .notation, .touch.green .notation {
-  fill: #222;
+.touch.orange .notation,
+.touch.green .notation {
+    fill: #222;
 }
 footer {
-  color: #BBB;
-  background: #111;
-  padding: .3em;
-  text-align: right;
+    background: #111;
+    text-align: right;
+    padding: .3em;
 }
 .logo-footer {
-  height: 1.2em;
-  margin: -0.1em 0 -0.2em .7em;
-  border: none;
+    height: 1.2em;
+    margin: -0.1em 0 -0.2em .7em;
+    border: none;
 }
 footer a {
-  text-decoration: none;
-  font-style: normal;
-  color: white;
-  font-size: 1em;
-  display: inline-block;
-  opacity: 0.1;
-  -webkit-transition-property: opacity;
-  -webkit-transition-duration: .2s;
-  -moz-transition-property: opacity;
-  -moz-transition-duration: .2s;
-  transition-property: opacity;
-  transition-duration: .2s;
+    color: white;
+    display: inline-block;
+    opacity: 0.1;
+    font-size: 1em;
+    font-style: normal;
+    text-decoration: none;
+    transition: opacity .2s;
 }
 footer a:last-child {
-  opacity: 0.5;
+    opacity: 0.5;
 }
 footer a:hover {
-  opacity: 1;
+    opacity: 1;
 }
 nav {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
-  background: #333;
-  color: #fff;
+    background: #333;
 }
 nav li {
-  border-bottom: 2px solid #444;
-  transition: min-height .3s ease-out;
-  margin: 0;
-  padding: 0;
-  cursor: pointer;
-  color: #BBB;
-  text-align: center;
-  line-height: 3.1em;
-  min-height: 3em;
-  font-size: 1.2em;
+    border-bottom: 2px solid #444;
+    margin: 0;
+    padding: 0;
+    cursor: pointer;
+    text-align: center;
+    line-height: 2.5em;
+    min-height: 2.5em;
+    font-size: 1.2em;
 }
 nav ul {
-  background: #999;
-  height: 0;
-  margin: 0;
-  padding: 0;
-  list-style-type: none;
-  overflow: hidden;
-  border-top: 1px solid #444;
-  cursor: default;
+    color: #111;
+    background: #999;
+    height: 0;
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    overflow: hidden;
+    cursor: default;
 }
 nav li li {
-  transition: none;
-  padding: .5em;
-  font-family: initial;
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
-  border: none;
-  color: #111;
-  font-size: 1em;
-  line-height: 1.2em;
-  min-height: 2em;
+    border: none;
+    padding: .5em;
+    font-size: 1em;
+    min-height: 2em;
+    line-height: 1.2em;
 }
 nav li.current {
-  background: #666;
-  font-weight: 600;
-  flex: 1;
+    background: #666;
+    font-weight: 600;
 }
 nav li.current li {
-  font-weight: normal;
+    font-weight: normal;
 }
 nav li.current li.selected {
-  font-weight: 600;
-  background: #AAA;
-  cursor: default;
-}
-nav li.current ul {
-  flex: 1;
-  height: auto;
-  overflow-y: auto;
+    background: #AAA;
+    font-weight: 600;
+    cursor: default;
 }
 .buttons_flex {
-  display: block;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
+    display: block;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
 }
 .buttons_flex div {
-  font-size: 1.2em;
-  padding: .8em;
-  margin: .5em;
-	color: #666;
-	background: none;
-  border-radius: 1em;
+    color: #666;
+    background: none;
+    border-radius: 1em;
+    font-size: 1.2em;
+    padding: .8em;
+    margin: .5em;
 }
 .buttons_flex div::before {
-  content: "(";
+    content: "(";
 }
 .buttons_flex div::after {
-  content: ")";
+    content: ")";
 }
 .buttons_flex div.active {
-  font-family: "Century Gothic", helvetica, arial, sans-serif;
-  color: #BBB;
-  background: #333;
-	cursor: pointer;
+    color: #BBB;
+    background: #333;
+    cursor: pointer;
 }
 .buttons_flex div.active::before {
-  content: "voir le ";
+    content: "voir le ";
 }
 .buttons_flex div.active::after {
-  content: "";
+    content: "";
 }

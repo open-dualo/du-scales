@@ -4,8 +4,8 @@ var fs = require('fs');
 
 /* init src data */
 
-var scales = JSON.parse(fs.readFileSync('scales2.json', 'utf8'));
-var codage = JSON.parse(fs.readFileSync('codage.json',  'utf8'));
+var scales = JSON.parse(fs.readFileSync('scales-guitar-pro-5.json', 'utf8'));
+var codage = JSON.parse(fs.readFileSync('codage.json', 'utf8'));
 
 /* init data */
 

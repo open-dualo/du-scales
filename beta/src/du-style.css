@@ -15,14 +15,16 @@
     border: solid 1px #444;
 }
 html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
     cursor: default;
     display: flex;
     flex-direction: column;
     user-select: none;
 }
 body {
-    min-height: 100vh;
-    max-height: 100vh;
+    height: 100vh;
     display: flex;
     flex-direction: column;
 }
@@ -61,30 +63,27 @@ nav li.current ul {
     overflow-y: auto;
 }
 .content {
+    flex: 1 1 0%;
     overflow: auto;
     display: block;
-    flex: 1 1 0%;
-    /*display: flex;
-    flex-direction: column;*/
+    display: flex;
+    flex-direction: column;
 }
 .svg-container {
-    overflow: auto;
+    flex: 1 1 0%;
+    overflow: hidden;
     padding: 0 5%;
-    flex: 1 1 auto;
+    min-height: 60vmin;
 }
 .svg-container svg {
-    overflow: hidden;
     max-height: 60vmin;
-    max-width: 80vmin;
-    /*min-height: 50vh;*/
 }
 
 /* Responsive */
 
 @media screen and (max-width: 640px) {
     body {
-        min-height: 0;
-        max-height: none;
+        height: auto;
     }
     .wrapper {
         flex-direction: column;
@@ -94,16 +93,9 @@ nav li.current ul {
         float: none;
         order: 1;
     }
-    .content {
-        flex-basis: auto;
-    }
+    .content,
     .svg-container {
-        flex: 1 1 0%;
-    }
-    .svg-container svg {
-        max-height: none;
-        max-width: 100%;
-        min-height: none;
+        flex-basis: auto;
     }
 }
 /* Decoration */
@@ -200,7 +192,6 @@ nav li {
     line-height: 2.5em;
     min-height: 2.5em;
     font-size: 1.2em;
-    transition: min-height .3s ease-out;
 }
 nav ul {
     color: #111;
