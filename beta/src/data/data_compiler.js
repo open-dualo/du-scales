@@ -38,23 +38,27 @@ function registerScale(element, index, source){
   if (i === -1) {
     packed_data.push({
       category: code.length + " notes",
-      name: element.name.split(",").filter(onlyUnique),
+      name: element.name.split(',').filter(onlyUnique),
       code: code,
       dualo_code: getCombinations(code),
       source: [source.name]
     });
   } else {
-    packed_data[i].name.push(element.name);
+    packed_data[i].name = packed_data[i].name
+      .concat(element.name.split(','))
+      .filter(onlyUnique);
     packed_data[i].source.push(source.name);
-    packed_data[i].name = packed_data[i].name.filter(onlyUnique);
-    packed_data[i].source = packed_data[i].source.filter(onlyUnique);
+    packed_data[i].source = packed_data[i].source
+      .filter(onlyUnique);
   };
 };
 
 function writeData() {
   data.scales = d3.nest()
     .key(function(d) { return d.category; })
-    .sortKeys(function(d) {return d.name})
+    .sortValues(function(a,b){
+      return (a.name[0] > b.name[0]) ? 1 : (a.name[0] < b.name[0]) ? -1 : 0;
+    })
     .entries(packed_data);
   var content = "var data = " + JSON.stringify(data, null, 2) + ";";
   fs.writeFile("data.js", content, function(err) {

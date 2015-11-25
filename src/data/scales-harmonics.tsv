@@ -1,14 +1,10 @@
 name	code
 Adonai Malakh (Israel)	0 1 2 3 5 7 9 10
-Aeolian 2# 4# #5	0 3 4 6 8 9 11
-Aeolian Flat 3b 5b 6b 8b	0 3 4 6 8 9 11
-Aeolian Flat b3 b5 b6	0 3 4 6 8 9 11
 Aeolian Natural Minor,Asavari Asc Nats. A to G,Gregorian Scale 2,Assari Thaat (India),Se (China),Kitmun (Sumarian)	0 2 3 5 7 8 10
 Algerian	0 2 3 5 6 7 8 11
 Altered Pentatonic	0 1 5 7 9
-Augmented, Messiaen Truncated Mode 3 Inverse,genus tertium Raga Devamani	0 3 4 7 8 11
+Augmented,Messiaen Truncated Mode 3 Inverse,genus tertium Raga Devamani	0 3 4 7 8 11
 Auxillary Diminished	0 2 3 5 6 8 9 11
-Balinese Pentachord	0 1 4 6 7
 Balinese Pentatonic	0 1 4 6 7
 Balinese,Pelog 1	0 1 3 7 8
 Bhairubahar Thaat (India)	0 1 4 5 7 9 11
@@ -21,21 +17,13 @@ Blues Minor	0 3 5 6 7 10
 Blues Minor Maj7	0 3 5 6 7 11
 Blues Modified	0 2 3 5 6 7 10
 Blues Octatonic	0 2 3 5 6 7 9 10
-Blues Pentacluster	0 1 2 3 6
-Blues PentaCluster 2	0 1 2 3 5
 Blues Pentatonic Minor,Hard Japan descending,Pyongjo Kyemyonjo (Korea),Minyo (Japan)	0 3 5 7 10
 Blues Pentatonic Minor,Hard Japan descending,Raga Malkauns	0 3 5 8 10
 Blues Phrygian	0 1 3 5 6 7 10
 Blues with Leading Tone	0 3 5 6 7 10 11
 Blues#V (all b's)	0 3 5 6 11
-Center-Cluster PentaMirror	0 3 4 5 8
-Chaio	0 2 5 8 10
-Chaio (all b's)	0 2 5 8 10
 Chromatic Dorian,Raga Kanakambari (India)	0 1 2 5 7 8 9
 Chromatic Dorian Inverse Raga None (India)	0 3 4 5 7 10 11
-Chromatic HeptaMirror #'s	0 1 2 3 4 5 6
-Chromatic HexaMirror all #	0 1 2 3 4 5
-Chromatic HexaMirror all b	0 1 2 3 4 5
 Chromatic Hypodorian	0 2 3 4 7 8 9
 Chromatic Hypodorian Inverse	0 3 4 5 8 9 10
 Chromatic Hypolydian Inverse,Persian	0 1 4 5 6 8 11
@@ -46,8 +34,6 @@ Chromatic Lydian Inverse,Todi bVI	0 1 3 6 7 8 11
 Chromatic Mixolydian	0 1 2 4 6 7 10
 Chromatic Mixolydian	0 1 2 5 6 7 10
 Chromatic Mixolydian Inverse	0 2 5 6 7 10 11
-Chromatic OctaMirror	0 1 2 3 4 5 6 7
-Chromatic PentaMirror	0 1 2 3 4
 Chromatic Phrygian	0 3 4 5 8 10 11
 Chromatic Phrygian Inverse	0 1 2 4 7 8 9
 Diminished	0 2 3 5 6 8 9 11
@@ -68,7 +54,7 @@ Eskimo Hexatonic 2 (North America)	0 2 4 6 8 11
 Example Of Pelog	0 2 4 6 7 8 11
 Example of Slendro,Zhi (China),Raga Devakriya (India),Ujo (Korea)	0 2 5 7 9
 Genus Secundum	0 4 5 7 9 11
-Gipsy Hexatonic,Raga Kalakanti	0 1 5 6 8 9 10
+Raga Kalakanti	0 1 5 6 8 9 10
 Gypsy Hexatonic	0 1 4 5 7 8 9
 Half Diminished plus b8	0 3 6 10 11
 Half-Dimiished Bebop	0 1 3 5 6 7 8 11
@@ -92,12 +78,12 @@ Hungarian Minor,Maqam Nawa Athar (Arabia),Double Harmonic Minor,Niavent (Greece)
 Hungarian Minor b2	0 1 2 3 6 7 8 11
 Indian,Phrygian dim 4th	0 1 3 4 7 8 10
 Ionian Pentatonic Raga Gambhiranata (India)	0 4 5 7 11
-Ionian,Major,Bilaval  C to B asc.  nats., Thaat, Nid Murub (Sumerian)	0 2 4 5 7 9 11
+Ionian,Major,Bilaval  C to B asc.  nats.,Thaat,Nid Murub (Sumerian)	0 2 4 5 7 9 11
 Iwato Japan	0 1 5 6 10
 Japanese Pentachord	0 1 3 6 7
 Japanese,Sakura Pentatonic Soft Descend	0 1 5 7 8
 Javanese Pentachord	0 1 3 6 7
-Jazz Minor Inverse. Javanese, Dorian bII & HIndi	0 1 3 5 7 9 10
+Jazz Minor Inverse,Javanese,Dorian bII,Hindi	0 1 3 5 7 9 10
 JG Octatonic	0 1 3 4 5 7 9 10
 JG Octatonic  all 3b	0 1 3 4 5 7 9 10
 Kokin-Joshi,Soft Ascend Japan,Miyakobushi (Japan)	0 1 5 7 10
@@ -107,14 +93,13 @@ Locrian  - B to A Ascending naturals,Qablitum (Sumerian)	0 1 3 5 6 8 10
 Locrian 2	0 2 3 5 6 8 11
 Locrian bb7	0 1 3 5 6 8 9
 Locrian Natural Maj 6,Pseudo Turkish	0 1 3 5 6 9 10
-Locrian PentaMirror	0 1 3 5 6
 Lydian #2 Hexatonic	0 3 4 7 9 11
 Lydian #2 Raga Kuksumakaram	0 3 4 6 7 9 11
 Lydian Augmented or Hindi 5 flats & bIV,Super Locrian 6 flats	0 1 3 4 6 8 10
 Lydian Augmented,Hindi #IV & #V	0 2 4 6 8 9 11
 Lydian b3	0 2 3 4 6 7 9 11
 Lydian b3 Hexatonic	0 3 4 7 9 11
-Lydian bVIIth,Overtone, Hindi #IV & bVII,Mela Vacaspati (India),Raga Bhusavati (India),Lydian Mixolydian,Bartok Scale	0 2 4 6 7 9 10
+Lydian bVIIth,Overtone,Hindi #IV & bVII,Mela Vacaspati (India),Raga Bhusavati (India),Lydian Mixolydian,Bartok Scale	0 2 4 6 7 9 10
 Lydian Dim b7	0 2 3 4 6 7 9 10
 Lydian Diminished,Raga Dumyaraga,Madhuvanti,Ambika (India)	0 2 3 6 7 9 11
 Lydian Dominant + natural seventh,Lydian with both natural and dominant 7th	0 2 4 6 7 9 10 11
@@ -184,9 +169,9 @@ Messiaen 5 according to Brown	0 1 2 5 6 7 8 11
 Messiaen 5th mode From Groves start E	0 1 2 6 7 8
 Messiaen 6th mode From Groves start B	0 1 3 5 6 7 9 11
 Messiaen 7 according to Brown	0 2 4 5 6 8 10 11
-Messiaen Mode 2,truncated mode 2	0 2 5 6 8 11
-Messiaen Mode 2,truncated mode 2	0 3 4 5 9 11
-Messiaen Mode 2,Auxillary Diminished Blues	0 1 3 4 6 7 9 10
+Truncated mode 2	0 2 5 6 8 11
+Messiaen Mode 2	0 3 4 5 9 11
+Auxillary Diminished Blues	0 1 3 4 6 7 9 10
 Messiaen Mode 4,Mode 4	0 1 2 5 6 7 8 11
 Messiaen Mode 4 Flat	0 1 2 3 6 7 8 9
 Messiaen Mode 4 Inverse	0 3 4 5 6 9 10 11
@@ -201,7 +186,6 @@ Messiaen Truncated Mode 2	0 1 3 6 7 9
 Messiaen Truncated Mode 3	0 1 4 5 8 9
 Minor 6th Added,Minor Added Sixth Pentatonic	0 3 5 7 9
 Minor Bebop	0 2 3 4 5 7 9 10
-Minor Bebop (all b's)	0 2 3 4 7 9 10
 Minor Bebop Heptatonic	0 2 3 4 7 9 10
 Minor Gypsy,Minor Gypsy	0 2 3 6 7 8 10 11
 Minor Hexatonic,Nayaki,Yo (Japan),Eskimo Hexatonic 1 (North America)	0 2 3 5 7 10
@@ -220,8 +204,6 @@ Neveseri (Greece)	0 1 3 6 7 8 10 11
 Nohkan (Japan)	0 2 5 6 8 9 11
 Oriental 1,Tsinganikos (Greece),Raga Ahira Lalita (India)	0 1 4 5 6 9 10
 Oriental 2	0 1 4 5 6 9 10 11
-Oriental Pentacluster	0 1 2 5 6
-Oriental Raga Guhamanohari (India)	0 2 5 9 10
 Phrygian Aeolian 2b 4b 6b	0 1 2 3 5 7 8 10
 Phrygian Aeolian 3b1#	0 1 2 3 5 7 8 10
 Phrygian Dominant,Dorico Flamenco,Avaha Raba,Spanish Folk,Jewish Major,Alhijaz (Arabia),Ahavh Rabbah (Israel),Hitzaz (Greece),Spanish Gypsy	0 1 4 5 7 8 10
@@ -238,7 +220,7 @@ Pyramid Hexatonic	0 2 3 5 6 9
 Raga Abhogi	0 2 3 5 9
 Raga Amarasenapriya (India)	0 2 3 6 7 11
 Raga Audva Tukhari (India)	0 2 3 5 8
-Raga Bagesri, Sriranjani,Kapijingla (India)	0 2 3 5 9 10
+Raga Bagesri,Sriranjani,Kapijingla (India)	0 2 3 5 9 10
 Raga Bauli (India)	0 1 4 7 8 11
 Raga Bhanumanjari (India)	0 3 4 5 7 10
 Raga Bhatiyar (India)	0 1 4 5 6 7 9 11
@@ -287,16 +269,13 @@ Raga Kashyapi (India)	0 1 3 7 8 10
 Raga Khamaji Durga (India)	0 4 5 9 10
 Raga Khamas,Baduhari (India)	0 4 5 7 9 10
 Raga Kokil Pancham (India)	0 3 5 7 8
-Raga Kshanika (India)	0 1 5 8 11
-Raga Kumarapriya (India)	0 1 2 8 11
 Raga Kumurdaki (India)	0 2 4 6 11
 Raga Latika	0 2 4 7 8 11
 Raga Madhakauns (India)	0 3 6 7 9 10
 Raga Madhuri	0 4 5 7 9 10 11
 Raga Malahari (India)	0 1 4 5 7 8
 Raga Malarani (India)	0 2 6 7 10 11
-Raga Malashri (India) & Chinese	0 4 6 7 11
-Raga Malashri (India) & Chinese 3b's	0 4 6 7 11
+Raga Malashri (India),Chinese	0 4 6 7 11
 Raga Malayamarutam (India)	0 1 4 7 9 10
 Raga Malkauns,2b's 1# Blues Pentatonic Minor,Hard Japan descending	0 3 5 8 10
 Raga Malkauns,Blues Pentatonic Minor,Hard Japan descending	0 3 5 8 10
@@ -312,15 +291,13 @@ Raga Megh (India)	0 2 5 7 10 11
 Raga Megharanjani (India)	0 1 4 5 8
 Raga Megharanji (India)	0 1 4 5 11
 Raga Mian Ki Malhar,Bahar (India)	0 2 3 5 7 9 10 11
-Raga Mohanangi (India)	0 3 4 7 9
 Raga Mrunganandana (India)	0 2 4 6 9 11
 Raga Multani (India)	0 1 6 7 11
-Raga Multani (India)?	0 3 6 7 11
 Raga Nabhomani (India)	0 1 2 6 7
 Raga Nagagandhari (India)	0 2 5 7 9 11
 Raga Nalinakanti,Kedaram (India)	0 2 4 5 7 11
 Raga Nandkauns (India)	0 3 4 5 7 9 10
-Raga Nata, Madhuranjani (India)	0 3 5 7 11
+Raga Nata,Madhuranjani (India)	0 3 5 7 11
 Raga Navamanohari (India)	0 2 5 7 8 10
 Raga Neelangi (India)	0 2 3 6 8 9
 Raga Nishadi (India)	0 2 6 7 9 11
@@ -388,7 +365,6 @@ Shostakovich respelled all flat,Shostakovich	0 1 3 4 6 7 9 11
 Shostakovich respelled all sharp,Shostakovich	0 1 3 4 6 7 9 11
 Spanish 8 Tones	0 1 3 4 5 6 8 10
 Spanish Heptatonic	0 3 4 5 6 8 10
-Spanish Pentacluster	0 1 3 4 5
 Super Locrian all sharps	0 1 3 4 6 8 10
 Superlocrian,Diminished Whole-Tone	0 1 3 4 6 8 10
 Takemitsu Tree Line Mode 2	0 2 3 6 8 10

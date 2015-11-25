@@ -21,7 +21,7 @@ Bartok	1 3 5 7 8 10 11
 Byzantine	1 2 5 6 8 9 12
 Chinoise	1 3 5 8 10
 Egyptienne	1 3 6 8 11
-Enigmatique	1 2 5 7 9 11 12
+Enigmatique Ascendant	1 2 5 7 9 11 12
 Espagnole	1 2 5 6 8 9 11
 Espagnole 8 tons	1 2 4 5 6 7 9 11
 Ethiopienne	1 3 4 6 8 9 11
@@ -64,12 +64,12 @@ Mélodique Lydien	1 3 5 7 8 10 11
 Mélodique Mixolydien	1 3 5 6 8 9 11
 Mélodique Locrien	1 3 4 6 7 9 11
 Mélodique Superlocrien	1 2 4 5 7 9 11
-Majeur	1 3 5 8 10
-Mode 2	1 3 6 8 11
-Mode 3	1 4 6 9 11
-Mode 4	1 3 6 8 10
-Dominante Pentatonique	1 3 5 8 11
-Mineur	1 4 6 8 11
+Pentatonique Majeur	1 3 5 8 10
+Pentatonique Mode 2	1 3 6 8 11
+Pentatonique Mode 3	1 4 6 9 11
+Pentatonique Mode 4	1 3 6 8 10
+Pentatonique Dominante	1 3 5 8 11
+Pentatonique Mineur	1 4 6 8 11
 Pentatonique Altéré	1 2 5 8 10
 Blues	1 4 6 7 8 10
 Major	1 3 5 6 8 10 12
@@ -94,7 +94,7 @@ Bartok	1 3 5 7 8 10 11
 Byzantine	1 2 5 6 8 9 12
 Chinese	1 3 5 8 10
 Egyptian	1 3 6 8 11
-Enigmatic	1 2 5 7 9 11 12
+Enigmatic Ascending	1 2 5 7 9 11 12
 Spanish	1 2 5 6 8 9 11
 Spanish 8 Tone	1 2 4 5 6 7 9 11
 Ethiopian	1 3 4 6 8 9 11
@@ -170,7 +170,7 @@ Bartok	1 3 5 7 8 10 11
 Byzantinische	1 2 5 6 8 9 12
 Chinesische	1 3 5 8 10
 Egyptische	1 3 6 8 11
-Enigmatic	1 2 5 7 9 11 12
+Enigmatic Ascending	1 2 5 7 9 11 12
 Spanische	1 2 5 6 8 9 11
 Spanische 8-Ton	1 2 4 5 6 7 9 11
 Ethiopianische	1 3 4 6 8 9 11
