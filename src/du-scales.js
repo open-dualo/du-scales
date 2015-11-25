@@ -7,7 +7,7 @@ var navig = d3.select("#navigation"),
     
 var notes = "usual",
     category = "",
-    currScale = "";
+    currScale = {};
     
 var variation = 0, 
     transpo = 1;
@@ -37,7 +37,7 @@ var text = touch
 
 var categories = navig
   .selectAll("li")
-    .data(d3.entries(data.scales))
+    .data(data.scales)
   .enter()
     .append("li")
     .text(function(d){return d.key})
@@ -51,13 +51,13 @@ var categories = navig
 
 var scales = categories
   .selectAll("li")
-    .data(function(d){return d3.keys(d.value)})
+    .data(function(d){return d.values})
   .enter()
     .append("li")
-    .text(function (d){return d})
+    .text(function(d){return d.name[0]})
     .on("click", toggleScale);
 
-function toggleScale(d) {
+function toggleScale(d,i) {
   if (!d3.select(this).classed("selected")) {    
     window.clearInterval(auto);
     d3.select(".selected").classed("selected",false);
@@ -66,6 +66,7 @@ function toggleScale(d) {
     variation = 0;
     category = this.parentNode.parentNode.__data__.key;
     currScale = d;
+    currScale.index = i;
     update_choices();
     update();
     newTitle();
@@ -73,7 +74,7 @@ function toggleScale(d) {
 };
 
 function update_choices() {
-  var sc = data.scales[category][currScale].variations;
+  var sc = currScale.dualo_code;
   var choices_data = (sc.length === 2)
     ? [{text: "dessin équilibré",  active: false},
        {text: "dessin alternatif", active: true }]
@@ -125,7 +126,7 @@ function lighten(d,i) {
   if (category === "") {
     return "touch";
   };
-  var sc = data.scales[category][currScale].variations[variation];
+  var sc = currScale.dualo_code[variation];
   return (range(i) === 0)
     ? "touch orange"
     : (sc.indexOf(range(i)) != -1)
@@ -145,7 +146,7 @@ function transpose(d,i) {
 };
 
 function newTitle() {
-  title.text(currScale +" en "+ data.keyboard["usual"][transpo]);
+  title.text(currScale.name[0] +" en "+ data.keyboard["usual"][transpo]);
 };
 
 function update(){
@@ -155,18 +156,15 @@ function update(){
 
 var ica = 0;
 var isc = 0;
-var icat = d3.keys(data.scales);
-var isca = d3.keys(data.scales[icat[ica]]);
+category  = data.scales[ica].key;
 var auto = setInterval(iupdate, 250);
 
 function iupdate(){
-  category  = icat[ica];
-  currScale = isca[isc];
+  currScale = data.scales[ica].values[isc];
   update();
-  isc += 1;
-  if (isc === isca.length) {
-    isc = 0;
-    ica = (ica + 1) % icat.length;
-    isca = d3.keys(data.scales[icat[ica]]);
+  isc = (isc + 1) % data.scales[ica].values.length;
+  if (isc === 0) {
+    ica = (ica + 1) % data.scales.length;
+    category  = data.scales[ica].key;
   };
 };
