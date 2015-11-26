@@ -66,9 +66,13 @@ function depreciation(code) {
   var inter = getIntervals(code);
   inter = inter.concat(inter[0]);
   for (var i = 0; i < inter.length-1; i++) {
-    if (inter[i] === 1 ||
-        inter[i] === 2 && (inter[i-1] === 5 || inter[i+1] === 5))
-    {
+    if (
+      inter[i] === 1 ||
+      inter[i] === 2 && (inter[i-1] === 5 || inter[i+1] === 5  ||
+                         inter[i-1] === 4 || inter[i+1] === 4  ||
+                         inter[i-1] === 1 || inter[i+1] === 1) ||
+      inter[i] === 3 && (inter[i-1] === 1 || inter[i+1] === 1)
+    ){
       dep++;
     };
   };
@@ -95,6 +99,7 @@ function getCombinations(code) {
              balance(result[1]),
              depreciation(result[0]),
              depreciation(result[1])];
+    if (code.toString() == [0,3,6,8,9,10].toString()){console.log(b)};
     if (b[0] > b[1] || (b[0] === b[1] && b[2] > b[3])) {
       result = [result[1], result[0]];
     };
