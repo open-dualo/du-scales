@@ -15,7 +15,7 @@
     "5+": {"code": 8, "name":"Quinte augmentée"},
     "6m": {"code": 8, "name":"Sixte mineure"},
     "6" : {"code": 9, "name":"Sixte majeure"},
-    "6+": {"code": 9, "name":"Sixte augmentée"},
+    "6+": {"code": 10, "name":"Sixte augmentée"},
     "7°": {"code": 9, "name":"Septième diminuée"},
     "7m": {"code": 10, "name":"Septième mineure"},
     "7" : {"code": 11, "name":"Septième majeure"}
@@ -105,9 +105,9 @@
       "5°": 6,
       "5" : 7,
       "5+": 8,
-      "6m": 9,
+      "6m": 8,
       "6" : 9,
-      "6+": 9,
+      "6+": 10,
       "7°": 9,
       "7m": 10,
       "7" : 11
@@ -140,9 +140,9 @@
       "b5": 6,
       "5" : 7,
       "#5": 8,
-      "b6": 9,
+      "b6": 8,
       "6" : 9,
-      "#6": 9,
+      "#6": 10,
       "b7": 10,
       "7" : 11
     },
