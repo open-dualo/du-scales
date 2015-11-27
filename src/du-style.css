@@ -77,10 +77,6 @@ nav li.current ul {
 }
 .svg-container svg {
     max-height: 60vmin;
-    opacity: 0.3;
-}
-.svg-container svg.active {
-    opacity: 1;
 }
 
 /* Responsive */
@@ -145,6 +141,10 @@ h2 {
     fill: #333;
     stroke: #444;
     stroke-width: 1;
+}
+.touch.green .hexagon,
+.touch.orange .hexagon {
+    fill: #555;
 }
 .active .touch.green .hexagon {
     fill: #7CC17C;
