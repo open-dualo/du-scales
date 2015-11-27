@@ -1,83 +1,83 @@
-name	code
-Balinaise	T 2m 3m 5 6m
-Chinoise (première forme)	T 2 4 5 6
-Chinoise (deuxième forme)	T 3 4+ 5 7
-Iwato 2	T 4 4+ 5 7m
-Kokin joshi	T 2m 4 5 7m
-Kumoi	T 2m 4 5 6m
-Pentatonique dominante	T 2 3 5 7m
-Pentatonique égyptienne	T 2 4 5 7m
-Pentatonique harmonique	T 2 3 5 6m
-Pentatonique japonaise	T 2 3m 5 6
-Pentatonique locrien (première forme)	T 2 3m 5° 6m
-Pentatonique locrien (deuxième forme)	T 2m 3m 5° 6m
-Pentatonique majeure	T 2 3 5 6
-Pentatonique mauritanienne	T 3 4 5 7
-Pentatonique mineure	T 3m 4 5 7m
-Pentatonique pelog	T 2m 3m 5 7m
-Augmentée	T 3m 3 5 6m 7
-Bahar	T 2 3m 4 5 7m
-Bitonal majeur chromatique	T 3m 3 5° 5 7 7
-Bitonal mineur chromatique	T 2 3m 5° 5 7
-Blues diminué (deuxième forme)	T 3m 3 5° 5 6
-Enigmatique	T 2m 3 4+ 6m 7m
-Hexa-lydien	T 2 3 4+ 5 6
-Hexa-mélodique	T 2 3m 4 5 6
-Hexa-phrygien	T 2m 3m 4 5 6m
-Hexa-tritonique binaire	T 3m 4° 5 6 7m
-Hexa-tritonique diminué	T 2 3m 4+ 5+ 6
-Hexa-tritonique diminué 2	T 2m 3m 4+ 5 6
-Hexa-tritonique diminué suspendu	T 2 3m 4+ 5 6
-Indoustane	T 3 4 5 6m 7m
-Blues Majeur (première forme)	T 2 3m 3 5 6 7
-Blues Majeur (deuxième forme)	T 3m 4 4+ 5 6
-Blues Mineur (première forme)	T 3m 4 4+ 5 7m
-Blues Mineur (deuxième forme)	T 3m 4+ 6m 6 7m
-Prométhée	T 2 3 4+ 6 7m
-Ton par ton	T 2 3 4+ 6m 7m
-Aéolien	T 2 3m 4 5 6m 7m
-Aéolien b5	T 2 3m 4 5° 6m 7m
-Altéré superlocrien	T 2m 3m 4° 5° 6m 7m
-Arabe	T 2 3 4 5° 6m 7m
-Bartock	T 2 3 4+ 5 6 7m
-Blues (heptatonique)	T 2+ 3+ 4+ 5 6+ 7
-Demi-ton tons sans sixte	T 2m 3m 3 4+ 5 7m
-Dorien	T 2 3m 4 5 6 7m
-Enigmatique	T 2m 3 4+ 5+ 6+ 7
-Espagnole (première forme)	T 2m 3 4 5 6m 7m
-Gitane	T 2m 3 4 5 6 7m
-Gypsy	T 2m 3 4 5 6m 7
-Hindou	T 2 3 4 5 6m 7m
-Hongroise gitane	T 2 3m 4+ 5 6m 7m
-Hongroise majeure	T 2+ 3 4+ 5 6 7m
-Hongroise mineure	T 2 3m 4+ 5 6m 7
-Ionien	T 2 3 4 5 6 7
-Ionien #5	T 2 3 4 5+ 6 7
-Javanais	T 2m 3m 4 5 6 7m
-Locrien	T 2m 3m 4 5° 6m 7m
-Locrien bécarre 6	T 2m 3m 4 5° 6 7m
-Lydien	T 2 3 4+ 5 6 7
-Lydien #2	T 2+ 3 4+ 5 6 7
-Lydien augmenté	T 2 3 4+ 5+ 6 7
-Majeure harmonique	T 2 3 4 5 6m 7
-Mineure harmonique	T 2 3m 4 5 6m 7
-Mineure mélodique	T 2 3m 4 5 6 7
-Mixolydien	T 2 3 4 5 6 7m
-Napolitaine majeure	T 2m 3m 4 5 6 7
-Napolitaine mineure	T 2m 3m 4 5 6m 7
-Orientale (première forme)	T 2m 3 4 5° 6m 7m
-Orientale (deuxième forme)	T 2m 3 4 5° 6m 7°
-Orientale (troisième forme)	T 2+ 3 4 5+ 6 7
-Persane (première forme)	T 2m 3 4 4+ 5 7m
-Persane (deuxième forme)	T 2m 3 4 5° 6m 7
-Phrygien	T 2m 3m 4 5 6m 7m
-Roumain mineur	T 2 3m 4+ 5 6 7m
-Superlocrien bb7	T 2m 3m 4° 5° 6m 7°
-Bebop dominante	T 2 3 4 5 6 7m 7
-Bebop majeur	T 2 3 4 5 6m 6 7
-Bebop mineur	T 2 3m 3 4 5 6 7m
-Blues diminué (première forme)	T 2m 3m 3 5° 5 6 7m
-Demi-diminué	T 2m 3m 3 5° 5 6 7
-Diminué	T 2 3m 4 5° 6m 6 7
-Espagnole (deuxième forme)	T 2m 3m 3 4 5° 6m 7m
-Espagnole 8 sons	T 2m 3m 3 4 5 6m 7m
+code	name	en
+T 2m 3m 5 6m	Balinaise	Balinese
+T 2 4 5 6	Chinoise (première forme)	Chinese (first form)
+T 3 4+ 5 7	Chinoise (deuxième forme)	Chinese (second form)
+T 4 4+ 5 7m	Iwato 2	Iwato 2
+T 2m 4 5 7m	Kokin joshi	Kokin joshi
+T 2m 4 5 6m	Kumoi	Kumoi
+T 2 3 5 7m	Pentatonique dominante	Pentatonic dominant
+T 2 4 5 7m	Pentatonique égyptienne	Egyptian pentatonic
+T 2 3 5 6m	Pentatonique harmonique	Pentatonic harmonic
+T 2 3m 5 6	Pentatonique japonaise	Japanese pentatonic
+T 2 3m 5° 6m	Pentatonique locrien (première forme)	Pentatonic locrian (first form)
+T 2m 3m 5° 6m	Pentatonique locrien (deuxième forme)	Pentatonic locrian (second form)
+T 2 3 5 6	Pentatonique majeure	Major pentatonic
+T 3 4 5 7	Pentatonique mauritanienne	Pentatonic Mauritanian
+T 3m 4 5 7m	Pentatonique mineure	Minor Pentatonic
+T 2m 3m 5 7m	Pentatonique pelog	Pentatonic pelog
+T 3m 3 5 6m 7	Augmentée	Augmented
+T 2 3m 4 5 7m	Bahar	Bahar
+T 3m 3 5° 5 7 7	Bitonal majeur chromatique	Bitonal chromatic major
+T 2 3m 5° 5 7	Bitonal mineur chromatique	Bitonal chromatic minor
+T 3m 3 5° 5 6	Blues diminué (deuxième forme)	Blues diminished (second form)
+T 2m 3 4+ 6m 7m	Enigmatique	Enigmatic
+T 2 3 4+ 5 6	Hexa-lydien	Hexa-Lydian
+T 2 3m 4 5 6	Hexa-mélodique	Hexa-melodic
+T 2m 3m 4 5 6m	Hexa-phrygien	Hexa-Phrygian
+T 3m 4° 5 6 7m	Hexa-tritonique binaire	Hexa-binary tritone
+T 2 3m 4+ 5+ 6	Hexa-tritonique diminué	Hexa-tritone diminished
+T 2m 3m 4+ 5 6	Hexa-tritonique diminué 2	Hexa-tritone diminished 2
+T 2 3m 4+ 5 6	Hexa-tritonique diminué suspendu	Hexa-tritone diminished suspended
+T 3 4 5 6m 7m	Indoustane	Indoustane
+T 2 3m 3 5 6 7	Blues Majeur (première forme)	Major Blues (first form)
+T 3m 4 4+ 5 6	Blues Majeur (deuxième forme)	Major Blues (second form)
+T 3m 4 4+ 5 7m	Blues Mineur (première forme)	Blues Minor (first form)
+T 3m 4+ 6m 6 7m	Blues Mineur (deuxième forme)	Blues Minor (second form)
+T 2 3 4+ 6 7m	Prométhée	Prometheus
+T 2 3 4+ 6m 7m	Ton par ton	Whole tone
+T 2 3m 4 5 6m 7m	Aéolien	Aeolian
+T 2 3m 4 5° 6m 7m	Aéolien b5	Aeolian b5
+T 2m 3m 4° 5° 6m 7m	Altéré superlocrien	Superlocrien altered
+T 2 3 4 5° 6m 7m	Arabe	Arab
+T 2 3 4+ 5 6 7m	Bartock	Bartock
+T 2+ 3+ 4+ 5 6+ 7	Blues (heptatonique)	Blues (heptatonic)
+T 2m 3m 3 4+ 5 7m	Demi-ton tons sans sixte	Halftone tones without sixth
+T 2 3m 4 5 6 7m	Dorien	Dorian
+T 2m 3 4+ 5+ 6+ 7	Enigmatique	Enigmatic
+T 2m 3 4 5 6m 7m	Espagnole (première forme)	Spanish (first form)
+T 2m 3 4 5 6 7m	Gitane	Gitane
+T 2m 3 4 5 6m 7	Gypsy	Gypsy
+T 2 3 4 5 6m 7m	Hindou	Hindu
+T 2 3m 4+ 5 6m 7m	Hongroise gitane	Hungarian gypsy
+T 2+ 3 4+ 5 6 7m	Hongroise majeure	Most Hungarian
+T 2 3m 4+ 5 6m 7	Hongroise mineure	Hungarian minor
+T 2 3 4 5 6 7	Ionien	Ionian
+T 2 3 4 5+ 6 7	Ionien #5	Ionian # 5
+T 2m 3m 4 5 6 7m	Javanais	Javanese
+T 2m 3m 4 5° 6m 7m	Locrien	Locrian
+T 2m 3m 4 5° 6 7m	Locrien bécarre 6	Locrian natural 6
+T 2 3 4+ 5 6 7	Lydien	Lydian
+T 2+ 3 4+ 5 6 7	Lydien #2	Lydian # 2
+T 2 3 4+ 5+ 6 7	Lydien augmenté	Lydian augmented
+T 2 3 4 5 6m 7	Majeure harmonique	Harmonic Major
+T 2 3m 4 5 6m 7	Mineure harmonique	Harmonic Minor
+T 2 3m 4 5 6 7	Mineure mélodique	Melodic minor
+T 2 3 4 5 6 7m	Mixolydien	Mixolydian
+T 2m 3m 4 5 6 7	Napolitaine majeure	Major Neapolitan
+T 2m 3m 4 5 6m 7	Napolitaine mineure	Minor Neapolitan
+T 2m 3 4 5° 6m 7m	Orientale (première forme)	Oriental (first form)
+T 2m 3 4 5° 6m 7°	Orientale (deuxième forme)	Oriental (second form)
+T 2+ 3 4 5+ 6 7	Orientale (troisième forme)	Oriental (third form)
+T 2m 3 4 4+ 5 7m	Persane (première forme)	Persian (first form)
+T 2m 3 4 5° 6m 7	Persane (deuxième forme)	Persian (second form)
+T 2m 3m 4 5 6m 7m	Phrygien	Phrygian
+T 2 3m 4+ 5 6 7m	Roumain mineur	Romanian minor
+T 2m 3m 4° 5° 6m 7°	Superlocrien bb7	Superlocrien bb7
+T 2 3 4 5 6 7m 7	Bebop dominante	Dominant Bebop
+T 2 3 4 5 6m 6 7	Bebop majeur	Major Bebop
+T 2 3m 3 4 5 6 7m	Bebop mineur	Minor Bebop
+T 2m 3m 3 5° 5 6 7m	Blues diminué (première forme)	Blues diminished (first form)
+T 2m 3m 3 5° 5 6 7	Demi-diminué	Half diminished
+T 2 3m 4 5° 6m 6 7	Diminué	Diminished
+T 2m 3m 3 4 5° 6m 7m	Espagnole (deuxième forme)	Spanish (second form)
+T 2m 3m 3 4 5 6m 7m	Espagnole 8 tons	Spanish 8 Tone

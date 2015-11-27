@@ -40,7 +40,7 @@ var categories = navig
     .data(data.scales)
   .enter()
     .append("li")
-    .text(function(d){return d.key})
+    .text(function(d){return d.key + ' (' + d.values.length + ')'})
     .on("click", function(d){
       if (!d3.select(this).classed("current")) {        
         d3.select(".current").classed("current", false);

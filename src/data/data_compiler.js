@@ -34,6 +34,15 @@ function onlyUnique(value, index, self) {
     return self.indexOf(value) === index;
 }
 
+function formatWord(name) {
+  var i = (name.charAt(0) === '(' || name.charAt(0) === '#') ? 1 : 0;
+  return name.charAt(i-1) + name.charAt(i).toUpperCase() + name.slice(1+i).toLowerCase();
+}
+
+function formatName(name) {
+  return name.split(' ').map(formatWord).join(' ');
+}
+
 /* get intervals between values */
 
 function getIntervals(arr) {
@@ -99,7 +108,6 @@ function getCombinations(code) {
              balance(result[1]),
              depreciation(result[0]),
              depreciation(result[1])];
-    if (code.toString() == [0,3,6,8,9,10].toString()){console.log(b)};
     if (b[0] > b[1] || (b[0] === b[1] && b[2] > b[3])) {
       result = [result[1], result[0]];
     };
@@ -117,14 +125,14 @@ function registerScale(element, index, source){
   if (i === -1) {
     packed_data.push({
       category: code.length + " notes",
-      name: element.name.split(',').filter(onlyUnique),
+      name: element.name.split(',').map(formatName).filter(onlyUnique),
       code: code,
       dualo_code: getCombinations(code),
       source: [source.name]
     });
   } else {
     packed_data[i].name = packed_data[i].name
-      .concat(element.name.split(','))
+      .concat(element.name.split(',').map(formatName))
       .filter(onlyUnique);
     packed_data[i].source.push(source.name);
     packed_data[i].source = packed_data[i].source

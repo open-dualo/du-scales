@@ -34,7 +34,6 @@ var data = {
             "Balinaise",
             "Balinoise",
             "Balinese",
-            "Balinesische",
             "Pelog 1"
           ],
           "code": [
@@ -95,7 +94,7 @@ var data = {
           "category": "5 notes",
           "name": [
             "Blues #V",
-            "Blues#V (all b's)"
+            "Blues#v (All B's)"
           ],
           "code": [
             0,
@@ -127,7 +126,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Chinoise (deuxième forme)",
+            "Chinoise (Deuxième Forme)",
             "Raga Malashri (India)",
             "Chinese"
           ],
@@ -162,11 +161,9 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Chinoise (première forme)",
-            "Pentatonique Mode 4",
-            "Pentatonic 4",
-            "Pentatonischer 4",
-            "Example of Slendro",
+            "Chinoise (Première Forme)",
+            "Pentatonique 4",
+            "Example Of Slendro",
             "Zhi (China)",
             "Raga Devakriya (India)",
             "Ujo (Korea)",
@@ -198,7 +195,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Half Diminished plus b8"
+            "Half Diminished Plus B8"
           ],
           "code": [
             0,
@@ -230,7 +227,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Han - kumoi (Japan)"
+            "Han - Kumoi (Japan)"
           ],
           "code": [
             0,
@@ -383,9 +380,9 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Kokin joshi",
+            "Kokin Joshi",
             "Insen",
-            "Kokin-Joshi",
+            "Kokin-joshi",
             "Soft Ascend Japan",
             "Miyakobushi (Japan)"
           ],
@@ -416,9 +413,8 @@ var data = {
           "name": [
             "Kumoi",
             "Japonnaise",
-            "Japanese",
-            "Japanische",
             "Miyako-bushi",
+            "Japanese",
             "Sakura Pentatonic Soft Descend"
           ],
           "code": [
@@ -640,41 +636,12 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique Altéré",
-            "Altered Pentatonic",
-            "Alterierter Pentatonischer"
-          ],
-          "code": [
-            0,
-            1,
-            4,
-            7,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              4,
-              7,
-              21
-            ]
-          ],
-          "source": [
-            "GuitarPro5"
-          ]
-        },
-        {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Mode 3",
-            "Pentatonic 3",
-            "Pentatonischer 3",
+            "Pentatonique 3",
             "Blues Pentatonic Minor",
-            "Hard Japan descending",
+            "Hard Japan Descending",
             "Raga Malkauns",
             "2b's 1# Blues Pentatonic Minor",
-            "Hard Japan descending 3#'s"
+            "Hard Japan Descending 3#'s"
           ],
           "code": [
             0,
@@ -700,10 +667,32 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique dominante",
+            "Pentatonique Altéré"
+          ],
+          "code": [
+            0,
+            1,
+            4,
+            7,
+            9
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              7,
+              21
+            ]
+          ],
+          "source": [
+            "GuitarPro5"
+          ]
+        },
+        {
+          "category": "5 notes",
+          "name": [
             "Pentatonique Dominante",
-            "Pentatonic Dominant",
-            "Pentatonischer Dominant",
             "Dominant Pentatonic"
           ],
           "code": [
@@ -731,7 +720,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique harmonique",
+            "Pentatonique Harmonique",
             "Raga Bhupeshwari",
             "Janasammodini (India)"
           ],
@@ -759,7 +748,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique japonaise",
+            "Pentatonique Japonaise",
             "Dorian Pentatonic",
             "Kumoi Japan",
             "Akebono (Japan)"
@@ -788,7 +777,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique locrien (deuxième forme)",
+            "Pentatonique Locrien (Deuxième Forme)",
             "Raga Chhaya Todi (India)"
           ],
           "code": [
@@ -822,7 +811,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique locrien (première forme)"
+            "Pentatonique Locrien (Première Forme)"
           ],
           "code": [
             0,
@@ -854,20 +843,10 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique majeure",
             "Pentatonique Majeure",
             "Chinoise",
             "Mongole",
             "Pentatonique Majeur",
-            "Pentatonic Major ",
-            "Chinese",
-            "Mongolian",
-            "Pentatonic Majeur",
-            "Pentatonik",
-            "Chinesische",
-            "Mongolianische",
-            "Pentatonischer Dur",
-            "Major pentatonic",
             "Major Pentatonic",
             "Gong (China)",
             "Raga Bhopali",
@@ -901,7 +880,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique mauritanienne",
+            "Pentatonique Mauritanienne",
             "Ionian Pentatonic Raga Gambhiranata (India)"
           ],
           "code": [
@@ -928,15 +907,10 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique mineure",
             "Pentatonique Mineure",
             "Pentatonique Mineur",
-            "Pentatonic Minor",
-            "Pentatonik",
-            "Pentatonischer",
-            "Minor pentatonic",
             "Blues Pentatonic Minor",
-            "Hard Japan descending",
+            "Hard Japan Descending",
             "Pyongjo Kyemyonjo (Korea)",
             "Minyo (Japan)"
           ],
@@ -966,7 +940,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique pelog",
+            "Pentatonique Pelog",
             "Pelog",
             "Raga Rukmangi",
             "Pelog 2"
@@ -996,13 +970,10 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Pentatonique égyptienne",
+            "Pentatonique Égyptienne",
             "Egyptienne",
-            "Pentatonique Mode 2",
+            "Pentatonique 2",
             "Egyptian",
-            "Pentatonic 2",
-            "Egyptische",
-            "Pentatonischer 2",
             "Suspended Pentatonic"
           ],
           "code": [
@@ -1430,7 +1401,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Raga Jayakauns (india)"
+            "Raga Jayakauns (India)"
           ],
           "code": [
             0,
@@ -2072,8 +2043,7 @@ var data = {
         {
           "category": "5 notes",
           "name": [
-            "Raga Zilaf",
-            "(India)"
+            "Raga Zilaf (India)"
           ],
           "code": [
             0,
@@ -2130,9 +2100,8 @@ var data = {
           "name": [
             "Augmentée",
             "Augmented",
-            "Erweiterete",
             "Messiaen Truncated Mode 3 Inverse",
-            "genus tertium Raga Devamani"
+            "Genus Tertium Raga Devamani"
           ],
           "code": [
             0,
@@ -2194,7 +2163,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Bitonal mineur chromatique",
+            "Bitonal Mineur Chromatique",
             "Raga Amarasenapriya (India)"
           ],
           "code": [
@@ -2226,6 +2195,41 @@ var data = {
           "source": [
             "Solfego.fr",
             "Harmonics.com"
+          ]
+        },
+        {
+          "category": "6 notes",
+          "name": [
+            "Blues Diminué (Deuxième Forme)"
+          ],
+          "code": [
+            0,
+            3,
+            4,
+            6,
+            7,
+            9
+          ],
+          "dualo_code": [
+            [
+              0,
+              3,
+              4,
+              18,
+              7,
+              21
+            ],
+            [
+              0,
+              3,
+              4,
+              6,
+              7,
+              21
+            ]
+          ],
+          "source": [
+            "Solfego.fr"
           ]
         },
         {
@@ -2287,11 +2291,9 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Blues Majeur (deuxième forme)",
-            "Blues Majeure",
-            "Blues",
-            "Blues Major",
-            "Voodoo Blues"
+            "Blues Majeur (Deuxième Forme)",
+            "Blues Majeur",
+            "Blues"
           ],
           "code": [
             0,
@@ -2327,7 +2329,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Blues Mineur (deuxième forme)"
+            "Blues Mineur (Deuxième Forme)"
           ],
           "code": [
             0,
@@ -2362,10 +2364,10 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Blues Mineur (première forme)",
-            "Blues Mineure",
-            "Blues Minor",
-            "Blues"
+            "Blues Mineur (Première Forme)",
+            "Blues Mineur",
+            "Blues",
+            "Blues Minor"
           ],
           "code": [
             0,
@@ -2438,42 +2440,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Blues diminué (deuxième forme)"
-          ],
-          "code": [
-            0,
-            3,
-            4,
-            6,
-            7,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              3,
-              4,
-              18,
-              7,
-              21
-            ],
-            [
-              0,
-              3,
-              4,
-              6,
-              7,
-              21
-            ]
-          ],
-          "source": [
-            "Solfego.fr"
-          ]
-        },
-        {
-          "category": "6 notes",
-          "name": [
-            "Double-Phrygian Hexatonic"
+            "Double-phrygian Hexatonic"
           ],
           "code": [
             0,
@@ -2763,7 +2730,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Hexa-tritonique binaire"
+            "Hexa-tritonique Binaire"
           ],
           "code": [
             0,
@@ -2790,7 +2757,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Hexa-tritonique diminué",
+            "Hexa-tritonique Diminué",
             "Raga Neelangi (India)"
           ],
           "code": [
@@ -2827,7 +2794,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Hexa-tritonique diminué 2",
+            "Hexa-tritonique Diminué 2",
             "Messiaen Truncated Mode 2"
           ],
           "code": [
@@ -2864,7 +2831,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Hexa-tritonique diminué suspendu",
+            "Hexa-tritonique Diminué Suspendu",
             "Raga Vijayanagari"
           ],
           "code": [
@@ -2965,7 +2932,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Istrian mode"
+            "Istrienne"
           ],
           "code": [
             0,
@@ -3001,7 +2968,7 @@ var data = {
           "category": "6 notes",
           "name": [
             "Lydian #2 Hexatonic",
-            "Lydian b3 Hexatonic"
+            "Lydian B3 Hexatonic"
           ],
           "code": [
             0,
@@ -3082,7 +3049,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Messiaen 5th mode From Groves start E",
+            "Messiaen 5th Mode From Groves Start E",
             "Messiaen Mode 5"
           ],
           "code": [
@@ -3337,7 +3304,7 @@ var data = {
           "name": [
             "Prométhée",
             "Prometheus",
-            "Prometheus F# and Bb"
+            "Prometheus F# And Bb"
           ],
           "code": [
             0,
@@ -4922,7 +4889,7 @@ var data = {
           "category": "6 notes",
           "name": [
             "Raga Saravati (#5) (India)",
-            "Raga Saravati (b6) (India)"
+            "Raga Saravati (B6) (India)"
           ],
           "code": [
             0,
@@ -5521,12 +5488,8 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Ton par ton",
             "Ton Par Ton",
-            "Whole Tone",
-            "Ganzton",
-            "Whole tone",
-            "Whole-Tone",
+            "Whole-tone",
             "Auxillary Augmented",
             "Messiaen 1st Mode",
             "Raga Gopriya (India)",
@@ -5606,7 +5569,7 @@ var data = {
         {
           "category": "6 notes",
           "name": [
-            "Truncated mode 2"
+            "Truncated Mode 2"
           ],
           "code": [
             0,
@@ -5646,18 +5609,16 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Altéré superlocrien",
+            "Altéré Superlocrien",
             "Mélodique Superlocrien",
-            "Superlocrian Minor",
-            "Superlokrisch",
-            "Altered",
-            "Hindi 5 flats",
-            "Super Locrian 5 flats",
-            "Lydian Augmented or Hindi 5 flats & bIV",
-            "Super Locrian 6 flats",
-            "Super Locrian all sharps",
+            "Altérée",
+            "Hindi 5 Flats",
+            "Super Locrian 5 Flats",
+            "Lydian Augmented Or Hindi 5 Flats & Biv",
+            "Super Locrian 6 Flats",
+            "Super Locrian All Sharps",
             "Superlocrian",
-            "Diminished Whole-Tone"
+            "Diminished Whole-tone"
           ],
           "code": [
             0,
@@ -5699,8 +5660,7 @@ var data = {
           "category": "7 notes",
           "name": [
             "Arabe",
-            "Arabian",
-            "Arabische",
+            "Locrien Majeur",
             "Major Locrian"
           ],
           "code": [
@@ -5745,14 +5705,8 @@ var data = {
             "Aéolien",
             "Mineure Naturelle",
             "Ethiopienne",
-            "Minor",
-            "Ethiopian",
-            "Aeolian",
-            "melodisches",
-            "Ethiopianische",
-            "Modus 6 / Aeolisch",
             "Aeolian Natural Minor",
-            "Asavari Asc Nats. A to G",
+            "Asavari Asc Nats. A To G",
             "Gregorian Scale 2",
             "Assari Thaat (India)",
             "Se (China)",
@@ -5788,13 +5742,11 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Aéolien b5",
+            "Aéolien B5",
             "Mélodique Locrien",
-            "Locrian Sharp 2 Minor",
-            "Lokrisch Sharp 2",
-            "Half diminished",
+            "Demi Diminué",
             "Minor Locrian",
-            "Hindi 3 flats and bV"
+            "Hindi 3 Flats And Bv"
           ],
           "code": [
             0,
@@ -5837,13 +5789,12 @@ var data = {
           "name": [
             "Bartock",
             "Bartok",
+            "Harmonique",
             "Mélodique Lydien",
+            "Acoustique",
+            "Lydian Bviith",
             "Overtone",
-            "Lydian Flat 7 Minor",
-            "Lydian Flat 7",
-            "Acoustic",
-            "Lydian bVIIth",
-            "Hindi #IV & bVII",
+            "Hindi #Iv & Bvii",
             "Mela Vacaspati (India)",
             "Raga Bhusavati (India)",
             "Lydian Mixolydian",
@@ -5917,7 +5868,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Bitonal majeur chromatique"
+            "Bitonal Majeur Chromatique"
           ],
           "code": [
             0,
@@ -5955,8 +5906,8 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Blues (heptatonique)",
-            "Blues with Leading Tone"
+            "Blues (Heptatonique)",
+            "Blues With Leading Tone"
           ],
           "code": [
             0,
@@ -6033,7 +5984,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Blues Majeur (première forme)"
+            "Blues Majeur (Première Forme)"
           ],
           "code": [
             0,
@@ -6256,7 +6207,7 @@ var data = {
           "category": "7 notes",
           "name": [
             "Chromatic Hypolydian",
-            "Puravi bVI"
+            "Puravi Bvi"
           ],
           "code": [
             0,
@@ -6371,7 +6322,7 @@ var data = {
           "category": "7 notes",
           "name": [
             "Chromatic Lydian Inverse",
-            "Todi bVI"
+            "Todi Bvi"
           ],
           "code": [
             0,
@@ -6581,7 +6532,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Demi-ton tons sans sixte"
+            "Demi-ton Tons Sans Sixte"
           ],
           "code": [
             0,
@@ -6619,7 +6570,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Dorian b5"
+            "Dorian B5"
           ],
           "code": [
             0,
@@ -6659,8 +6610,7 @@ var data = {
           "name": [
             "Dorien",
             "Dorian",
-            "Modus 2 / Dorisch",
-            "Kafi  D to C asc. naturals",
+            "Kafi  D To C Asc. Naturals",
             "Eskimo Heptatonic (N. America)",
             "Kafi Thaat (India)",
             "Embulum (Sumerian)"
@@ -6764,8 +6714,7 @@ var data = {
           "name": [
             "Enigmatique",
             "Enigmatique Ascendant",
-            "Enigmatic Ascending",
-            "Enigmatic"
+            "Enigmatic Ascending"
           ],
           "code": [
             0,
@@ -6806,17 +6755,11 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Espagnole (première forme)",
+            "Espagnole (Première Forme)",
             "Espagnole",
             "Juive",
             "Harmonique Mixolydien",
-            "Spanish",
-            "Jewish",
-            "Phrygian Major",
-            "Spanische",
-            "Jüdische",
-            "Phrygisch Dur",
-            "Phrygian dominant",
+            "Phrygien Dominant",
             "Phrygian Dominant",
             "Dorico Flamenco",
             "Avaha Raba",
@@ -6859,7 +6802,7 @@ var data = {
           "name": [
             "Example Of Pelog",
             "Mela Latangi (India)",
-            "Mela Latangi (India) (b6)"
+            "Mela Latangi (India) (B6)"
           ],
           "code": [
             0,
@@ -6899,8 +6842,7 @@ var data = {
           "name": [
             "Gitane",
             "Gypsy",
-            "Zigeuner-Dur-Tonleiter",
-            "Harmonic Minor Inverse or Bhairav",
+            "Harmonic Minor Inverse Or Bhairav",
             "Maqam Hicaz (Arabia)"
           ],
           "code": [
@@ -6934,10 +6876,9 @@ var data = {
           "name": [
             "Gypsy",
             "Byzantine",
-            "Byzantinische",
-            "Double harmonic",
-            "Flamenco mode",
-            "Hungarian Folk or Byzantine Major Gypsy",
+            "Double Harmonique",
+            "Flamenco",
+            "Hungarian Folk Or Byzantine Major Gypsy",
             "Bhairav Thaat (India) Mela Mayamalavagaula (India) Raga Paraj (India) Hitzazkiar (Greece)"
           ],
           "code": [
@@ -7002,11 +6943,8 @@ var data = {
             "Hindou",
             "Indienne",
             "Mélodique Mixolydien",
-            "Hindu",
-            "Mixolydian Flat 6 Minor",
-            "Mixolydian Flat 6",
             "Major Minor",
-            "Hindu bVI & bVII",
+            "Hindu Bvi & Bvii",
             "Mela Carukesi (India) Raga Tarangini (India)"
           ],
           "code": [
@@ -7038,11 +6976,10 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Hongroise gitane",
             "Hongroise Gitane",
-            "Hungarian Gypsy",
-            "Zigeuner-Moll-Tonleiter",
+            "Gypsy Hongroise",
             "Gypsy",
+            "Hungarian Gypsy",
             "Mela Sanmukhapriya (India)",
             "Damian Emmanuel"
           ],
@@ -7085,10 +7022,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Hongroise majeure",
             "Hongroise Majeure",
-            "Hungarian Major",
-            "Hungarische Dur",
             "Hungarian Major Raga Nasamani (India)"
           ],
           "code": [
@@ -7129,14 +7063,10 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Hongroise mineure",
-            "Algérienne",
             "Hongroise Mineure",
-            "Algerian",
+            "Algérienne",
+            "Hongroise Gypsy",
             "Hungarian Minor",
-            "Hungarische",
-            "Hungarian Gypsy",
-            "Hungarian minor",
             "Maqam Nawa Athar (Arabia)",
             "Double Harmonic Minor",
             "Niavent (Greece)"
@@ -7211,7 +7141,7 @@ var data = {
           "category": "7 notes",
           "name": [
             "Indian",
-            "Phrygian dim 4th"
+            "Phrygian Dim 4th"
           ],
           "code": [
             0,
@@ -7242,11 +7172,9 @@ var data = {
           "name": [
             "Ionien",
             "Majeure",
-            "Major",
             "Ionian",
-            "Dur-Tonleiter",
-            "Modus 1 / Ionisch",
-            "Bilaval  C to B asc.  nats.",
+            "Major",
+            "Bilaval  C To B Asc.  Nats.",
             "Thaat",
             "Nid Murub (Sumerian)"
           ],
@@ -7282,8 +7210,6 @@ var data = {
           "name": [
             "Ionien #5",
             "Harmonique Phrygien",
-            "Major Sharp 5",
-            "Dur Sharp 5s",
             "Harmonic Major 2",
             "Ionian #5"
           ],
@@ -7318,10 +7244,9 @@ var data = {
           "name": [
             "Javanais",
             "Javanaise",
-            "Javanese",
-            "Javanesische",
             "Jazz Minor Inverse",
-            "Dorian bII",
+            "Javanese",
+            "Dorian Bii",
             "Hindi"
           ],
           "code": [
@@ -7346,47 +7271,6 @@ var data = {
           ],
           "source": [
             "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Leading Whole Tone",
-            "Führende Ganzton",
-            "Leading Whole-Tone"
-          ],
-          "code": [
-            0,
-            2,
-            4,
-            6,
-            8,
-            10,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              18,
-              20,
-              10,
-              11
-            ],
-            [
-              0,
-              14,
-              4,
-              6,
-              20,
-              10,
-              11
-            ]
-          ],
-          "source": [
             "GuitarPro5",
             "Harmonics.com"
           ]
@@ -7432,7 +7316,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Locrian bb7"
+            "Locrian Bb7"
           ],
           "code": [
             0,
@@ -7471,9 +7355,7 @@ var data = {
           "category": "7 notes",
           "name": [
             "Locrien",
-            "Locrian",
-            "Modus 7 / Lokrisch",
-            "Locrian  - B to A Ascending naturals",
+            "Locrian  - B To A Ascending Naturals",
             "Qablitum (Sumerian)"
           ],
           "code": [
@@ -7515,10 +7397,8 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Locrien bécarre 6",
+            "Locrien Bécarre 6",
             "Harmonique Dorien",
-            "Locrian Nat 6",
-            "Lokrisch Nat 6",
             "Locrian Natural Maj 6",
             "Pseudo Turkish"
           ],
@@ -7643,8 +7523,7 @@ var data = {
           "name": [
             "Lydien",
             "Lydian",
-            "Modus 4 / Lydisch",
-            "Kalyan F to E ascending naturals",
+            "Kalyan F To E Ascending Naturals",
             "Ping (China)",
             "Nis Garb.ri (Mesopotamian)"
           ],
@@ -7689,8 +7568,6 @@ var data = {
           "name": [
             "Lydien #2",
             "Harmonique Aéolien",
-            "Lydian Sharp 2",
-            "Lydisch Sharp 2",
             "Lydian #2 Raga Kuksumakaram"
           ],
           "code": [
@@ -7731,12 +7608,10 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Lydien augmenté",
-            "Mélodique Lydien augmenté",
-            "Lydian Augmented Minor",
+            "Lydien Augmenté",
+            "Mélodique Lydien Augmenté",
             "Lydian Augmented",
-            "Lydian augmented",
-            "Hindi #IV & #V"
+            "Hindi #Iv & #V"
           ],
           "code": [
             0,
@@ -7777,8 +7652,8 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Majeure harmonique",
-            "Harmonic major",
+            "Majeure Harmonique",
+            "Grande Harmonique",
             "Harmonic Major 1",
             "Ethiopian",
             "Nat Bhairava"
@@ -7841,7 +7716,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Marva or Marvi",
+            "Marva Or Marvi",
             "Marva Thaat (India)"
           ],
           "code": [
@@ -9008,16 +8883,11 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Mineure harmonique",
             "Mineure Harmonique",
+            "Mahométan",
             "Harmonique Ionien",
-            "Harmonic Minor",
-            "Mohammedan",
-            "Ionian Harmonic",
-            "harmonisches",
-            "Mohammedanische",
-            "Ionisch Harmonischer",
-            "Harmonic minor"
+            "Gamme Mineure Harmonique",
+            "Harmonic Minor"
           ],
           "code": [
             0,
@@ -9049,18 +8919,13 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Mineure mélodique",
             "Mineure Mélodique",
             "Hawaïenne",
             "Mélodique Ionien",
-            "Melodic Minor",
-            "Hawaiian",
-            "Jazz Minor",
-            "natürliches",
-            "Hawaiianische",
-            "Jazz",
-            "Melodic minor scale ascending",
-            "Minor Melodic"
+            "Jazz Mineur",
+            "Mineure Mélodique Ascendante",
+            "Minor Melodic",
+            "Jazz Minor"
           ],
           "code": [
             0,
@@ -9150,7 +9015,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Mixolydian b5"
+            "Mixolydian B5"
           ],
           "code": [
             0,
@@ -9190,8 +9055,7 @@ var data = {
           "name": [
             "Mixolydien",
             "Mixolydian",
-            "Modus 5 / Mixolydisch",
-            "Khamaj G to F ascend. nats",
+            "Khamaj G To F Ascend. Nats",
             "Ching (China)",
             "Mitum (Sumerian)",
             "Gregorian 7"
@@ -9226,14 +9090,9 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Napolitaine majeure",
             "Napolitaine Majeure",
             "Mélodique Dorien",
             "Neapolitan Major",
-            "Dorian b2 Minor",
-            "Neapolitan Dur",
-            "Dorian b2",
-            "Neapolitan major",
             "Mela Kokilapriya (India)",
             "Raga Kokilaravam (India)"
           ],
@@ -9267,11 +9126,8 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Napolitaine mineure",
             "Napolitaine Mineure",
             "Neapolitan Minor",
-            "Neapolitan",
-            "Neapolitan minor",
             "Raga Dhunibinnashadjam (India)",
             "Maqam Shahnaz Kurdi (Arabia)"
           ],
@@ -9382,8 +9238,6 @@ var data = {
           "category": "7 notes",
           "name": [
             "Orientale",
-            "Oriental",
-            "Orientalische",
             "Oriental 1",
             "Tsinganikos (Greece)",
             "Raga Ahira Lalita (India)"
@@ -9425,7 +9279,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Orientale (deuxième forme)"
+            "Orientale (Deuxième Forme)"
           ],
           "code": [
             0,
@@ -9463,7 +9317,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Orientale (première forme)"
+            "Orientale (Première Forme)"
           ],
           "code": [
             0,
@@ -9501,7 +9355,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Orientale (troisième forme)"
+            "Orientale (Troisième Forme)"
           ],
           "code": [
             0,
@@ -9530,11 +9384,11 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Persane (deuxième forme)",
+            "Persane (Deuxième Forme)",
             "Persienne",
-            "Persian",
-            "Persische",
-            "Chromatic Hypolydian Inverse"
+            "Perse",
+            "Chromatic Hypolydian Inverse",
+            "Persian"
           ],
           "code": [
             0,
@@ -9575,7 +9429,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Persane (première forme)"
+            "Persane (Première Forme)"
           ],
           "code": [
             0,
@@ -9615,8 +9469,7 @@ var data = {
           "name": [
             "Phrygien",
             "Phrygian",
-            "Modus 3 / Phrygisch",
-            "Bhairavi  E to D asc. nats.",
+            "Bhairavi  E To D Asc. Nats.",
             "Ishartum (Sumerian)",
             "Gregorian 3"
           ],
@@ -9806,7 +9659,7 @@ var data = {
           "category": "7 notes",
           "name": [
             "Romanian Major",
-            "Purvi bVII"
+            "Purvi Bvii"
           ],
           "code": [
             0,
@@ -9844,15 +9697,13 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Roumain mineur",
+            "Roumain Mineur",
             "Harmonique Lydien",
-            "Dorian Sharp 4",
-            "Dorisch Sharp 4",
-            "Ukrainian Dorian mode",
+            "Dorien Ukrainien",
             "Romanian",
             "Gnossiennes",
-            "Ukrainian minor Raja",
-            "Dorian with a sharp fourth"
+            "Ukrainian Minor Raja",
+            "Dorian With A Sharp Fourth"
           ],
           "code": [
             0,
@@ -9960,10 +9811,8 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Superlocrien bb7",
+            "Superlocrien Bb7",
             "Harmonique Locrien",
-            "Superlocrian Double Flat 7",
-            "Superlokrisch Double Flat 7",
             "Ultra Locrian"
           ],
           "code": [
@@ -10004,7 +9853,7 @@ var data = {
         {
           "category": "7 notes",
           "name": [
-            "Todi bVII Mela Sadvidhamargini (India)"
+            "Todi Bvii Mela Sadvidhamargini (India)"
           ],
           "code": [
             0,
@@ -10036,6 +9885,46 @@ var data = {
             ]
           ],
           "source": [
+            "Harmonics.com"
+          ]
+        },
+        {
+          "category": "7 notes",
+          "name": [
+            "Ton Par Ton Sensible",
+            "Leading Whole-tone"
+          ],
+          "code": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            10,
+            11
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              18,
+              20,
+              10,
+              11
+            ],
+            [
+              0,
+              14,
+              4,
+              6,
+              20,
+              10,
+              11
+            ]
+          ],
+          "source": [
+            "GuitarPro5",
             "Harmonics.com"
           ]
         }
@@ -10119,9 +10008,8 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Bebop dominante",
-            "Be-Bop",
-            "Bebop dominant",
+            "Bebop Dominante",
+            "Be-bop",
             "Dominant Bebop",
             "Messiaen Mode 6",
             "Mode 6"
@@ -10158,11 +10046,8 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Bebop majeur",
+            "Bebop Majeur",
             "Quinte Augmentée",
-            "Augmented fifth",
-            "Erweiterte-Fünf",
-            "Major bebop",
             "Major Bebop"
           ],
           "code": [
@@ -10197,7 +10082,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Bebop mineur",
+            "Bebop Mineur",
             "Minor Bebop"
           ],
           "code": [
@@ -10224,6 +10109,55 @@ var data = {
           ],
           "source": [
             "Solfego.fr",
+            "Harmonics.com"
+          ]
+        },
+        {
+          "category": "8 notes",
+          "name": [
+            "Blues Diminué (Première Forme)",
+            "Diminuée 2",
+            "Blues Diminished",
+            "Half-diminished",
+            "Symmetric",
+            "Blues Dim.",
+            "Auxillary Diminished Blues"
+          ],
+          "code": [
+            0,
+            1,
+            3,
+            4,
+            6,
+            7,
+            9,
+            10
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              4,
+              18,
+              7,
+              21,
+              10
+            ],
+            [
+              0,
+              13,
+              3,
+              4,
+              6,
+              7,
+              21,
+              10
+            ]
+          ],
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
             "Harmonics.com"
           ]
         },
@@ -10271,62 +10205,11 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Blues diminué (première forme)",
-            "Diminuée 2",
-            "Half-Whole",
-            "Halbton / Ganzton",
-            "Blues Diminished",
-            "Half-Diminished",
-            "Symmetric",
-            "Blues Dim.",
-            "Auxillary Diminished Blues"
-          ],
-          "code": [
-            0,
-            1,
-            3,
-            4,
-            6,
-            7,
-            9,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              4,
-              18,
-              7,
-              21,
-              10
-            ],
-            [
-              0,
-              13,
-              3,
-              4,
-              6,
-              7,
-              21,
-              10
-            ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
             "Demi-diminué",
-            "Shostakovich name in Cyrillic monogram",
+            "Shostakovich Name In Cyrillic Monogram",
             "Shostakovich",
-            "Shostakovich respelled all flat",
-            "Shostakovich respelled all sharp"
+            "Shostakovich Respelled All Flat",
+            "Shostakovich Respelled All Sharp"
           ],
           "code": [
             0,
@@ -10370,12 +10253,10 @@ var data = {
           "name": [
             "Diminué",
             "Diminuée 1",
-            "Whole-Half",
-            "Ganzton / Halbton",
-            "Octatonic scales",
+            "Octatonique",
             "Auxillary Diminished",
             "Diminished",
-            "Messiaen 2nd mode From Groves start B"
+            "Messiaen 2nd Mode From Groves Start B"
           ],
           "code": [
             0,
@@ -10491,10 +10372,8 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Espagnole (deuxième forme)",
-            "Espagnole 8 tons",
-            "Spanish 8 Tone",
-            "Spanische 8-Ton",
+            "Espagnole (Deuxième Forme)",
+            "Espagnole 8 Tons",
             "Spanish 8 Tones"
           ],
           "code": [
@@ -10538,7 +10417,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Espagnole 8 sons",
+            "Espagnole 8 Tons",
             "Phrygian Major",
             "Flamenco",
             "Spanish Phrygian"
@@ -10573,7 +10452,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Half-Dimiished Bebop"
+            "Half-dimiished Bebop"
           ],
           "code": [
             0,
@@ -10645,7 +10524,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Hungarian Minor b2"
+            "Hungarian Minor B2"
           ],
           "code": [
             0,
@@ -10686,8 +10565,8 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "JG Octatonic",
-            "JG Octatonic  all 3b"
+            "Jg Octatonic",
+            "Jg Octatonic  All 3b"
           ],
           "code": [
             0,
@@ -10718,7 +10597,48 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Lydian Dim b7"
+            "Lydian B3"
+          ],
+          "code": [
+            0,
+            2,
+            3,
+            4,
+            6,
+            7,
+            9,
+            11
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              4,
+              18,
+              7,
+              21,
+              11
+            ],
+            [
+              0,
+              14,
+              3,
+              4,
+              6,
+              7,
+              21,
+              11
+            ]
+          ],
+          "source": [
+            "Harmonics.com"
+          ]
+        },
+        {
+          "category": "8 notes",
+          "name": [
+            "Lydian Dim B7"
           ],
           "code": [
             0,
@@ -10759,8 +10679,8 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Lydian Dominant + natural seventh",
-            "Lydian with both natural and dominant 7th"
+            "Lydian Dominant + Natural Seventh",
+            "Lydian With Both Natural And Dominant 7th"
           ],
           "code": [
             0,
@@ -10801,51 +10721,10 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Lydian b3"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            4,
-            6,
-            7,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              4,
-              18,
-              7,
-              21,
-              11
-            ],
-            [
-              0,
-              14,
-              3,
-              4,
-              6,
-              7,
-              21,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
             "Magen Abot",
             "Magen Abot (3b 2#)",
-            "Magen Abot (Israel) all flat",
-            "Magen Abot (Israel) all sharp"
+            "Magen Abot (Israel) All Flat",
+            "Magen Abot (Israel) All Sharp"
           ],
           "code": [
             0,
@@ -11042,7 +10921,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Messiaen 2 according to Brown"
+            "Messiaen 2 According To Brown"
           ],
           "code": [
             0,
@@ -11083,8 +10962,8 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Messiaen 3 according to Brown",
-            "Messiaen 6th mode From Groves start B"
+            "Messiaen 3 According To Brown",
+            "Messiaen 6th Mode From Groves Start B"
           ],
           "code": [
             0,
@@ -11125,7 +11004,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Messiaen 5 according to Brown",
+            "Messiaen 5 According To Brown",
             "Messiaen Mode 4",
             "Mode 4"
           ],
@@ -11168,7 +11047,7 @@ var data = {
         {
           "category": "8 notes",
           "name": [
-            "Messiaen 7 according to Brown",
+            "Messiaen 7 According To Brown",
             "Messiaen Mode 6 Inverse"
           ],
           "code": [
@@ -11530,7 +11409,7 @@ var data = {
           "category": "8 notes",
           "name": [
             "Prokofiev",
-            "Prokofiev (All b's)"
+            "Prokofiev (All B's)"
           ],
           "code": [
             0,
@@ -11826,9 +11705,7 @@ var data = {
         {
           "category": "12 notes",
           "name": [
-            "Chromatique",
-            "Chromatic",
-            "Chromatische"
+            "Chromatique"
           ],
           "code": [
             0,

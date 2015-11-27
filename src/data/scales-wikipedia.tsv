@@ -1,44 +1,44 @@
-name	code
-Acoustic	1 2 3 #4 5 6 b7
-Aeolian	1 2 b3 4 5 b6 b7
-Algerian	1 2 b3 #4 5 b6 7
-Altered	1 b2 b3 b4 b5 b6 b7
-Augmented	1 b3 3 5 #5 7
-Bebop dominant	1 2 3 4 5 6 b7 7
-Blues	1 b3 4 #4 5 b7
-Dorian	1 2 b3 4 5 6 b7
-Double harmonic	1 b2 3 4 5 b6 7
-Enigmatic	1 b2 3 #4 #5 #6 7
-Flamenco mode	1 b2 3 4 5 b6 7
-Gypsy	1 2 b3 #4 5 b6 b7
-Half diminished	1 2 b3 4 b5 b6 b7
-Harmonic major	1 2 3 4 5 b6 7
-Harmonic minor	1 2 b3 4 5 b6 7
-Hirajoshi	1 2 b3 5 b6
-Hungarian Gypsy	1 2 b3 #4 5 b6 7
-Hungarian minor	1 2 b3 #4 5 b6 7
-Miyako-bushi	1 b2 4 5 b6
-Insen	1 b2 4 5 b7
-Ionian	1 2 3 4 5 6 7
-Istrian mode	1 b2 b3 b4 b5 5
-Iwato	1 b2 4 b5 b7
-Locrian	1 b2 b3 4 b5 b6 b7
-Lydian augmented	1 2 3 #4 #5 6 7
-Lydian	1 2 3 #4 5 6 7
-Major bebop	1 2 3 4 5 #5 6 7
-Major Locrian	1 2 3 4 b5 b6 b7
-Major pentatonic	1 2 3 5 6
-Melodic minor scale ascending	1 2 b3 4 5 6 7
-Minor pentatonic	1 b3 4 5 b7
-Mixolydian	1 2 3 4 5 6 b7
-Neapolitan major	1 b2 b3 4 5 6 7
-Neapolitan minor	1 b2 b3 4 5 b6 7
-Octatonic scales	1 2 b3 4 b5 b6 6 7
-Persian	1 b2 3 4 b5 b6 7
-Phrygian dominant	1 b2 3 4 5 b6 b7
-Phrygian	1 b2 b3 4 5 b6 b7
-Prometheus	1 2 3 #4 6 b7
-Tritone	1 b2 3 b5 5 b7
-Ukrainian Dorian mode	1 2 b3 #4 5 6 b7
-Whole tone	1 2 3 #4 #5 #6
-Minyo	1 b3 4 5 7
+code	name	en
+1 2 3 #4 5 6 b7	Acoustique	Acoustic
+1 2 b3 4 5 b6 b7	Aéolien	Aeolian
+1 2 b3 #4 5 b6 7	Algérienne	Algerian
+1 b2 b3 b4 b5 b6 b7	Altérée	Altered
+1 b3 3 5 #5 7	Augmentée	Augmented
+1 2 3 4 5 6 b7 7	Bebop dominante	Bebop dominant
+1 b3 4 #4 5 b7	Blues	Blues
+1 2 b3 4 5 6 b7	Dorien	Dorian
+1 b2 3 4 5 b6 7	Double harmonique	Double harmonic
+1 b2 3 #4 #5 #6 7	Enigmatique	Enigmatic
+1 b2 3 4 5 b6 7	Flamenco	Flamenco
+1 2 b3 #4 5 b6 b7	Gypsy	Gypsy
+1 2 b3 4 b5 b6 b7	Demi diminué	Half diminished
+1 2 3 4 5 b6 7	Grande harmonique	Harmonic major
+1 2 b3 4 5 b6 7	Gamme mineure harmonique	Harmonic minor
+1 2 b3 5 b6	Hirajoshi	Hirajoshi
+1 2 b3 #4 5 b6 7	Hongroise Gypsy	Hungarian Gypsy
+1 2 b3 #4 5 b6 7	Hongroise Mineure	Hungarian minor
+1 b2 4 5 b6	Miyako-bushi	Miyako-bushi
+1 b2 4 5 b7	Insen	Insen
+1 2 3 4 5 6 7	Ionien	Ionian
+1 b2 b3 b4 b5 5	Istrienne	Istrian
+1 b2 4 b5 b7	Iwato	Iwato
+1 b2 b3 4 b5 b6 b7	Locrien	Locrian
+1 2 3 #4 #5 6 7	Lydien augmenté	Lydian augmented
+1 2 3 #4 5 6 7	Lydien	Lydian
+1 2 3 4 5 #5 6 7	Bebop Majeur	Major bebop
+1 2 3 4 b5 b6 b7	Locrien Majeur	Major Locrian
+1 2 3 5 6	Pentatonique Majeur	Major pentatonic
+1 2 b3 4 5 6 7	Mineure Mélodique ascendante	Melodic minor ascending
+1 b3 4 5 b7	Pentatonique Mineure	Minor pentatonic
+1 2 3 4 5 6 b7	Mixolydien	Mixolydian
+1 b2 b3 4 5 6 7	Napolitaine Majeure	Neapolitan major
+1 b2 b3 4 5 b6 7	Napolitaine Mineure	Neapolitan minor
+1 2 b3 4 b5 b6 6 7	Octatonique	Octatonic
+1 b2 3 4 b5 b6 7	Perse	Persian
+1 b2 3 4 5 b6 b7	Phrygien dominant	Phrygian dominant
+1 b2 b3 4 5 b6 b7	Phrygien	Phrygian
+1 2 3 #4 6 b7	Prometheus	Prometheus
+1 b2 3 b5 5 b7	Tritone	Tritone
+1 2 b3 #4 5 6 b7	Dorien Ukrainien	Ukrainian Dorian
+1 2 3 #4 #5 #6	Ton Par Ton	Whole tone
+1 b3 4 5 7	Minyo	Minyo
