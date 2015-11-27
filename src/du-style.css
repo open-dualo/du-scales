@@ -128,6 +128,8 @@ h2 {
     font-size: 1.2em;
     font-weight: normal;
     text-align: center;
+    user-select: text;
+    cursor: auto;
 }
 .content {
     text-align: center;

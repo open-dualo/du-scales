@@ -195,6 +195,11 @@ h2 {
     font-size: 1.2em;
     font-weight: normal;
     text-align: center;
+    -webkit-user-select: text;
+       -moz-user-select: text;
+        -ms-user-select: text;
+            user-select: text;
+    cursor: auto;
 }
 .content {
     text-align: center;
