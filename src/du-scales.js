@@ -58,7 +58,8 @@ var scales = categories
     .on("click", toggleScale);
 
 function toggleScale(d,i) {
-  if (!d3.select(this).classed("selected")) {    
+  if (!d3.select(this).classed("selected")) {
+    svg.classed("active", true);
     window.clearInterval(auto);
     d3.select(".selected").classed("selected",false);
     d3.select(this).classed("selected", true);

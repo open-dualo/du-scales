@@ -2,21 +2,36 @@
 <html>
 
 <head>
-  <meta charset="UTF-8">
   <title>du-scales : Toutes les gammes, selon le principe dualo</title>
-  <link rel="stylesheet" href="src/du-style-prefixed.css">
+  <meta charset="UTF-8">
+  <meta http-equiv="content-language" content="fr-FR,en-US" />
+  <meta property="og:image" content="src/images/preview.png">
+  <link rel="image_src"     href="src/images/preview.png">
+  <link rel="icon" href="src/images/logo-16x16.png"   sizes="16x16"   type="image/png">
+  <link rel="icon" href="src/images/logo-32x32.png"   sizes="32x32"   type="image/png">
+  <link rel="icon" href="src/images/logo-96x96.png"   sizes="96x96"   type="image/png">
+  <link rel="icon" href="src/images/logo-128x128.png" sizes="128x128" type="image/png">
+  <link rel="icon" href="src/images/logo-270x270.png" sizes="270x270" type="image/png">
+  <link rel="icon" href="src/images/logo-558x558.png" sizes="558x558" type="image/png">
+  <link rel="stylesheet"   href="src/du-style-prefixed.css">
+  <meta name="description" content=
+  "Dictionnaire intéractif de 351 gammes uniques, affichage clavier piano ou dualo du-touch.
+  Le dualo du-touch, ainsi que le principe dualo, ont l'objectif particulier de simplifier la musique, la rendre visuelle, logique, instinctive, mémotechnique.
+  La disposition particulière des touches, en hexagones, sur deux claviers, dans un rapport de tierces majeures et mineures, permet de simplifier radicalement la lecture d'une gamme ou d'un accord, grâce à la réunion des degrés paires et impaires.
+  Projet libre et open-source, par Julien Caillot (BilouMaster Joke).
+  Consultez le code et la base de données sur GitHub ! (JavaScript / CSS3 / HTML5 / D3js / SVG / JSON)" />
 </head>
 
 <body>
 
   <header>
-    <img src="src/logos/du-logo.svg" class="logo">
+    <img class="logo" src="src/logos/du-logo.svg" alt="logo du-scales">
     <h1>du-scales</h1>
   </header>
   
   <div class="wrapper">
     
-    <nav id="navigation" role="navigation">
+    <nav id="navigation">
     </nav>
     
     <section class="content">
@@ -33,19 +48,19 @@
   
   <footer>
     <a href="https://twitter.com/BilouMaster">
-      <img src="src/logos/joke-logo.svg" class="logo-footer">
+      <img class="logo-footer" src="src/logos/joke-logo.svg" alt="BilouMaster Joke">
       BilouMaster
     </a>
     <a href="http://dualo.org/">
-      <img src="src/logos/du-logo-2.svg" class="logo-footer">
+      <img class="logo-footer" src="src/logos/du-logo-2.svg" alt="dualo.org">
       dualo.org
     </a>
     <a href="http://d3js.org/">
-      <img src="src/logos/d3-logo.svg" class="logo-footer">
+      <img class="logo-footer" src="src/logos/d3-logo.svg" alt="Data Driven Documents - D3js">
       Data Driven Documents
     </a>
     <a href="https://github.com/open-dualo/du-scales">
-      <img src="src/logos/github-logo.svg" class="logo-footer">
+      <img class="logo-footer" src="src/logos/github-logo.svg" alt="GitHub: Open-Dualo - du-scales">
       View on GitHub
     </a>
   </footer>
