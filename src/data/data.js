@@ -4,44 +4,23 @@ var data = {
       "key": "5 notes",
       "values": [
         {
-          "category": "5 notes",
-          "name": [
-            "Altered Pentatonic"
-          ],
-          "code": [
-            0,
-            1,
-            5,
-            7,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              17,
-              7,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "5 notes",
-          "name": [
-            "Balinaise",
-            "Balinoise",
-            "Balinese",
-            "Pelog 1"
-          ],
           "code": [
             0,
             1,
             3,
             7,
             8
+          ],
+          "name": [
+            "Balinaise",
+            "Balinoise",
+            "Pelog 1"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -51,18 +30,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Balinese Pentatonic"
-          ],
           "code": [
             0,
             1,
@@ -70,6 +40,13 @@ var data = {
             6,
             7
           ],
+          "name": [
+            "Balinaise Pentatonique"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -85,17 +62,9 @@ var data = {
               6,
               7
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Blues #V",
-            "Blues#v (All B's)"
-          ],
           "code": [
             0,
             3,
@@ -103,6 +72,13 @@ var data = {
             6,
             11
           ],
+          "name": [
+            "Blues #V"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -118,18 +94,9 @@ var data = {
               6,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Chinoise (Deuxième Forme)",
-            "Raga Malashri (India)",
-            "Chinese"
-          ],
           "code": [
             0,
             4,
@@ -137,6 +104,16 @@ var data = {
             7,
             11
           ],
+          "name": [
+            "Chinoise (Deuxième Forme)",
+            "Raga Malashri (Inde)",
+            "Chinois"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -152,30 +129,31 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Chinoise (Première Forme)",
-            "Pentatonique 4",
-            "Example Of Slendro",
-            "Zhi (China)",
-            "Raga Devakriya (India)",
-            "Ujo (Korea)",
-            "Ritusen Japan",
-            "Scottish Pentatonic"
-          ],
           "code": [
             0,
             2,
             5,
             7,
             9
+          ],
+          "name": [
+            "Chinoise (Première Forme)",
+            "Pentatonique 4",
+            "Zhi (Chine)",
+            "Raga Devakriya (Inde)",
+            "Ujo (Corée)",
+            "Exemple De Slendro",
+            "Ritusen Japon",
+            "Pentatonique Écossaise"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -185,18 +163,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Half Diminished Plus B8"
-          ],
           "code": [
             0,
             3,
@@ -204,6 +173,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Demi-diminué Plus B8"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -219,22 +195,22 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Han - Kumoi (Japan)"
-          ],
           "code": [
             0,
             2,
             5,
             7,
             8
+          ],
+          "name": [
+            "Han - Kumoi (Japon)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -244,17 +220,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Hirajoshi",
-            "Hirajoshi Japan"
-          ],
           "code": [
             0,
             2,
@@ -262,6 +230,16 @@ var data = {
             7,
             8
           ],
+          "name": [
+            "Hirajoshi",
+            "Hirajoshi (Japon)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -270,25 +248,25 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Iwato",
-            "Iwato Japan"
-          ],
           "code": [
             0,
             1,
             5,
             6,
             10
+          ],
+          "name": [
+            "Iwato",
+            "Iwato (Japon)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -305,24 +283,22 @@ var data = {
               18,
               10
             ]
-          ],
-          "source": [
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
+          "code": [
+            0,
+            5,
+            6,
+            7,
+            10
+          ],
           "name": [
             "Iwato 2"
           ],
-          "code": [
-            0,
-            5,
-            6,
-            7,
-            10
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr"
           ],
           "dualo_code": [
             [
@@ -339,59 +315,28 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Japanese Pentachord",
-            "Javanese Pentachord"
-          ],
           "code": [
             0,
             1,
-            3,
-            6,
-            7
+            5,
+            7,
+            10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              18,
-              7
-            ],
-            [
-              0,
-              13,
-              3,
-              6,
-              7
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "5 notes",
           "name": [
             "Kokin Joshi",
             "Insen",
             "Kokin-joshi",
             "Soft Ascend Japan",
-            "Miyakobushi (Japan)"
+            "Miyakobushi (Japon)"
           ],
-          "code": [
-            0,
-            1,
-            5,
-            7,
-            10
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -401,28 +346,29 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Kumoi",
-            "Japonnaise",
-            "Miyako-bushi",
-            "Japanese",
-            "Sakura Pentatonic Soft Descend"
-          ],
           "code": [
             0,
             1,
             5,
             7,
             8
+          ],
+          "name": [
+            "Kumoi",
+            "Japonnaise",
+            "Miyako-bushi",
+            "Japonaise",
+            "Sakura Pentatonic Soft Descend"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -432,19 +378,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Kung"
-          ],
           "code": [
             0,
             2,
@@ -452,6 +388,13 @@ var data = {
             6,
             9
           ],
+          "name": [
+            "Kung"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -467,80 +410,23 @@ var data = {
               18,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Lydian Pentachord"
-          ],
-          "code": [
-            0,
-            2,
-            4,
-            6,
-            7
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              18,
-              7
-            ],
-            [
-              0,
-              14,
-              4,
-              6,
-              7
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "5 notes",
-          "name": [
-            "Major Pentachord"
-          ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              17,
-              7
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "5 notes",
-          "name": [
-            "Minor 6th Added",
-            "Minor Added Sixth Pentatonic"
-          ],
           "code": [
             0,
             3,
             5,
             7,
             9
+          ],
+          "name": [
+            "Mineur 6e Ajoutée",
+            "Pentatonique Mineur Sixième Ajoutée"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -550,43 +436,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Minor Pentachord Chad Gadyo (Israel)"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            7
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              17,
-              7
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "5 notes",
-          "name": [
-            "Minyo",
-            "Raga Nata",
-            "Madhuranjani (India)"
-          ],
           "code": [
             0,
             3,
@@ -594,6 +446,16 @@ var data = {
             7,
             11
           ],
+          "name": [
+            "Minyo",
+            "Raga Nata",
+            "Madhuranjani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Wikipedia",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -602,23 +464,22 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Mixolydian Pentatonic"
-          ],
           "code": [
             0,
             4,
             5,
             7,
             10
+          ],
+          "name": [
+            "Mixolydien Pentatonique"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -628,27 +489,146 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique 3",
-            "Blues Pentatonic Minor",
-            "Hard Japan Descending",
-            "Raga Malkauns",
-            "2b's 1# Blues Pentatonic Minor",
-            "Hard Japan Descending 3#'s"
+          "code": [
+            0,
+            1,
+            3,
+            6,
+            7
           ],
+          "name": [
+            "Pentacorde Japonais",
+            "Pentacorde Javanais"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              18,
+              7
+            ],
+            [
+              0,
+              13,
+              3,
+              6,
+              7
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            4,
+            6,
+            7
+          ],
+          "name": [
+            "Pentacorde Lydien"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              18,
+              7
+            ],
+            [
+              0,
+              14,
+              4,
+              6,
+              7
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7
+          ],
+          "name": [
+            "Pentacorde Majeur"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              17,
+              7
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            7
+          ],
+          "name": [
+            "Pentacorde Mineur",
+            "Chad Gadyo (Israël)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              17,
+              7
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             3,
             5,
             8,
             10
+          ],
+          "name": [
+            "Pentatonique 3",
+            "Blues Pentatonique Mineur",
+            "Hard Japan Déscendant",
+            "Raga Malkauns",
+            "1 # Blues Pentatonique Mineur De 2b",
+            "Hard Japon Déscendant",
+            "Dur Japon Descendent",
+            "Hard Japon Déscendant 3 # 's"
+          ],
+          "category": "5 notes",
+          "source": [
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -658,23 +638,22 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Altéré"
-          ],
           "code": [
             0,
             1,
             4,
             7,
             9
+          ],
+          "name": [
+            "Pentatonique Altéré"
+          ],
+          "category": "5 notes",
+          "source": [
+            "GuitarPro5"
           ],
           "dualo_code": [
             [
@@ -684,23 +663,49 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "GuitarPro5"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Dominante",
-            "Dominant Pentatonic"
+          "code": [
+            0,
+            1,
+            5,
+            7,
+            9
           ],
+          "name": [
+            "Pentatonique Altérée"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              17,
+              7,
+              21
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
             4,
             7,
             10
+          ],
+          "name": [
+            "Pentatonique Dominante"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -710,26 +715,25 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Harmonique",
-            "Raga Bhupeshwari",
-            "Janasammodini (India)"
-          ],
           "code": [
             0,
             2,
             4,
             7,
             8
+          ],
+          "name": [
+            "Pentatonique Harmonique",
+            "Raga Bhupeshwari",
+            "Janasammodini (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -739,26 +743,26 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Japonaise",
-            "Dorian Pentatonic",
-            "Kumoi Japan",
-            "Akebono (Japan)"
-          ],
           "code": [
             0,
             2,
             3,
             7,
             9
+          ],
+          "name": [
+            "Pentatonique Japonaise",
+            "Dorien Pentatonique",
+            "Kumoi Japon",
+            "Akebono (Japon)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -768,18 +772,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Locrien (Deuxième Forme)",
-            "Raga Chhaya Todi (India)"
-          ],
           "code": [
             0,
             1,
@@ -787,6 +782,15 @@ var data = {
             6,
             8
           ],
+          "name": [
+            "Pentatonique Locrien (Deuxième Forme)",
+            "Raga Chhaya Todi (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -802,17 +806,9 @@ var data = {
               18,
               20
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Locrien (Première Forme)"
-          ],
           "code": [
             0,
             2,
@@ -820,6 +816,13 @@ var data = {
             6,
             8
           ],
+          "name": [
+            "Pentatonique Locrien (Première Forme)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr"
+          ],
           "dualo_code": [
             [
               0,
@@ -835,31 +838,34 @@ var data = {
               18,
               20
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Majeure",
-            "Chinoise",
-            "Mongole",
-            "Pentatonique Majeur",
-            "Major Pentatonic",
-            "Gong (China)",
-            "Raga Bhopali",
-            "Mohanam",
-            "Deskar",
-            "Bilahari (India)"
-          ],
           "code": [
             0,
             2,
             4,
             7,
             9
+          ],
+          "name": [
+            "Pentatonique Majeure",
+            "Chinoise",
+            "Mongole",
+            "Pentatonique Majeur",
+            "Majeur Pentatonique",
+            "Gong (Chine)",
+            "Raga Bhopali",
+            "Mohanam",
+            "Deskar",
+            "Bilahari (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -869,26 +875,25 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Mauritanienne",
-            "Ionian Pentatonic Raga Gambhiranata (India)"
-          ],
           "code": [
             0,
             4,
             5,
             7,
             11
+          ],
+          "name": [
+            "Pentatonique Mauritanienne",
+            "Ionien Pentatonique",
+            "Raga Gambhiranata (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -898,28 +903,30 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Pentatonique Mineure",
-            "Pentatonique Mineur",
-            "Blues Pentatonic Minor",
-            "Hard Japan Descending",
-            "Pyongjo Kyemyonjo (Korea)",
-            "Minyo (Japan)"
-          ],
           "code": [
             0,
             3,
             5,
             7,
             10
+          ],
+          "name": [
+            "Pentatonique Mineure",
+            "Pentatonique Mineur",
+            "Blues Pentatonique Mineur",
+            "Hard Japan Déscendant",
+            "Pyongjo Kyemyonjo (Corée)",
+            "Minyo (Japon)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -929,28 +936,27 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
+          "code": [
+            0,
+            1,
+            3,
+            7,
+            10
+          ],
           "name": [
             "Pentatonique Pelog",
             "Pelog",
             "Raga Rukmangi",
             "Pelog 2"
           ],
-          "code": [
-            0,
-            1,
-            3,
-            7,
-            10
+          "category": "5 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -960,55 +966,53 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
+          "code": [
+            0,
+            2,
+            5,
+            7,
+            10
+          ],
           "name": [
             "Pentatonique Égyptienne",
             "Egyptienne",
             "Pentatonique 2",
-            "Egyptian",
-            "Suspended Pentatonic"
+            "Égyptienne",
+            "Pentatonique Suspendue"
           ],
-          "code": [
-            0,
-            2,
-            5,
-            7,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              17,
-              7,
-              10
-            ]
-          ],
+          "category": "5 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              17,
+              7,
+              10
+            ]
           ]
         },
         {
-          "category": "5 notes",
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            9
+          ],
           "name": [
             "Raga Abhogi"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            9
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1018,22 +1022,22 @@ var data = {
               17,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Audva Tukhari (India)"
-          ],
           "code": [
             0,
             2,
             3,
             5,
             8
+          ],
+          "name": [
+            "Raga Audva Tukhari (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1043,23 +1047,23 @@ var data = {
               17,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Bhinna Shadja",
-            "Hindolita (India)"
-          ],
           "code": [
             0,
             4,
             5,
             9,
             11
+          ],
+          "name": [
+            "Raga Bhinna Shadja",
+            "Hindolita (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1069,23 +1073,23 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Chandrakauns Kafi",
-            "Surya (India)"
-          ],
           "code": [
             0,
             3,
             5,
             9,
             10
+          ],
+          "name": [
+            "Raga Chandrakauns Kafi",
+            "Surya (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1095,22 +1099,22 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Chandrakauns Kiravani (India)"
-          ],
           "code": [
             0,
             3,
             5,
             8,
             11
+          ],
+          "name": [
+            "Raga Chandrakauns Kiravani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1120,23 +1124,23 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Chandrakauns Modern (India)",
-            "Marga Hindola"
-          ],
           "code": [
             0,
             3,
             5,
             9,
             11
+          ],
+          "name": [
+            "Raga Chandrakauns Moderne (Inde)",
+            "Marga Hindola"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1146,22 +1150,22 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Chitthakarshini (India)"
-          ],
           "code": [
             0,
             1,
             3,
             5,
             8
+          ],
+          "name": [
+            "Raga Chitthakarshini (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1171,22 +1175,22 @@ var data = {
               17,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
+          "code": [
+            0,
+            2,
+            5,
+            7,
+            11
+          ],
           "name": [
             "Raga Desh"
           ],
-          "code": [
-            0,
-            2,
-            5,
-            7,
-            11
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1196,22 +1200,22 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Deshgaur (India)"
-          ],
           "code": [
             0,
             1,
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Deshgaur (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1221,22 +1225,22 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Devaranjani (India)"
-          ],
           "code": [
             0,
             5,
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Devaranjani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1246,16 +1250,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Dhavalashri (India)"
-          ],
           "code": [
             0,
             4,
@@ -1263,6 +1260,13 @@ var data = {
             7,
             9
           ],
+          "name": [
+            "Raga Dhavalashri (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1278,22 +1282,22 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Gauri (India)"
-          ],
           "code": [
             0,
             1,
             5,
             7,
             11
+          ],
+          "name": [
+            "Raga Gauri (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1303,22 +1307,22 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Hamsadhvani (India)"
-          ],
           "code": [
             0,
             2,
             4,
             7,
             11
+          ],
+          "name": [
+            "Raga Hamsadhvani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1328,17 +1332,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Harikauns (India) (Flats)",
-            "Raga Harikauns (India) (Sharps)"
-          ],
           "code": [
             0,
             3,
@@ -1346,6 +1342,14 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Raga Harikauns (Inde) (Bémoles)",
+            "Raga Harikauns (Inde) (Dièses)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1361,16 +1365,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Hindol (India)"
-          ],
           "code": [
             0,
             4,
@@ -1378,6 +1375,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Raga Hindol (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1393,16 +1397,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Jayakauns (India)"
-          ],
           "code": [
             0,
             3,
@@ -1410,6 +1407,13 @@ var data = {
             6,
             10
           ],
+          "name": [
+            "Raga Jayakauns (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1425,22 +1429,22 @@ var data = {
               6,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Khamaji Durga (India)"
-          ],
           "code": [
             0,
             4,
             5,
             9,
             10
+          ],
+          "name": [
+            "Raga Khamaji Durga (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1450,22 +1454,22 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Kokil Pancham (India)"
-          ],
           "code": [
             0,
             3,
             5,
             7,
             8
+          ],
+          "name": [
+            "Raga Kokil Pancham (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1475,22 +1479,22 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Kumurdaki (India)"
-          ],
           "code": [
             0,
             2,
             4,
             6,
             11
+          ],
+          "name": [
+            "Raga Kumurdaki (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1507,22 +1511,22 @@ var data = {
               6,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Mamata (India) Major 6th"
-          ],
           "code": [
             0,
             4,
             7,
             9,
             11
+          ],
+          "name": [
+            "Raga Mamata (Inde) Majeur 6e"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1532,22 +1536,22 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Manaranjani (India)"
-          ],
           "code": [
             0,
             1,
             4,
             7,
             10
+          ],
+          "name": [
+            "Raga Manaranjani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1557,22 +1561,22 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Mand (India)"
-          ],
           "code": [
             0,
             4,
             5,
             7,
             9
+          ],
+          "name": [
+            "Raga Mand (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1582,22 +1586,22 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Matha Kokila (India)"
-          ],
           "code": [
             0,
             2,
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Matha Kokila (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1607,22 +1611,22 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Megharanjani (India)"
-          ],
           "code": [
             0,
             1,
             4,
             5,
             8
+          ],
+          "name": [
+            "Raga Megharanjani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1632,22 +1636,22 @@ var data = {
               17,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Megharanji (India)"
-          ],
           "code": [
             0,
             1,
             4,
             5,
             11
+          ],
+          "name": [
+            "Raga Megharanji (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1657,22 +1661,22 @@ var data = {
               17,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Multani (India)"
-          ],
           "code": [
             0,
             1,
             6,
             7,
             11
+          ],
+          "name": [
+            "Raga Multani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1689,16 +1693,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Nabhomani (India)"
-          ],
           "code": [
             0,
             1,
@@ -1706,6 +1703,13 @@ var data = {
             6,
             7
           ],
+          "name": [
+            "Raga Nabhomani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1721,22 +1725,22 @@ var data = {
               18,
               7
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Priyadharshini (India)"
-          ],
           "code": [
             0,
             2,
             5,
             8,
             11
+          ],
+          "name": [
+            "Raga Priyadharshini (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1746,23 +1750,23 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Puruhutika",
-            "Purvaholika (India)"
-          ],
           "code": [
             0,
             5,
             7,
             9,
             11
+          ],
+          "name": [
+            "Raga Puruhutika",
+            "Purvaholika (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1772,22 +1776,22 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Rasranjani (India)"
-          ],
           "code": [
             0,
             2,
             5,
             9,
             11
+          ],
+          "name": [
+            "Raga Rasranjani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1797,23 +1801,23 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Reva",
-            "Revagupti (India)"
-          ],
           "code": [
             0,
             1,
             4,
             7,
             8
+          ],
+          "name": [
+            "Raga Reva",
+            "Revagupti (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1823,23 +1827,23 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Samudhra Priya (India)",
-            "Raga Samudhra Priya (India)?"
-          ],
           "code": [
             0,
             3,
             6,
             7,
             10
+          ],
+          "name": [
+            "Raga Samudhra Priya (Inde)",
+            "Raga Samudhra Priya (Inde)?"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1856,17 +1860,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Saugandhini",
-            "Yashranjani (India)"
-          ],
           "code": [
             0,
             1,
@@ -1874,6 +1870,14 @@ var data = {
             7,
             8
           ],
+          "name": [
+            "Raga Saugandhini",
+            "Yashranjani (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1889,22 +1893,22 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Shailaja (India)"
-          ],
           "code": [
             0,
             3,
             7,
             8,
             10
+          ],
+          "name": [
+            "Raga Shailaja (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -1914,16 +1918,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Shri Kalyan"
-          ],
           "code": [
             0,
             2,
@@ -1931,6 +1928,13 @@ var data = {
             7,
             9
           ],
+          "name": [
+            "Raga Shri Kalyan"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1946,16 +1950,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Shubravarni (India)"
-          ],
           "code": [
             0,
             2,
@@ -1963,6 +1960,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Raga Shubravarni (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -1978,16 +1982,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Vaijayanti (India)"
-          ],
           "code": [
             0,
             2,
@@ -1995,6 +1992,13 @@ var data = {
             7,
             11
           ],
+          "name": [
+            "Raga Vaijayanti (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2010,22 +2014,22 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Valaji (India)"
-          ],
           "code": [
             0,
             4,
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Valaji (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2035,22 +2039,22 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Raga Zilaf (India)"
-          ],
           "code": [
             0,
             4,
             5,
             7,
             8
+          ],
+          "name": [
+            "Raga Zilaf (Inde)"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2060,22 +2064,22 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "5 notes",
-          "name": [
-            "Romanian Bacovia"
-          ],
           "code": [
             0,
             4,
             5,
             8,
             11
+          ],
+          "name": [
+            "Roumaine Bacovia"
+          ],
+          "category": "5 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2085,9 +2089,6 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         }
       ]
@@ -2096,13 +2097,6 @@ var data = {
       "key": "6 notes",
       "values": [
         {
-          "category": "6 notes",
-          "name": [
-            "Augmentée",
-            "Augmented",
-            "Messiaen Truncated Mode 3 Inverse",
-            "Genus Tertium Raga Devamani"
-          ],
           "code": [
             0,
             3,
@@ -2110,6 +2104,19 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Augmentée",
+            " Messiaen Tronqué Mode 3 Inverse",
+            "Genus Tertium",
+            "Raga Devamani"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2120,23 +2127,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Bahar",
-            "Minor Hexatonic",
-            "Nayaki",
-            "Yo (Japan)",
-            "Eskimo Hexatonic 1 (North America)"
-          ],
           "code": [
             0,
             2,
@@ -2144,6 +2137,18 @@ var data = {
             5,
             7,
             10
+          ],
+          "name": [
+            "Bahar",
+            "Mineur Hexatonique",
+            "Nayaki",
+            "Yo (Japon)",
+            "Eskimo Hexatonique 1 (Amérique Du Nord)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2154,18 +2159,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Bitonal Mineur Chromatique",
-            "Raga Amarasenapriya (India)"
-          ],
           "code": [
             0,
             2,
@@ -2174,6 +2170,15 @@ var data = {
             7,
             11
           ],
+          "name": [
+            "Bitonal Mineur Chromatique",
+            "Raga Amarasenapriya (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2191,17 +2196,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Blues Diminué (Deuxième Forme)"
-          ],
           "code": [
             0,
             3,
@@ -2210,6 +2207,13 @@ var data = {
             7,
             9
           ],
+          "name": [
+            "Blues Diminué (Deuxième Forme)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr"
+          ],
           "dualo_code": [
             [
               0,
@@ -2227,18 +2231,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Blues Dorian Hex",
-            "Blues Dorian Hexatonic",
-            "Major Blues"
-          ],
           "code": [
             0,
             2,
@@ -2246,6 +2241,14 @@ var data = {
             4,
             7,
             9
+          ],
+          "name": [
+            "Blues Dorien Hexatonique",
+            "Blues Majeur"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2256,16 +2259,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Blues Dorian Hexatonic"
-          ],
           "code": [
             0,
             1,
@@ -2273,6 +2269,13 @@ var data = {
             4,
             7,
             9
+          ],
+          "name": [
+            "Blues Dorien Hexatonique 2"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2283,25 +2286,26 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            3,
+            5,
+            6,
+            7,
+            9
+          ],
           "name": [
             "Blues Majeur (Deuxième Forme)",
             "Blues Majeur",
             "Blues"
           ],
-          "code": [
-            0,
-            3,
-            5,
-            6,
-            7,
-            9
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5"
           ],
           "dualo_code": [
             [
@@ -2320,17 +2324,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Blues Mineur (Deuxième Forme)"
-          ],
           "code": [
             0,
             3,
@@ -2339,6 +2335,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Blues Mineur (Deuxième Forme)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr"
+          ],
           "dualo_code": [
             [
               0,
@@ -2356,19 +2359,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Blues Mineur (Première Forme)",
-            "Blues Mineur",
-            "Blues",
-            "Blues Minor"
-          ],
           "code": [
             0,
             3,
@@ -2377,36 +2370,38 @@ var data = {
             7,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              3,
-              17,
-              18,
-              7,
-              10
-            ],
-            [
-              0,
-              3,
-              17,
-              6,
-              7,
-              10
-            ]
+          "name": [
+            "Blues Mineur (Première Forme)",
+            "Blues Mineur",
+            "Blues"
           ],
+          "category": "6 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              3,
+              17,
+              18,
+              7,
+              10
+            ],
+            [
+              0,
+              3,
+              17,
+              6,
+              7,
+              10
+            ]
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Blues Minor Maj7"
-          ],
           "code": [
             0,
             3,
@@ -2415,6 +2410,13 @@ var data = {
             7,
             11
           ],
+          "name": [
+            "Blues Mineur Maj7"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2432,16 +2434,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Double-phrygian Hexatonic"
-          ],
           "code": [
             0,
             1,
@@ -2450,6 +2445,13 @@ var data = {
             6,
             9
           ],
+          "name": [
+            "Double-phrygien Hexatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2467,16 +2469,9 @@ var data = {
               18,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Enigmatique"
-          ],
           "code": [
             0,
             1,
@@ -2485,6 +2480,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Enigmatique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr"
+          ],
           "dualo_code": [
             [
               0,
@@ -2502,16 +2504,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Eskimo Hexatonic 2"
-          ],
           "code": [
             0,
             2,
@@ -2520,6 +2515,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Eskimo Hexatonique 2"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2537,16 +2539,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Eskimo Hexatonic 2 (North America)"
-          ],
           "code": [
             0,
             2,
@@ -2555,6 +2550,13 @@ var data = {
             8,
             11
           ],
+          "name": [
+            "Eskimo Hexatonique 2 (Amérique Du Nord)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2572,16 +2574,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Genus Secundum"
-          ],
           "code": [
             0,
             4,
@@ -2589,6 +2584,13 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Genus Secundum"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2599,17 +2601,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Hawaiian",
-            "Nando Kyemyonjo (Korea)"
-          ],
           "code": [
             0,
             2,
@@ -2617,6 +2611,14 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Hawaïenne",
+            "Nando Kyemyonjo (Corée)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2627,24 +2629,25 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            4,
+            6,
+            7,
+            9
+          ],
           "name": [
             "Hexa-lydien",
             "Raga Yamuna Kalyani"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            6,
-            7,
-            9
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2663,18 +2666,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Hexa-mélodique",
-            "Raga Suddha Bangala (India)"
-          ],
           "code": [
             0,
             2,
@@ -2682,6 +2676,15 @@ var data = {
             5,
             7,
             9
+          ],
+          "name": [
+            "Hexa-mélodique",
+            "Raga Suddha Bangala (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2692,18 +2695,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Hexa-phrygien",
-            "Raga Simantini (India)"
-          ],
           "code": [
             0,
             1,
@@ -2711,6 +2705,15 @@ var data = {
             5,
             7,
             8
+          ],
+          "name": [
+            "Hexa-phrygien",
+            "Raga Simantini (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2721,17 +2724,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Hexa-tritonique Binaire"
-          ],
           "code": [
             0,
             3,
@@ -2739,6 +2734,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Hexa-tritonique Binaire"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr"
           ],
           "dualo_code": [
             [
@@ -2749,17 +2751,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Hexa-tritonique Diminué",
-            "Raga Neelangi (India)"
-          ],
           "code": [
             0,
             2,
@@ -2768,6 +2762,15 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Hexa-tritonique Diminué",
+            "Raga Neelangi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2785,18 +2788,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Hexa-tritonique Diminué 2",
-            "Messiaen Truncated Mode 2"
-          ],
           "code": [
             0,
             1,
@@ -2805,6 +2799,15 @@ var data = {
             7,
             9
           ],
+          "name": [
+            "Hexa-tritonique Diminué 2",
+            "Messiaen Mode Tronqué 2"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2822,25 +2825,25 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            3,
+            6,
+            7,
+            9
+          ],
           "name": [
             "Hexa-tritonique Diminué Suspendu",
             "Raga Vijayanagari"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            6,
-            7,
-            9
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2859,17 +2862,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Honchoshi Plagal Form"
-          ],
           "code": [
             0,
             1,
@@ -2878,6 +2873,13 @@ var data = {
             6,
             10
           ],
+          "name": [
+            "Honchoshi Plagal Form"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -2895,17 +2897,9 @@ var data = {
               18,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Indoustane",
-            "Raga Kamalamanohari (India)"
-          ],
           "code": [
             0,
             4,
@@ -2913,6 +2907,15 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Indoustane",
+            "Raga Kamalamanohari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2923,17 +2926,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Istrienne"
-          ],
           "code": [
             0,
             1,
@@ -2942,6 +2937,13 @@ var data = {
             6,
             7
           ],
+          "name": [
+            "Istrienne"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Wikipedia"
+          ],
           "dualo_code": [
             [
               0,
@@ -2959,17 +2961,9 @@ var data = {
               6,
               7
             ]
-          ],
-          "source": [
-            "Wikipedia"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Lydian #2 Hexatonic",
-            "Lydian B3 Hexatonic"
-          ],
           "code": [
             0,
             3,
@@ -2977,6 +2971,14 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Lydien #2 Hexatonique",
+            "Lydien B3 Hexatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -2987,16 +2989,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Lydian Hexatonic"
-          ],
           "code": [
             0,
             2,
@@ -3004,6 +2999,13 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Lydien Hexatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3014,16 +3016,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Major Bebop Hexatonic"
-          ],
           "code": [
             0,
             2,
@@ -3031,6 +3026,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Majeur Bebop Hexatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3041,17 +3043,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Messiaen 5th Mode From Groves Start E",
-            "Messiaen Mode 5"
-          ],
           "code": [
             0,
             1,
@@ -3060,6 +3054,14 @@ var data = {
             7,
             8
           ],
+          "name": [
+            "Messiaen 5e Mode",
+            "Messiaen Mode 5"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3077,16 +3079,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Messiaen Mode 2"
-          ],
           "code": [
             0,
             3,
@@ -3094,6 +3089,13 @@ var data = {
             5,
             9,
             11
+          ],
+          "name": [
+            "Messiaen Mode 2"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3104,16 +3106,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Messiaen Mode 5 Inverse"
-          ],
           "code": [
             0,
             4,
@@ -3121,6 +3116,13 @@ var data = {
             6,
             10,
             11
+          ],
+          "name": [
+            "Messiaen Mode 5 Inverse"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3139,16 +3141,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Messiaen Truncated Mode 3"
-          ],
           "code": [
             0,
             1,
@@ -3156,6 +3151,13 @@ var data = {
             5,
             8,
             9
+          ],
+          "name": [
+            "Messiaen Mode Tronqué 3"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3166,20 +3168,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Mixolydian Hexatonic",
-            "Yosen (Japan)",
-            "Raga Darbar",
-            "Narayani",
-            "Suposhini (India)"
-          ],
           "code": [
             0,
             2,
@@ -3187,6 +3178,17 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Mixolydien Hexatonique",
+            "Yosen (Japon)",
+            "Raga Darbar",
+            "Narayani",
+            "Suposhini (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3197,16 +3199,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Mode 5"
-          ],
           "code": [
             0,
             1,
@@ -3214,6 +3209,13 @@ var data = {
             6,
             7,
             11
+          ],
+          "name": [
+            "Mode 5"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3232,16 +3234,44 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Phrygian Hexatonic"
+          "code": [
+            0,
+            2,
+            5,
+            6,
+            8,
+            11
           ],
+          "name": [
+            "Mode Tronqué 2"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              17,
+              6,
+              20,
+              11
+            ],
+            [
+              0,
+              14,
+              17,
+              18,
+              20,
+              11
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             3,
@@ -3249,6 +3279,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Phrygien Hexatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3259,16 +3296,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Prometheus Neapolitan"
-          ],
           "code": [
             0,
             1,
@@ -3277,6 +3307,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Prometheus Napolitaine"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3294,18 +3331,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Prométhée",
-            "Prometheus",
-            "Prometheus F# And Bb"
-          ],
           "code": [
             0,
             2,
@@ -3314,35 +3342,37 @@ var data = {
             9,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              18,
-              21,
-              10
-            ],
-            [
-              0,
-              14,
-              4,
-              6,
-              21,
-              10
-            ]
+          "name": [
+            "Prométhée",
+            "Prometheus",
+            "Prometheus F # Et Sib"
           ],
+          "category": "6 notes",
           "source": [
             "Solfego.fr",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              18,
+              21,
+              10
+            ],
+            [
+              0,
+              14,
+              4,
+              6,
+              21,
+              10
+            ]
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Pyramid Hexatonic"
-          ],
           "code": [
             0,
             2,
@@ -3350,6 +3380,13 @@ var data = {
             5,
             6,
             9
+          ],
+          "name": [
+            "Pyramide Hexatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3368,18 +3405,9 @@ var data = {
               18,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Bagesri",
-            "Sriranjani",
-            "Kapijingla (India)"
-          ],
           "code": [
             0,
             2,
@@ -3387,6 +3415,15 @@ var data = {
             5,
             9,
             10
+          ],
+          "name": [
+            "Raga Bagesri",
+            "Sriranjani",
+            "Kapijingla (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3397,16 +3434,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Bauli (India)"
-          ],
           "code": [
             0,
             1,
@@ -3414,6 +3444,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Bauli (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3424,16 +3461,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Bhanumanjari (India)"
-          ],
           "code": [
             0,
             3,
@@ -3441,6 +3471,13 @@ var data = {
             5,
             7,
             10
+          ],
+          "name": [
+            "Raga Bhanumanjari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3451,16 +3488,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Bhavani (India)"
-          ],
           "code": [
             0,
             1,
@@ -3468,6 +3498,13 @@ var data = {
             6,
             8,
             10
+          ],
+          "name": [
+            "Raga Bhavani (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3486,16 +3523,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Bhinna Pancama (India)"
-          ],
           "code": [
             0,
             2,
@@ -3503,6 +3533,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Bhinna Pancama (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3513,16 +3550,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Caturangini (India)"
-          ],
           "code": [
             0,
             2,
@@ -3530,6 +3560,13 @@ var data = {
             6,
             7,
             11
+          ],
+          "name": [
+            "Raga Caturangini (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3548,16 +3585,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Chandrajyoti (India)"
-          ],
           "code": [
             0,
             1,
@@ -3566,6 +3596,13 @@ var data = {
             7,
             9
           ],
+          "name": [
+            "Raga Chandrajyoti (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3583,16 +3620,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Dhavalangam (India)"
-          ],
           "code": [
             0,
             1,
@@ -3601,6 +3631,13 @@ var data = {
             7,
             8
           ],
+          "name": [
+            "Raga Dhavalangam (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3618,16 +3655,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Dipak (India)"
-          ],
           "code": [
             0,
             2,
@@ -3636,6 +3666,13 @@ var data = {
             6,
             7
           ],
+          "name": [
+            "Raga Dipak (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3653,23 +3690,23 @@ var data = {
               6,
               7
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            10
+          ],
           "name": [
             "Raga Gandharavam"
           ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            7,
-            10
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3680,16 +3717,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Gaula (India)"
-          ],
           "code": [
             0,
             1,
@@ -3697,6 +3727,13 @@ var data = {
             5,
             7,
             11
+          ],
+          "name": [
+            "Raga Gaula (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3707,16 +3744,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Ghantana (India)"
-          ],
           "code": [
             0,
             2,
@@ -3724,6 +3754,13 @@ var data = {
             5,
             8,
             11
+          ],
+          "name": [
+            "Raga Ghantana (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3734,16 +3771,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Gujari Todi (India)"
-          ],
           "code": [
             0,
             1,
@@ -3751,6 +3781,13 @@ var data = {
             6,
             8,
             11
+          ],
+          "name": [
+            "Raga Gujari Todi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3769,16 +3806,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Hamsa Vinodini (India)"
-          ],
           "code": [
             0,
             2,
@@ -3786,6 +3816,13 @@ var data = {
             5,
             9,
             11
+          ],
+          "name": [
+            "Raga Hamsa Vinodini (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3796,24 +3833,24 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            1,
+            4,
+            6,
+            9,
+            11
+          ],
           "name": [
             "Raga Hamsanandi",
-            "Puriya (India)"
+            "Puriya (Inde)"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            6,
-            9,
-            11
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3832,16 +3869,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Hejjajji (India)"
-          ],
           "code": [
             0,
             1,
@@ -3850,6 +3880,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Raga Hejjajji (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3867,16 +3904,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Jaganmohanam (India)"
-          ],
           "code": [
             0,
             2,
@@ -3885,6 +3915,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Raga Jaganmohanam (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3902,16 +3939,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Jivantika (India)"
-          ],
           "code": [
             0,
             1,
@@ -3919,6 +3949,13 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Raga Jivantika (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -3929,17 +3966,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Jivantini",
-            "Gaurikriya (India)"
-          ],
           "code": [
             0,
             3,
@@ -3948,6 +3977,14 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Raga Jivantini",
+            "Gaurikriya (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -3965,16 +4002,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Jyoti (India)"
-          ],
           "code": [
             0,
             4,
@@ -3983,6 +4013,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Raga Jyoti (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -4000,16 +4037,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Kalagada (India)"
-          ],
           "code": [
             0,
             1,
@@ -4017,6 +4047,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Raga Kalagada (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4027,16 +4064,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Kalakanthi (India)"
-          ],
           "code": [
             0,
             1,
@@ -4044,6 +4074,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Raga Kalakanthi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4054,17 +4091,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Kalavati",
-            "Ragamalini (India)"
-          ],
           "code": [
             0,
             1,
@@ -4072,6 +4101,14 @@ var data = {
             5,
             7,
             9
+          ],
+          "name": [
+            "Raga Kalavati",
+            "Ragamalini (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4082,16 +4119,9 @@ var data = {
               7,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Kashyapi (India)"
-          ],
           "code": [
             0,
             1,
@@ -4099,6 +4129,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Raga Kashyapi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4109,17 +4146,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Khamas",
-            "Baduhari (India)"
-          ],
           "code": [
             0,
             4,
@@ -4127,6 +4156,14 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Khamas",
+            "Baduhari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4137,23 +4174,23 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            4,
+            7,
+            8,
+            11
+          ],
           "name": [
             "Raga Latika"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            7,
-            8,
-            11
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4164,16 +4201,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Madhakauns (India)"
-          ],
           "code": [
             0,
             3,
@@ -4181,6 +4211,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Madhakauns (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4199,16 +4236,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Malahari (India)"
-          ],
           "code": [
             0,
             1,
@@ -4216,6 +4246,13 @@ var data = {
             5,
             7,
             8
+          ],
+          "name": [
+            "Raga Malahari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4226,16 +4263,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Malarani (India)"
-          ],
           "code": [
             0,
             2,
@@ -4243,6 +4273,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Raga Malarani (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4261,16 +4298,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Malayamarutam (India)"
-          ],
           "code": [
             0,
             1,
@@ -4278,6 +4308,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Malayamarutam (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4288,16 +4325,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Manavi (India)"
-          ],
           "code": [
             0,
             2,
@@ -4305,6 +4335,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Manavi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4315,24 +4352,24 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            1,
+            4,
+            6,
+            7,
+            11
+          ],
           "name": [
             "Raga Mandari",
-            "Gamakakriya (India)"
+            "Gamakakriya (Inde)"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            6,
-            7,
-            11
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4351,16 +4388,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Manohari (India)"
-          ],
           "code": [
             0,
             3,
@@ -4368,6 +4398,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Manohari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4378,16 +4415,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Megh (India)"
-          ],
           "code": [
             0,
             2,
@@ -4395,6 +4425,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Raga Megh (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4405,16 +4442,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Mrunganandana (India)"
-          ],
           "code": [
             0,
             2,
@@ -4422,6 +4452,13 @@ var data = {
             6,
             9,
             11
+          ],
+          "name": [
+            "Raga Mrunganandana (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4440,16 +4477,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Nagagandhari (India)"
-          ],
           "code": [
             0,
             2,
@@ -4457,6 +4487,13 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Raga Nagagandhari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4467,24 +4504,24 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            11
+          ],
           "name": [
             "Raga Nalinakanti",
-            "Kedaram (India)"
+            "Kedaram (Inde)"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7,
-            11
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4495,16 +4532,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Navamanohari (India)"
-          ],
           "code": [
             0,
             2,
@@ -4512,6 +4542,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Raga Navamanohari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4522,16 +4559,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Nishadi (India)"
-          ],
           "code": [
             0,
             2,
@@ -4539,6 +4569,13 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Raga Nishadi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4557,16 +4594,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Padi (India)"
-          ],
           "code": [
             0,
             1,
@@ -4574,6 +4604,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Padi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4584,16 +4621,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Paraju  Simhavahini India"
-          ],
           "code": [
             0,
             4,
@@ -4601,6 +4631,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Paraju Simhavahini L'inde"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4611,16 +4648,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Phenadyuti (India)"
-          ],
           "code": [
             0,
             1,
@@ -4628,6 +4658,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Raga Phenadyuti (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4638,24 +4675,24 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            9,
+            10
+          ],
           "name": [
             "Raga Rageshri",
-            "Nattaikurinji (India)"
+            "Nattaikurinji (Inde)"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            9,
-            10
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4666,24 +4703,24 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            3,
+            6,
+            9,
+            11
+          ],
           "name": [
             "Raga Ranjani",
-            "Rangini (India)"
+            "Rangini (Inde)"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            6,
-            9,
-            11
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4702,16 +4739,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Rasamanjari (India)"
-          ],
           "code": [
             0,
             3,
@@ -4719,6 +4749,13 @@ var data = {
             6,
             7,
             11
+          ],
+          "name": [
+            "Raga Rasamanjari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4737,16 +4774,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Rasavali (India)"
-          ],
           "code": [
             0,
             1,
@@ -4754,6 +4784,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Rasavali (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4764,16 +4801,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Rudra Pancama (India)"
-          ],
           "code": [
             0,
             1,
@@ -4781,6 +4811,13 @@ var data = {
             5,
             9,
             10
+          ],
+          "name": [
+            "Raga Rudra Pancama (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4791,16 +4828,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Salagavarali (India)"
-          ],
           "code": [
             0,
             1,
@@ -4808,6 +4838,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Salagavarali (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4818,16 +4855,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Sarasanana (India)"
-          ],
           "code": [
             0,
             2,
@@ -4835,6 +4865,13 @@ var data = {
             5,
             8,
             11
+          ],
+          "name": [
+            "Raga Sarasanana (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4845,16 +4882,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Sarasvati (India)"
-          ],
           "code": [
             0,
             2,
@@ -4862,6 +4892,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Sarasvati (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4880,17 +4917,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Saravati (#5) (India)",
-            "Raga Saravati (B6) (India)"
-          ],
           "code": [
             0,
             4,
@@ -4898,6 +4927,14 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Raga Saravati (# 5) (Inde)",
+            "Raga Saravati (B6) (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4908,16 +4945,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Simharava (India)"
-          ],
           "code": [
             0,
             2,
@@ -4925,6 +4955,13 @@ var data = {
             6,
             7,
             10
+          ],
+          "name": [
+            "Raga Simharava (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4943,16 +4980,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Sindhura Kafi (India)"
-          ],
           "code": [
             0,
             2,
@@ -4960,6 +4990,13 @@ var data = {
             5,
             7,
             11
+          ],
+          "name": [
+            "Raga Sindhura Kafi (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4970,24 +5007,24 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            10
+          ],
           "name": [
             "Raga Siva Kambhoji",
-            "Vivardhini (India)"
+            "Vivardhini (Inde)"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7,
-            10
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -4998,16 +5035,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Sohini (India)"
-          ],
           "code": [
             0,
             1,
@@ -5015,6 +5045,13 @@ var data = {
             5,
             8,
             11
+          ],
+          "name": [
+            "Raga Sohini (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5025,16 +5062,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Suddha Mukhari (India)"
-          ],
           "code": [
             0,
             1,
@@ -5042,6 +5072,13 @@ var data = {
             5,
             8,
             9
+          ],
+          "name": [
+            "Raga Suddha Mukhari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5052,16 +5089,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Syamalam (India)"
-          ],
           "code": [
             0,
             2,
@@ -5070,6 +5100,13 @@ var data = {
             7,
             8
           ],
+          "name": [
+            "Raga Syamalam (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5087,16 +5124,9 @@ var data = {
               7,
               20
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Takka (India)"
-          ],
           "code": [
             0,
             3,
@@ -5104,6 +5134,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Takka (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5114,17 +5151,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Tilang",
-            "Savitri (India)"
-          ],
           "code": [
             0,
             4,
@@ -5132,6 +5161,14 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Raga Tilang",
+            "Savitri (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5142,23 +5179,23 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
+          "code": [
+            0,
+            2,
+            3,
+            7,
+            8,
+            10
+          ],
           "name": [
             "Raga Trimurti"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            7,
-            8,
-            10
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5169,17 +5206,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Vasanta",
-            "Chayavati (India)"
-          ],
           "code": [
             0,
             1,
@@ -5187,6 +5216,14 @@ var data = {
             5,
             9,
             11
+          ],
+          "name": [
+            "Raga Vasanta",
+            "Chayavati (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5197,16 +5234,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Vasantabhairavi"
-          ],
           "code": [
             0,
             1,
@@ -5214,6 +5244,13 @@ var data = {
             5,
             8,
             10
+          ],
+          "name": [
+            "Raga Vasantabhairavi"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5224,16 +5261,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Vijayasri (India)"
-          ],
           "code": [
             0,
             1,
@@ -5241,6 +5271,13 @@ var data = {
             6,
             7,
             11
+          ],
+          "name": [
+            "Raga Vijayasri (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5259,16 +5296,9 @@ var data = {
               7,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Vijayavasanta (India)"
-          ],
           "code": [
             0,
             4,
@@ -5277,6 +5307,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Raga Vijayavasanta (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5294,16 +5331,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Viyogavarali"
-          ],
           "code": [
             0,
             1,
@@ -5311,6 +5341,13 @@ var data = {
             5,
             8,
             11
+          ],
+          "name": [
+            "Raga Viyogavarali"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5321,16 +5358,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Raga Vutari (India)"
-          ],
           "code": [
             0,
             4,
@@ -5339,6 +5369,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Raga Vutari (Inde)"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5356,16 +5393,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Ritsu"
-          ],
           "code": [
             0,
             1,
@@ -5373,6 +5403,13 @@ var data = {
             5,
             8,
             10
+          ],
+          "name": [
+            "Ritsu"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5383,43 +5420,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Scottish Hexatonic Arezzo Major Diatonic Hexachord"
-          ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              17,
-              7,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "6 notes",
-          "name": [
-            "Takemitsu Tree Line Mode 1"
-          ],
           "code": [
             0,
             2,
@@ -5428,6 +5431,13 @@ var data = {
             8,
             11
           ],
+          "name": [
+            "Takemitsu Tree Line Mode 1"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5445,16 +5455,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Takemitsu Tree Line Mode 2"
-          ],
           "code": [
             0,
             2,
@@ -5463,6 +5466,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Takemitsu Tree Line Mode 2"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5480,21 +5490,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Ton Par Ton",
-            "Whole-tone",
-            "Auxillary Augmented",
-            "Messiaen 1st Mode",
-            "Raga Gopriya (India)",
-            "Anhemitonic Hexatonic"
-          ],
           "code": [
             0,
             2,
@@ -5503,38 +5501,41 @@ var data = {
             8,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              18,
-              20,
-              10
-            ],
-            [
-              0,
-              14,
-              4,
-              6,
-              20,
-              10
-            ]
+          "name": [
+            "Ton Par Ton",
+            "Ton-par-ton",
+            "Auxiliaire Augmentée",
+            "Messiaen 1er Mode",
+            "Raga Gopriya (Inde)",
+            "Anhémitonique Hexatonique"
           ],
+          "category": "6 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              18,
+              20,
+              10
+            ],
+            [
+              0,
+              14,
+              4,
+              6,
+              20,
+              10
+            ]
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Tritone",
-            "Raga Indupriya (India)",
-            "Petrushka Chord"
-          ],
           "code": [
             0,
             1,
@@ -5543,62 +5544,62 @@ var data = {
             7,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              4,
-              18,
-              7,
-              10
-            ],
-            [
-              0,
-              13,
-              4,
-              6,
-              7,
-              10
-            ]
+          "name": [
+            "Tritone",
+            "Raga Indupriya (Inde)",
+            "Petrouchka Chord"
           ],
+          "category": "6 notes",
           "source": [
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              18,
+              7,
+              10
+            ],
+            [
+              0,
+              13,
+              4,
+              6,
+              7,
+              10
+            ]
           ]
         },
         {
-          "category": "6 notes",
-          "name": [
-            "Truncated Mode 2"
-          ],
           "code": [
             0,
             2,
+            4,
             5,
-            6,
-            8,
-            11
+            7,
+            9
+          ],
+          "name": [
+            "Écossaise Hexatonique",
+            "Arezzo Majeur",
+            "Hexacorde Diatonique"
+          ],
+          "category": "6 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
               0,
               14,
+              4,
               17,
-              6,
-              20,
-              11
-            ],
-            [
-              0,
-              14,
-              17,
-              18,
-              20,
-              11
+              7,
+              21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         }
       ]
@@ -5607,19 +5608,6 @@ var data = {
       "key": "7 notes",
       "values": [
         {
-          "category": "7 notes",
-          "name": [
-            "Altéré Superlocrien",
-            "Mélodique Superlocrien",
-            "Altérée",
-            "Hindi 5 Flats",
-            "Super Locrian 5 Flats",
-            "Lydian Augmented Or Hindi 5 Flats & Biv",
-            "Super Locrian 6 Flats",
-            "Super Locrian All Sharps",
-            "Superlocrian",
-            "Diminished Whole-tone"
-          ],
           "code": [
             0,
             1,
@@ -5629,6 +5617,26 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Altéré Superlocrien",
+            "Mélodique Superlocrien",
+            "Altérée",
+            "Hindi 5 Bémoles",
+            "Super Locrien 5 Bémoles",
+            "Lydien Augmenté",
+            "Hindi 5 Bémoles & Biv",
+            "Super Locrien 6 Bémoles",
+            "Superlocrien",
+            "Super Locrien",
+            "Ton-par-ton Diminué"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5648,21 +5656,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Arabe",
-            "Locrien Majeur",
-            "Major Locrian"
-          ],
           "code": [
             0,
             2,
@@ -5672,6 +5668,17 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Arabe",
+            "Locrien Majeur"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5691,27 +5698,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Aéolien",
-            "Mineure Naturelle",
-            "Ethiopienne",
-            "Aeolian Natural Minor",
-            "Asavari Asc Nats. A To G",
-            "Gregorian Scale 2",
-            "Assari Thaat (India)",
-            "Se (China)",
-            "Kitmun (Sumarian)"
-          ],
           "code": [
             0,
             2,
@@ -5720,6 +5709,24 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Aéolien",
+            "Mineure Naturelle",
+            "Ethiopienne",
+            "Aeolien Mineur Naturel",
+            "Asavari Asc Nats. A À G",
+            "Grégorien 2",
+            "Assari Thaat (Inde)",
+            "Se (Chine)",
+            "Kitmun (Sumérienne)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5731,23 +5738,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Aéolien B5",
-            "Mélodique Locrien",
-            "Demi Diminué",
-            "Minor Locrian",
-            "Hindi 3 Flats And Bv"
-          ],
           "code": [
             0,
             2,
@@ -5756,6 +5749,20 @@ var data = {
             6,
             8,
             10
+          ],
+          "name": [
+            "Aéolien B5",
+            "Mélodique Locrien",
+            "Demi Diminué",
+            "Locrien Mineur",
+            "Hindi 3 Bémoles Et Bv"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5776,30 +5783,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Bartock",
-            "Bartok",
-            "Harmonique",
-            "Mélodique Lydien",
-            "Acoustique",
-            "Lydian Bviith",
-            "Overtone",
-            "Hindi #Iv & Bvii",
-            "Mela Vacaspati (India)",
-            "Raga Bhusavati (India)",
-            "Lydian Mixolydian",
-            "Bartok Scale"
-          ],
           "code": [
             0,
             2,
@@ -5809,6 +5795,25 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Bartock",
+            "Bartok",
+            "Harmonique",
+            "Mélodique Lydien",
+            "Acoustique",
+            "Lydien B7",
+            "Hindi #Iv & Bvii",
+            "Mela Vacaspati (Inde)",
+            "Raga Bhusavati (Inde)",
+            "Lydien Mixolydien"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5828,19 +5833,76 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Bhairubahar Thaat (India)"
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            8,
+            9
           ],
+          "name": [
+            "Bb7 Locrien"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              17,
+              6,
+              20,
+              21
+            ],
+            [
+              0,
+              13,
+              3,
+              17,
+              18,
+              20,
+              21
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            3,
+            4,
+            7,
+            9,
+            10
+          ],
+          "name": [
+            "Bebop Mineur Heptatonique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              4,
+              7,
+              21,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             1,
@@ -5849,6 +5911,13 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Bhairubahar Thaat (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -5860,16 +5929,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Bitonal Majeur Chromatique"
-          ],
           "code": [
             0,
             3,
@@ -5879,6 +5941,13 @@ var data = {
             11,
             11
           ],
+          "name": [
+            "Bitonal Majeur Chromatique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr"
+          ],
           "dualo_code": [
             [
               0,
@@ -5898,17 +5967,9 @@ var data = {
               11,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Blues (Heptatonique)",
-            "Blues With Leading Tone"
-          ],
           "code": [
             0,
             3,
@@ -5918,6 +5979,15 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Blues (Heptatonique)",
+            "Blues Avec Sensible"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5937,17 +6007,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Blues Heptatonic"
-          ],
           "code": [
             0,
             3,
@@ -5957,6 +6019,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Blues Heptatonique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -5976,188 +6045,24 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            3,
+            4,
+            7,
+            9,
+            11
+          ],
           "name": [
             "Blues Majeur (Première Forme)"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            4,
-            7,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              4,
-              7,
-              21,
-              11
-            ]
-          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Blues Modified"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            6,
-            7,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              17,
-              18,
-              7,
-              10
-            ],
-            [
-              0,
-              14,
-              3,
-              17,
-              6,
-              7,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Blues Phrygian"
-          ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            6,
-            7,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              17,
-              18,
-              7,
-              10
-            ],
-            [
-              0,
-              13,
-              3,
-              17,
-              6,
-              7,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Dorian",
-            "Raga Kanakambari (India)"
-          ],
-          "code": [
-            0,
-            1,
-            2,
-            5,
-            7,
-            8,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              14,
-              17,
-              7,
-              20,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Dorian Inverse Raga None (India)"
-          ],
-          "code": [
-            0,
-            3,
-            4,
-            5,
-            7,
-            10,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              3,
-              4,
-              17,
-              7,
-              10,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Hypodorian"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            4,
-            7,
-            8,
-            9
           ],
           "dualo_code": [
             [
@@ -6166,455 +6071,126 @@ var data = {
               3,
               4,
               7,
-              20,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Hypodorian Inverse"
-          ],
-          "code": [
-            0,
-            3,
-            4,
-            5,
-            8,
-            9,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              3,
-              4,
-              17,
-              20,
-              21,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Hypolydian",
-            "Puravi Bvi"
-          ],
-          "code": [
-            0,
-            1,
-            4,
-            6,
-            7,
-            8,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              4,
-              18,
-              7,
-              20,
-              11
-            ],
-            [
-              0,
-              13,
-              4,
-              6,
-              7,
-              20,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Hypophrygian Inverse"
-          ],
-          "code": [
-            0,
-            1,
-            2,
-            5,
-            6,
-            7,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              14,
-              17,
-              6,
-              7,
-              21
-            ],
-            [
-              0,
-              13,
-              14,
-              17,
-              18,
-              7,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Lydian"
-          ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            6,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              4,
-              17,
-              6,
-              21,
-              11
-            ],
-            [
-              0,
-              13,
-              4,
-              17,
-              18,
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Lydian Inverse",
-            "Todi Bvi"
-          ],
           "code": [
             0,
-            1,
-            3,
-            6,
-            7,
-            8,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              18,
-              7,
-              20,
-              11
-            ],
-            [
-              0,
-              13,
-              3,
-              6,
-              7,
-              20,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Mixolydian"
-          ],
-          "code": [
-            0,
-            1,
             2,
+            3,
             5,
             6,
             7,
             10
           ],
+          "name": [
+            "Blues Modifié"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              17,
+              18,
+              7,
+              10
+            ],
+            [
+              0,
+              14,
+              3,
+              17,
+              6,
+              7,
+              10
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            7,
+            10
+          ],
+          "name": [
+            "Blues Phrygien"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
               13,
-              14,
+              3,
               17,
-              6,
+              18,
               7,
               10
             ],
             [
               0,
               13,
-              14,
+              3,
               17,
-              18,
+              6,
               7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Mixolydian"
-          ],
           "code": [
             0,
             1,
-            2,
+            3,
             4,
             6,
             7,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              14,
-              4,
-              18,
-              7,
-              10
-            ],
-            [
-              0,
-              13,
-              14,
-              4,
-              6,
-              7,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Mixolydian Inverse"
-          ],
-          "code": [
-            0,
-            2,
-            5,
-            6,
-            7,
-            10,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              17,
-              18,
-              7,
-              10,
-              11
-            ],
-            [
-              0,
-              14,
-              17,
-              6,
-              7,
-              10,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Phrygian"
-          ],
-          "code": [
-            0,
-            3,
-            4,
-            5,
-            8,
-            10,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              3,
-              4,
-              17,
-              20,
-              10,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Chromatic Phrygian Inverse"
-          ],
-          "code": [
-            0,
-            1,
-            2,
-            4,
-            7,
-            8,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              14,
-              4,
-              7,
-              20,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
           "name": [
             "Demi-ton Tons Sans Sixte"
           ],
-          "code": [
-            0,
-            1,
-            3,
-            4,
-            6,
-            7,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              4,
-              18,
-              7,
-              10
-            ],
-            [
-              0,
-              13,
-              3,
-              4,
-              6,
-              7,
-              10
-            ]
-          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Dorian B5"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            6,
-            9,
-            10
           ],
           "dualo_code": [
             [
               0,
-              14,
+              13,
               3,
-              17,
-              6,
-              21,
+              4,
+              18,
+              7,
               10
             ],
             [
               0,
-              14,
+              13,
               3,
-              17,
-              18,
-              21,
+              4,
+              6,
+              7,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Dorien",
-            "Dorian",
-            "Kafi  D To C Asc. Naturals",
-            "Eskimo Heptatonic (N. America)",
-            "Kafi Thaat (India)",
-            "Embulum (Sumerian)"
-          ],
           "code": [
             0,
             2,
@@ -6624,106 +6200,151 @@ var data = {
             9,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              17,
-              7,
-              21,
-              10
-            ]
+          "name": [
+            "Dorien",
+            "Kafi D À C Asc. Naturals",
+            "Eskimo Heptatonique (Amérique Du Nord)",
+            "Kafi Thaat (Inde)",
+            "Embulum (Sumérienne)"
           ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              17,
+              7,
+              21,
+              10
+            ]
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Enigmatic Descending"
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            6,
+            9,
+            10
           ],
+          "name": [
+            "Dorien B5"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              17,
+              6,
+              21,
+              10
+            ],
+            [
+              0,
+              14,
+              3,
+              17,
+              18,
+              21,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             1,
-            4,
+            2,
             5,
+            7,
             8,
-            10,
-            11
+            9
+          ],
+          "name": [
+            "Dorien Chromatique",
+            "Raga Kanakambari (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
               0,
               13,
-              4,
+              14,
               17,
+              7,
               20,
-              10,
-              11
+              21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Enigmatic Minor"
+          "code": [
+            0,
+            3,
+            4,
+            5,
+            7,
+            10,
+            11
           ],
+          "name": [
+            "Dorien Chromatique Inverse",
+            "Raga None (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              3,
+              4,
+              17,
+              7,
+              10,
+              11
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             1,
-            3,
+            4,
             6,
             8,
             10,
             11
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              18,
-              20,
-              10,
-              11
-            ],
-            [
-              0,
-              13,
-              3,
-              6,
-              20,
-              10,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
           "name": [
             "Enigmatique",
             "Enigmatique Ascendant",
-            "Enigmatic Ascending"
+            "Enigmatique Ascendante"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            6,
-            8,
-            10,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6744,40 +6365,106 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            8,
+            10,
+            11
+          ],
+          "name": [
+            "Enigmatique Déscendante"
+          ],
           "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              17,
+              20,
+              10,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            3,
+            6,
+            8,
+            10,
+            11
+          ],
+          "name": [
+            "Enigmatique Mineure"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              18,
+              20,
+              10,
+              11
+            ],
+            [
+              0,
+              13,
+              3,
+              6,
+              20,
+              10,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            7,
+            8,
+            10
+          ],
           "name": [
             "Espagnole (Première Forme)",
             "Espagnole",
             "Juive",
             "Harmonique Mixolydien",
             "Phrygien Dominant",
-            "Phrygian Dominant",
             "Dorico Flamenco",
             "Avaha Raba",
-            "Spanish Folk",
-            "Jewish Major",
-            "Alhijaz (Arabia)",
-            "Ahavh Rabbah (Israel)",
-            "Hitzaz (Greece)",
-            "Spanish Gypsy"
+            "Folk Espagnole",
+            "Juive Majeure",
+            "Alhijaz (Arabie)",
+            "Ahavh Rabbah (Israël)",
+            "Hitzaz (Grèce)",
+            "Gypsy Espagnol"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            7,
-            8,
-            10
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6789,21 +6476,47 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Example Of Pelog",
-            "Mela Latangi (India)",
-            "Mela Latangi (India) (B6)"
+          "code": [
+            0,
+            3,
+            4,
+            5,
+            6,
+            8,
+            10
           ],
+          "name": [
+            "Espagnole Heptatonique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              3,
+              4,
+              17,
+              18,
+              20,
+              10
+            ],
+            [
+              0,
+              3,
+              4,
+              17,
+              6,
+              20,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
@@ -6812,6 +6525,15 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Exemple De Pelog",
+            "Mela Latangi (Inde)",
+            "Mela Latangi (Inde) (B6)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6832,19 +6554,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Gitane",
-            "Gypsy",
-            "Harmonic Minor Inverse Or Bhairav",
-            "Maqam Hicaz (Arabia)"
-          ],
           "code": [
             0,
             1,
@@ -6853,6 +6565,19 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Gitane",
+            "Gypsy",
+            "Mineure Harmonique Inverse",
+            "Bhairav",
+            "Maqam Hicaz (Arabie)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6864,31 +6589,36 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            7,
+            8,
+            11
+          ],
           "name": [
             "Gypsy",
             "Byzantine",
             "Double Harmonique",
             "Flamenco",
-            "Hungarian Folk Or Byzantine Major Gypsy",
-            "Bhairav Thaat (India) Mela Mayamalavagaula (India) Raga Paraj (India) Hitzazkiar (Greece)"
+            "Hongroise Folk",
+            "Byzantine Majeur Gypsy",
+            "Bhairav ​​thaat (Inde)",
+            "Mela Mayamalavagaula (Inde)",
+            "Raga Paraj (Inde)",
+            "Hitzazkiar (Grèce)"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            7,
-            8,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6900,19 +6630,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Gypsy Hexatonic"
-          ],
           "code": [
             0,
             1,
@@ -6921,6 +6641,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Gypsy Hexatonique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6932,29 +6659,32 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            8,
+            10
+          ],
           "name": [
             "Hindou",
             "Indienne",
             "Mélodique Mixolydien",
-            "Major Minor",
-            "Hindu Bvi & Bvii",
-            "Mela Carukesi (India) Raga Tarangini (India)"
+            "Majeur Mineur",
+            "Hindoue Bvi & Bvii",
+            "Mela Carukesi (Inde)",
+            "Raga Tarangini (Inde)"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7,
-            8,
-            10
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -6966,31 +6696,32 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            3,
+            6,
+            7,
+            8,
+            10
+          ],
           "name": [
             "Hongroise Gitane",
             "Gypsy Hongroise",
             "Gypsy",
-            "Hungarian Gypsy",
-            "Mela Sanmukhapriya (India)",
+            "Gypsy Hongrois",
+            "Mela Sanmukhapriya (Inde)",
             "Damian Emmanuel"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            6,
-            7,
-            8,
-            10
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7011,20 +6742,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Hongroise Majeure",
-            "Hungarian Major Raga Nasamani (India)"
-          ],
           "code": [
             0,
             3,
@@ -7034,6 +6754,16 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Hongroise Majeure",
+            "Raga Nasamani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7053,32 +6783,32 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            3,
+            6,
+            7,
+            8,
+            11
+          ],
           "name": [
             "Hongroise Mineure",
             "Algérienne",
             "Hongroise Gypsy",
-            "Hungarian Minor",
-            "Maqam Nawa Athar (Arabia)",
-            "Double Harmonic Minor",
-            "Niavent (Greece)"
+            "Nawa Athar Maqam (Arabie)",
+            "Double Mineure Harmonique",
+            "Niavent (Grèce)"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            6,
-            7,
-            8,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7099,20 +6829,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Houzam (Greece)   Raga Saildesakshi",
-            "Trishuli (India)"
-          ],
           "code": [
             0,
             3,
@@ -7121,6 +6840,15 @@ var data = {
             7,
             9,
             11
+          ],
+          "name": [
+            "Houzam (Grèce)",
+            "Raga Saildesakshi",
+            "Trishuli (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7132,17 +6860,144 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Indian",
-            "Phrygian Dim 4th"
+          "code": [
+            0,
+            2,
+            3,
+            4,
+            7,
+            8,
+            9
           ],
+          "name": [
+            "Hypodorien Chromatique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              4,
+              7,
+              20,
+              21
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            3,
+            4,
+            5,
+            8,
+            9,
+            10
+          ],
+          "name": [
+            "Hypodorien Chromatique Inverse"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              3,
+              4,
+              17,
+              20,
+              21,
+              10
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            4,
+            6,
+            7,
+            8,
+            11
+          ],
+          "name": [
+            "Hypolydien Chromatique",
+            "Puravi Bvi"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              18,
+              7,
+              20,
+              11
+            ],
+            [
+              0,
+              13,
+              4,
+              6,
+              7,
+              20,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            2,
+            5,
+            6,
+            7,
+            9
+          ],
+          "name": [
+            "Hypophrygien Chromatique Inverse"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              14,
+              17,
+              6,
+              7,
+              21
+            ],
+            [
+              0,
+              13,
+              14,
+              17,
+              18,
+              7,
+              21
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             1,
@@ -7151,6 +7006,14 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Indienne",
+            "Phrygien Quarte Diminuée"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7162,30 +7025,31 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            11
+          ],
           "name": [
             "Ionien",
             "Majeure",
-            "Ionian",
-            "Major",
-            "Bilaval  C To B Asc.  Nats.",
+            "Bilaval C À B Asc. Nats.",
             "Thaat",
-            "Nid Murub (Sumerian)"
+            "Nid Murub (Sumérienne)"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7,
-            9,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7197,30 +7061,29 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            8,
+            9,
+            11
+          ],
           "name": [
             "Ionien #5",
             "Harmonique Phrygien",
-            "Harmonic Major 2",
-            "Ionian #5"
+            "Majeur Harmonique 2",
+            "Ionien # 5"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            8,
-            9,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7232,31 +7095,30 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            9,
+            10
+          ],
           "name": [
             "Javanais",
             "Javanaise",
-            "Jazz Minor Inverse",
-            "Javanese",
-            "Dorian Bii",
+            "Jazz Mineur Inverse",
+            "Dorien Bii",
             "Hindi"
           ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            7,
-            9,
-            10
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7268,96 +7130,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Locrian 2"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            6,
-            8,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              17,
-              6,
-              20,
-              11
-            ],
-            [
-              0,
-              14,
-              3,
-              17,
-              18,
-              20,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Locrian Bb7"
-          ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            6,
-            8,
-            9
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              17,
-              6,
-              20,
-              21
-            ],
-            [
-              0,
-              13,
-              3,
-              17,
-              18,
-              20,
-              21
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Locrien",
-            "Locrian  - B To A Ascending Naturals",
-            "Qablitum (Sumerian)"
-          ],
           "code": [
             0,
             1,
@@ -7367,6 +7142,18 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Locrien",
+            "Locrien - B À A Ascendant Naturel",
+            "Qablitum (Sumérienne)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7386,198 +7173,153 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            6,
+            8,
+            11
+          ],
+          "name": [
+            "Locrien 2"
+          ],
           "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              17,
+              6,
+              20,
+              11
+            ],
+            [
+              0,
+              14,
+              3,
+              17,
+              18,
+              20,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            9,
+            10
+          ],
           "name": [
             "Locrien Bécarre 6",
             "Harmonique Dorien",
-            "Locrian Natural Maj 6",
-            "Pseudo Turkish"
+            "Locrien Naturel Maj 6",
+            "Pseudo Turque"
           ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            6,
-            9,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              17,
-              6,
-              21,
-              10
-            ],
-            [
-              0,
-              13,
-              3,
-              17,
-              18,
-              21,
-              10
-            ]
-          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Lydian Diminished",
-            "Raga Dumyaraga",
-            "Madhuvanti",
-            "Ambika (India)",
-            "Mela Nitimati (India)"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            6,
-            7,
-            9,
-            11
           ],
           "dualo_code": [
             [
               0,
-              14,
+              13,
               3,
-              18,
-              7,
+              17,
+              6,
               21,
-              11
+              10
             ],
             [
               0,
-              14,
+              13,
               3,
-              6,
-              7,
+              17,
+              18,
               21,
-              11
+              10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Lydian Minor",
-            "Stravinski Raga Ratipriya (India)"
-          ],
           "code": [
             0,
             2,
             4,
             6,
             7,
-            8,
-            10
+            9,
+            11
           ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              18,
-              7,
-              20,
-              10
-            ],
-            [
-              0,
-              14,
-              4,
-              6,
-              7,
-              20,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
           "name": [
             "Lydien",
-            "Lydian",
-            "Kalyan F To E Ascending Naturals",
-            "Ping (China)",
-            "Nis Garb.ri (Mesopotamian)"
+            "Kalyan F À E Ascendant Naturel",
+            "Ping (Chine)",
+            "Nis Garb.ri (Mésopotamienne)"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            6,
-            7,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              18,
-              7,
-              21,
-              11
-            ],
-            [
-              0,
-              14,
-              4,
-              6,
-              7,
-              21,
-              11
-            ]
-          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              18,
+              7,
+              21,
+              11
+            ],
+            [
+              0,
+              14,
+              4,
+              6,
+              7,
+              21,
+              11
+            ]
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            3,
+            4,
+            6,
+            7,
+            9,
+            11
+          ],
           "name": [
             "Lydien #2",
             "Harmonique Aéolien",
-            "Lydian #2 Raga Kuksumakaram"
+            "Raga Kuksumakaram"
           ],
-          "code": [
-            0,
-            3,
-            4,
-            6,
-            7,
-            9,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7598,66 +7340,211 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            4,
+            6,
+            8,
+            9,
+            11
+          ],
           "name": [
             "Lydien Augmenté",
             "Mélodique Lydien Augmenté",
-            "Lydian Augmented",
             "Hindi #Iv & #V"
           ],
-          "code": [
-            0,
-            2,
-            4,
-            6,
-            8,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              4,
-              6,
-              20,
-              21,
-              11
-            ],
-            [
-              0,
-              14,
-              4,
-              18,
-              20,
-              21,
-              11
-            ]
-          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              6,
+              20,
+              21,
+              11
+            ],
+            [
+              0,
+              14,
+              4,
+              18,
+              20,
+              21,
+              11
+            ]
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Majeure Harmonique",
-            "Grande Harmonique",
-            "Harmonic Major 1",
-            "Ethiopian",
-            "Nat Bhairava"
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            6,
+            9,
+            11
           ],
+          "name": [
+            "Lydien Chromatique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              17,
+              6,
+              21,
+              11
+            ],
+            [
+              0,
+              13,
+              4,
+              17,
+              18,
+              21,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            3,
+            6,
+            7,
+            8,
+            11
+          ],
+          "name": [
+            "Lydien Chromatique Inverse",
+            "Todi Bvi"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              18,
+              7,
+              20,
+              11
+            ],
+            [
+              0,
+              13,
+              3,
+              6,
+              7,
+              20,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            3,
+            6,
+            7,
+            9,
+            11
+          ],
+          "name": [
+            "Lydien Diminué",
+            "Raga Dumyaraga",
+            "Madhuvanti",
+            "Ambika (Inde)",
+            "Mela Nitimati (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              18,
+              7,
+              21,
+              11
+            ],
+            [
+              0,
+              14,
+              3,
+              6,
+              7,
+              21,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            4,
+            6,
+            7,
+            8,
+            10
+          ],
+          "name": [
+            "Lydien Mineur",
+            "Stravinski",
+            "Raga Ratipriya (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              4,
+              18,
+              7,
+              20,
+              10
+            ],
+            [
+              0,
+              14,
+              4,
+              6,
+              7,
+              20,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
@@ -7665,7 +7552,15 @@ var data = {
             5,
             7,
             8,
-            11
+            9
+          ],
+          "name": [
+            "Majeur Bebop Heptatonique",
+            "Mela Mararanjani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -7675,28 +7570,32 @@ var data = {
               17,
               7,
               20,
-              11
+              21
             ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            8,
+            11
           ],
+          "name": [
+            "Majeure Harmonique",
+            "Grande Harmonique",
+            "Majeur Harmonique 1",
+            "Éthiopienne",
+            "Nat Bhairava"
+          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "Wikipedia",
             "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Major Bebop Heptatonic Mela Mararanjani (India)"
-          ],
-          "code": [
-            0,
-            2,
-            4,
-            5,
-            7,
-            8,
-            9
           ],
           "dualo_code": [
             [
@@ -7706,19 +7605,11 @@ var data = {
               17,
               7,
               20,
-              21
+              11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Marva Or Marvi",
-            "Marva Thaat (India)"
-          ],
           "code": [
             0,
             1,
@@ -7728,6 +7619,14 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Marva Ou Marvi",
+            "Marva Thaat (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7747,54 +7646,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela  Navanitam (India)"
-          ],
-          "code": [
-            0,
-            1,
-            2,
-            6,
-            7,
-            9,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              14,
-              6,
-              7,
-              21,
-              10
-            ],
-            [
-              0,
-              13,
-              14,
-              18,
-              7,
-              21,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Mela Bhavapriya (India)"
-          ],
           "code": [
             0,
             1,
@@ -7804,6 +7658,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Mela Bhavapriya (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7823,16 +7684,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Citrambari (India)"
-          ],
           "code": [
             0,
             2,
@@ -7842,6 +7696,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Mela Citrambari (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7861,16 +7722,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Dhatuvardhani (India)"
-          ],
           "code": [
             0,
             3,
@@ -7880,6 +7734,13 @@ var data = {
             8,
             11
           ],
+          "name": [
+            "Mela Dhatuvardhani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7899,16 +7760,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Dhavalambari (India)"
-          ],
           "code": [
             0,
             1,
@@ -7918,6 +7772,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Mela Dhavalambari (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7937,16 +7798,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Divamani (India)"
-          ],
           "code": [
             0,
             1,
@@ -7956,6 +7810,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Mela Divamani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -7975,16 +7836,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Ganamurti (India)"
-          ],
           "code": [
             0,
             1,
@@ -7993,6 +7847,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Mela Ganamurti (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8004,16 +7865,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Gangeyabhusani (India)"
-          ],
           "code": [
             0,
             3,
@@ -8022,6 +7876,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Mela Gangeyabhusani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8033,16 +7894,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Gavambohdi (India)"
-          ],
           "code": [
             0,
             1,
@@ -8051,6 +7905,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Mela Gavambohdi (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8071,16 +7932,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Hatakambari (India)"
-          ],
           "code": [
             0,
             1,
@@ -8090,6 +7944,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Mela Hatakambari (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8100,16 +7961,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Jalarnava (India)"
-          ],
           "code": [
             0,
             1,
@@ -8119,6 +7973,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Mela Jalarnava (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8138,16 +7999,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Jhalavarali (India)"
-          ],
           "code": [
             0,
             1,
@@ -8157,6 +8011,13 @@ var data = {
             8,
             11
           ],
+          "name": [
+            "Mela Jhalavarali (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8176,16 +8037,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Jhankaradhvani (India)"
-          ],
           "code": [
             0,
             2,
@@ -8194,6 +8048,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Mela Jhankaradhvani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8205,16 +8066,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Jhotisvarupini (India)"
-          ],
           "code": [
             0,
             3,
@@ -8224,6 +8078,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Mela Jhotisvarupini (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8243,16 +8104,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Kantamani (India)"
-          ],
           "code": [
             0,
             2,
@@ -8262,6 +8116,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Mela Kantamani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8281,16 +8142,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Manavati (India)"
-          ],
           "code": [
             0,
             1,
@@ -8300,6 +8154,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Mela Manavati (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8310,16 +8171,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Nagananadini (India)"
-          ],
           "code": [
             0,
             2,
@@ -8328,6 +8182,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Mela Nagananadini (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8339,16 +8200,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Namanararayani (India)"
-          ],
           "code": [
             0,
             1,
@@ -8357,6 +8211,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Mela Namanararayani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8377,16 +8238,47 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Pavani (India)"
+          "code": [
+            0,
+            1,
+            2,
+            6,
+            7,
+            9,
+            10
           ],
+          "name": [
+            "Mela Navanitam (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              14,
+              6,
+              7,
+              21,
+              10
+            ],
+            [
+              0,
+              13,
+              14,
+              18,
+              7,
+              21,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             1,
@@ -8396,6 +8288,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Mela Pavani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8415,16 +8314,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Ragavardhani (India)"
-          ],
           "code": [
             0,
             3,
@@ -8433,6 +8325,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Mela Ragavardhani (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8444,16 +8343,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Raghupriya (India)"
-          ],
           "code": [
             0,
             1,
@@ -8462,6 +8354,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Mela Raghupriya (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8482,16 +8381,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Rasikapriya (India)"
-          ],
           "code": [
             0,
             3,
@@ -8501,6 +8393,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Mela Rasikapriya (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8520,16 +8419,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Ratnangi (India)"
-          ],
           "code": [
             0,
             1,
@@ -8538,6 +8430,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Mela Ratnangi (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8549,16 +8448,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Rupavati (India)"
-          ],
           "code": [
             0,
             1,
@@ -8567,6 +8459,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Mela Rupavati (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8578,16 +8477,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Salaga (India)"
-          ],
           "code": [
             0,
             1,
@@ -8596,6 +8488,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Mela Salaga (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8616,16 +8515,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Senavati (India)"
-          ],
           "code": [
             0,
             1,
@@ -8634,6 +8526,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Mela Senavati (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8645,16 +8544,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Sucaritra (India)"
-          ],
           "code": [
             0,
             3,
@@ -8664,6 +8556,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Mela Sucaritra (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8683,16 +8582,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Syamalangi (India)"
-          ],
           "code": [
             0,
             2,
@@ -8702,6 +8594,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Mela Syamalangi (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8721,16 +8620,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Tanarupi (India)"
-          ],
           "code": [
             0,
             1,
@@ -8739,6 +8631,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Mela Tanarupi (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8750,16 +8649,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Vanaspati (India)"
-          ],
           "code": [
             0,
             1,
@@ -8769,6 +8661,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Mela Vanaspati (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -8779,16 +8678,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Varunapriya (India)"
-          ],
           "code": [
             0,
             2,
@@ -8797,6 +8689,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Mela Varunapriya (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8808,16 +8707,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Visvambhari (India)"
-          ],
           "code": [
             0,
             1,
@@ -8826,6 +8718,13 @@ var data = {
             7,
             10,
             11
+          ],
+          "name": [
+            "Mela Visvambhari (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8846,16 +8745,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mela Yagapriya  (India)"
-          ],
           "code": [
             0,
             3,
@@ -8864,6 +8756,13 @@ var data = {
             7,
             8,
             9
+          ],
+          "name": [
+            "Mela Yagapriya (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8875,28 +8774,30 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            7,
+            8,
+            11
+          ],
           "name": [
             "Mineure Harmonique",
             "Mahométan",
             "Harmonique Ionien",
-            "Gamme Mineure Harmonique",
-            "Harmonic Minor"
+            "Gamme Mineure Harmonique"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            7,
-            8,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8908,33 +8809,32 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            7,
+            9,
+            11
+          ],
           "name": [
             "Mineure Mélodique",
             "Hawaïenne",
             "Mélodique Ionien",
             "Jazz Mineur",
             "Mineure Mélodique Ascendante",
-            "Minor Melodic",
-            "Jazz Minor"
+            "Mineur Mélodique"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            7,
-            9,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -8946,48 +8846,45 @@ var data = {
               21,
               11
             ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            4,
+            5,
+            7,
+            9,
+            10
           ],
+          "name": [
+            "Mixolydien",
+            "Khamaj G À F Ascend. Nats",
+            "Ching (Chine)",
+            "Mitum (Sumérien)",
+            "Grégorien 7"
+          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Minor Bebop Heptatonic"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            4,
-            7,
-            9,
-            10
           ],
           "dualo_code": [
             [
               0,
               14,
-              3,
               4,
+              17,
               7,
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mixolydian Augmented"
-          ],
           "code": [
             0,
             2,
@@ -8996,6 +8893,13 @@ var data = {
             8,
             9,
             10
+          ],
+          "name": [
+            "Mixolydien Augmentée"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9007,16 +8911,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mixolydian B5"
-          ],
           "code": [
             0,
             2,
@@ -9025,6 +8922,13 @@ var data = {
             6,
             9,
             10
+          ],
+          "name": [
+            "Mixolydien B5"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9045,65 +8949,144 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Mixolydien",
-            "Mixolydian",
-            "Khamaj G To F Ascend. Nats",
-            "Ching (China)",
-            "Mitum (Sumerian)",
-            "Gregorian 7"
+          "code": [
+            0,
+            1,
+            2,
+            5,
+            6,
+            7,
+            10
           ],
+          "name": [
+            "Mixolydien Chromatique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              14,
+              17,
+              6,
+              7,
+              10
+            ],
+            [
+              0,
+              13,
+              14,
+              17,
+              18,
+              7,
+              10
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            10
+          ],
+          "name": [
+            "Mixolydien Chromatique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              14,
+              4,
+              18,
+              7,
+              10
+            ],
+            [
+              0,
+              13,
+              14,
+              4,
+              6,
+              7,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
-            4,
             5,
+            6,
             7,
-            9,
-            10
+            10,
+            11
+          ],
+          "name": [
+            "Mixolydien Chromatique Inverse"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
               0,
               14,
-              4,
               17,
+              18,
               7,
-              21,
-              10
+              10,
+              11
+            ],
+            [
+              0,
+              14,
+              17,
+              6,
+              7,
+              10,
+              11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            7,
+            9,
+            11
+          ],
           "name": [
             "Napolitaine Majeure",
             "Mélodique Dorien",
-            "Neapolitan Major",
-            "Mela Kokilapriya (India)",
-            "Raga Kokilaravam (India)"
+            "Mela Kokilapriya (Inde)",
+            "Raga Kokilaravam (Inde)"
           ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            7,
-            9,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9115,22 +9098,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Napolitaine Mineure",
-            "Neapolitan Minor",
-            "Raga Dhunibinnashadjam (India)",
-            "Maqam Shahnaz Kurdi (Arabia)"
-          ],
           "code": [
             0,
             1,
@@ -9139,6 +9109,18 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Napolitaine Mineure",
+            "Raga Dhunibinnashadjam (Inde)",
+            "Maqam Shahnaz Kurdi (Arabie)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9150,19 +9132,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Neapolitan Minor Mode"
-          ],
           "code": [
             0,
             1,
@@ -9172,6 +9144,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Napolitaine Mode Mineur"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -9191,16 +9170,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Nohkan (Japan)"
-          ],
           "code": [
             0,
             2,
@@ -9210,6 +9182,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Nohkan (Japon)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -9229,19 +9208,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Orientale",
-            "Oriental 1",
-            "Tsinganikos (Greece)",
-            "Raga Ahira Lalita (India)"
-          ],
           "code": [
             0,
             1,
@@ -9251,6 +9220,17 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Orientale",
+            "Orientale 1",
+            "Tsinganikos (Grèce)",
+            "Raga Ahira Lalita (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "GuitarPro5",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -9270,25 +9250,24 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            6,
+            8,
+            9
+          ],
           "name": [
             "Orientale (Deuxième Forme)"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            6,
-            8,
-            9
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr"
           ],
           "dualo_code": [
             [
@@ -9309,16 +9288,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Orientale (Première Forme)"
-          ],
           "code": [
             0,
             1,
@@ -9328,6 +9300,13 @@ var data = {
             8,
             10
           ],
+          "name": [
+            "Orientale (Première Forme)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr"
+          ],
           "dualo_code": [
             [
               0,
@@ -9347,16 +9326,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Orientale (Troisième Forme)"
-          ],
           "code": [
             0,
             3,
@@ -9365,6 +9337,13 @@ var data = {
             8,
             9,
             11
+          ],
+          "name": [
+            "Orientale (Troisième Forme)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr"
           ],
           "dualo_code": [
             [
@@ -9376,28 +9355,31 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            6,
+            8,
+            11
+          ],
           "name": [
             "Persane (Deuxième Forme)",
             "Persienne",
             "Perse",
-            "Chromatic Hypolydian Inverse",
-            "Persian"
+            "Hypolydien Chromatique Inverse",
+            "Le Persan"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            6,
-            8,
-            11
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9418,27 +9400,24 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            6,
+            7,
+            10
+          ],
           "name": [
             "Persane (Première Forme)"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            6,
-            7,
-            10
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr"
           ],
           "dualo_code": [
             [
@@ -9459,20 +9438,9 @@ var data = {
               7,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Phrygien",
-            "Phrygian",
-            "Bhairavi  E To D Asc. Nats.",
-            "Ishartum (Sumerian)",
-            "Gregorian 3"
-          ],
           "code": [
             0,
             1,
@@ -9482,29 +9450,90 @@ var data = {
             8,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              17,
-              7,
-              20,
-              10
-            ]
+          "name": [
+            "Phrygien",
+            "Bhairavi E À D Asc. Nats.",
+            "Ishartum (Sumérien)",
+            "Grégorien 3"
           ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              17,
+              7,
+              20,
+              10
+            ]
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Raga Kalakanti"
+          "code": [
+            0,
+            3,
+            4,
+            5,
+            8,
+            10,
+            11
           ],
+          "name": [
+            "Phrygien Chromatique"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              3,
+              4,
+              17,
+              20,
+              10,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            2,
+            4,
+            7,
+            8,
+            9
+          ],
+          "name": [
+            "Phrygien Chromatique Inverse"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              14,
+              4,
+              7,
+              20,
+              21
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             1,
@@ -9513,6 +9542,13 @@ var data = {
             8,
             9,
             10
+          ],
+          "name": [
+            "Raga Kalakanti"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9533,16 +9569,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Raga Madhuri"
-          ],
           "code": [
             0,
             4,
@@ -9551,6 +9580,13 @@ var data = {
             9,
             10,
             11
+          ],
+          "name": [
+            "Raga Madhuri"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9562,17 +9598,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Raga Nandkauns (India)",
-            "Rock 'n Roll"
-          ],
           "code": [
             0,
             3,
@@ -9581,6 +9609,14 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Raga Nandkauns (Inde)",
+            "Rock'n Roll"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9592,16 +9628,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Raga Ragesri (India)"
-          ],
           "code": [
             0,
             2,
@@ -9610,6 +9639,13 @@ var data = {
             9,
             10,
             11
+          ],
+          "name": [
+            "Raga Ragesri (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9621,16 +9657,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Raga Sorati (India)"
-          ],
           "code": [
             0,
             2,
@@ -9639,6 +9668,13 @@ var data = {
             9,
             10,
             11
+          ],
+          "name": [
+            "Raga Sorati (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9650,102 +9686,95 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Romanian Major",
-            "Purvi Bvii"
-          ],
           "code": [
             0,
-            1,
-            4,
+            2,
+            3,
             6,
             7,
             9,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              4,
-              18,
-              7,
-              21,
-              10
-            ],
-            [
-              0,
-              13,
-              4,
-              6,
-              7,
-              21,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
           "name": [
             "Roumain Mineur",
             "Harmonique Lydien",
             "Dorien Ukrainien",
-            "Romanian",
+            "Roumaine",
             "Gnossiennes",
-            "Ukrainian Minor Raja",
-            "Dorian With A Sharp Fourth"
+            "Mineur Ukrainien Raja",
+            "Dorien Avec Quarte Augmentée"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            6,
-            7,
-            9,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              18,
-              7,
-              21,
-              10
-            ],
-            [
-              0,
-              14,
-              3,
-              6,
-              7,
-              21,
-              10
-            ]
-          ],
+          "category": "7 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              18,
+              7,
+              21,
+              10
+            ],
+            [
+              0,
+              14,
+              3,
+              6,
+              7,
+              21,
+              10
+            ]
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Sabach (Greece)"
+          "code": [
+            0,
+            1,
+            4,
+            6,
+            7,
+            9,
+            10
           ],
+          "name": [
+            "Roumaine Majeure",
+            "Purvi Bvii"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              18,
+              7,
+              21,
+              10
+            ],
+            [
+              0,
+              13,
+              4,
+              6,
+              7,
+              21,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
@@ -9754,6 +9783,13 @@ var data = {
             7,
             8,
             10
+          ],
+          "name": [
+            "Sabach (Grèce)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9765,56 +9801,9 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Spanish Heptatonic"
-          ],
-          "code": [
-            0,
-            3,
-            4,
-            5,
-            6,
-            8,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              3,
-              4,
-              17,
-              18,
-              20,
-              10
-            ],
-            [
-              0,
-              3,
-              4,
-              17,
-              6,
-              20,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "7 notes",
-          "name": [
-            "Superlocrien Bb7",
-            "Harmonique Locrien",
-            "Ultra Locrian"
-          ],
           "code": [
             0,
             1,
@@ -9824,6 +9813,17 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Superlocrien Bb7",
+            "Harmonique Locrien",
+            "Ultra Locrien"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -9843,18 +9843,9 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Todi Bvii Mela Sadvidhamargini (India)"
-          ],
           "code": [
             0,
             1,
@@ -9864,6 +9855,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Todi Bvii Mela Sadvidhamargini (Inde)"
+          ],
+          "category": "7 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -9883,17 +9881,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "7 notes",
-          "name": [
-            "Ton Par Ton Sensible",
-            "Leading Whole-tone"
-          ],
           "code": [
             0,
             2,
@@ -9903,6 +9893,15 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Ton Par Ton Sensible",
+            "Ton-par-ton Sensible"
+          ],
+          "category": "7 notes",
+          "source": [
+            "GuitarPro5",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -9922,10 +9921,6 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         }
       ]
@@ -9934,10 +9929,6 @@ var data = {
       "key": "8 notes",
       "values": [
         {
-          "category": "8 notes",
-          "name": [
-            "Adonai Malakh (Israel)"
-          ],
           "code": [
             0,
             1,
@@ -9947,6 +9938,13 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Adonaï Malakh (Israël)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -9959,16 +9957,72 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Algerian"
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            7,
+            8,
+            9,
+            10
           ],
+          "name": [
+            "Aeolien Dorien"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              17,
+              7,
+              20,
+              21,
+              10
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            2,
+            3,
+            5,
+            7,
+            8,
+            10
+          ],
+          "name": [
+            "Aeolien Phrygien 2b 4b 6b",
+            "Aeolien Phrygien 3b1 De #"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              14,
+              3,
+              17,
+              7,
+              20,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
@@ -9978,6 +10032,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Algérienne"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -10000,20 +10061,50 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Bebop Dominante",
-            "Be-bop",
-            "Dominant Bebop",
-            "Messiaen Mode 6",
-            "Mode 6"
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            7,
+            8,
+            11
           ],
+          "name": [
+            "Bebop Demi-diminué"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              17,
+              6,
+              7,
+              20,
+              11
+            ],
+            [
+              0,
+              13,
+              3,
+              17,
+              18,
+              7,
+              20,
+              11
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
@@ -10023,6 +10114,20 @@ var data = {
             9,
             10,
             11
+          ],
+          "name": [
+            "Bebop Dominante",
+            "Be-bop",
+            "Bebop Dominant",
+            "Messiaen Mode 6",
+            "Mode 6"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -10035,21 +10140,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Bebop Majeur",
-            "Quinte Augmentée",
-            "Major Bebop"
-          ],
           "code": [
             0,
             2,
@@ -10059,6 +10152,18 @@ var data = {
             8,
             9,
             11
+          ],
+          "name": [
+            "Bebop Majeur",
+            "Quinte Augmentée",
+            "Majeur Bebop"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Wikipedia",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -10071,20 +10176,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Wikipedia",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Bebop Mineur",
-            "Minor Bebop"
-          ],
           "code": [
             0,
             2,
@@ -10094,6 +10188,14 @@ var data = {
             7,
             9,
             10
+          ],
+          "name": [
+            "Bebop Mineur"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -10106,23 +10208,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Blues Diminué (Première Forme)",
-            "Diminuée 2",
-            "Blues Diminished",
-            "Half-diminished",
-            "Symmetric",
-            "Blues Dim.",
-            "Auxillary Diminished Blues"
-          ],
           "code": [
             0,
             1,
@@ -10133,6 +10221,21 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Blues Diminué (Première Forme)",
+            "Diminuée 2",
+            "Blues Diminué",
+            "Demi-diminué",
+            "Symétrique",
+            "Blues Dim.",
+            "Blues Auxiliaire Diminuée"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Solfego.fr",
+            "GuitarPro5",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10154,18 +10257,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "GuitarPro5",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Blues Octatonic"
-          ],
           "code": [
             0,
             2,
@@ -10176,6 +10270,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Blues Octatonique"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10197,20 +10298,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Demi-diminué",
-            "Shostakovich Name In Cyrillic Monogram",
-            "Shostakovich",
-            "Shostakovich Respelled All Flat",
-            "Shostakovich Respelled All Sharp"
-          ],
           "code": [
             0,
             1,
@@ -10221,6 +10311,16 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Demi-diminué",
+            "Shostakovich",
+            "Shostakovich Nommée En Cyrillique Monogramme"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Solfego.fr",
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10242,75 +10342,32 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Solfego.fr",
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            6,
+            8,
+            9,
+            11
+          ],
           "name": [
             "Diminué",
             "Diminuée 1",
             "Octatonique",
-            "Auxillary Diminished",
-            "Diminished",
-            "Messiaen 2nd Mode From Groves Start B"
+            "Auxiliaire Diminuée",
+            "Messiaen 2e Mode"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            6,
-            8,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              14,
-              3,
-              17,
-              6,
-              20,
-              21,
-              11
-            ],
-            [
-              0,
-              14,
-              3,
-              17,
-              18,
-              20,
-              21,
-              11
-            ]
-          ],
+          "category": "8 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Wikipedia",
             "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Dorian Aeolian"
-          ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            7,
-            8,
-            9,
-            10
           ],
           "dualo_code": [
             [
@@ -10318,64 +10375,24 @@ var data = {
               14,
               3,
               17,
-              7,
-              20,
-              21,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Enigmatic"
-          ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            6,
-            8,
-            10,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              4,
-              17,
               6,
               20,
-              10,
+              21,
               11
             ],
             [
               0,
-              13,
-              4,
+              14,
+              3,
               17,
               18,
               20,
-              10,
+              21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Espagnole (Deuxième Forme)",
-            "Espagnole 8 Tons",
-            "Spanish 8 Tones"
-          ],
           "code": [
             0,
             1,
@@ -10386,42 +10403,40 @@ var data = {
             8,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              4,
-              17,
-              6,
-              20,
-              10
-            ],
-            [
-              0,
-              13,
-              3,
-              4,
-              17,
-              18,
-              20,
-              10
-            ]
+          "name": [
+            "Espagnole (Deuxième Forme)",
+            "Espagnole 8 Tons"
           ],
+          "category": "8 notes",
           "source": [
             "Solfego.fr",
             "GuitarPro5",
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              4,
+              17,
+              6,
+              20,
+              10
+            ],
+            [
+              0,
+              13,
+              3,
+              4,
+              17,
+              18,
+              20,
+              10
+            ]
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Espagnole 8 Tons",
-            "Phrygian Major",
-            "Flamenco",
-            "Spanish Phrygian"
-          ],
           "code": [
             0,
             1,
@@ -10432,100 +10447,72 @@ var data = {
             8,
             10
           ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              4,
-              17,
-              7,
-              20,
-              10
-            ]
+          "name": [
+            "Espagnole 8 Tons",
+            "Phrygien Majeur",
+            "Flamenco",
+            "Phrygien Espagnol"
           ],
+          "category": "8 notes",
           "source": [
             "Solfego.fr",
             "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Half-dimiished Bebop"
-          ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            6,
-            7,
-            8,
-            11
           ],
           "dualo_code": [
             [
               0,
               13,
               3,
+              4,
               17,
-              6,
               7,
               20,
+              10
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            2,
+            3,
+            6,
+            7,
+            8,
+            10,
+            11
+          ],
+          "name": [
+            "Gypsy Mineur"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              14,
+              3,
+              18,
+              7,
+              20,
+              10,
               11
             ],
             [
               0,
-              13,
-              3,
-              17,
-              18,
-              7,
-              20,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Harmonic Neapolitan Minor"
-          ],
-          "code": [
-            0,
-            1,
-            2,
-            3,
-            5,
-            7,
-            8,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
               14,
               3,
-              17,
+              6,
               7,
               20,
+              10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Hungarian Minor B2"
-          ],
           "code": [
             0,
             1,
@@ -10535,6 +10522,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Hongroise Mineure B2"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -10557,17 +10551,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Jg Octatonic",
-            "Jg Octatonic  All 3b"
-          ],
           "code": [
             0,
             1,
@@ -10578,6 +10564,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Jg Octatonique"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10589,16 +10582,50 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Lydian B3"
+          "code": [
+            0,
+            1,
+            3,
+            5,
+            6,
+            7,
+            8,
+            10
           ],
+          "name": [
+            "Locrien Phrygien"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              17,
+              6,
+              7,
+              20,
+              10
+            ],
+            [
+              0,
+              13,
+              3,
+              17,
+              18,
+              7,
+              20,
+              10
+            ]
+          ]
+        },
+        {
           "code": [
             0,
             2,
@@ -10609,6 +10636,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Lydien B3"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10630,16 +10664,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Lydian Dim B7"
-          ],
           "code": [
             0,
             2,
@@ -10650,6 +10677,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Lydien Dim B7"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10671,17 +10705,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Lydian Dominant + Natural Seventh",
-            "Lydian With Both Natural And Dominant 7th"
-          ],
           "code": [
             0,
             2,
@@ -10692,6 +10718,14 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Lydien Dominant + Septième Naturel",
+            "Lydien À La Fois Naturel Et 7e Dominante"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10713,61 +10747,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Magen Abot",
-            "Magen Abot (3b 2#)",
-            "Magen Abot (Israel) All Flat",
-            "Magen Abot (Israel) All Sharp"
-          ],
-          "code": [
-            0,
-            1,
-            3,
-            4,
-            6,
-            8,
-            9,
-            11
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              4,
-              6,
-              20,
-              21,
-              11
-            ],
-            [
-              0,
-              13,
-              3,
-              4,
-              18,
-              20,
-              21,
-              11
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Major Lydian Genus Diatonicum Veterum Correctum",
-            "Ishikotsucho (Japan)"
-          ],
           "code": [
             0,
             2,
@@ -10778,6 +10760,15 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Lydien Majeur",
+            "Genus Diatonicum Veterum Correctum",
+            "Ishikotsucho (Japon)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10799,25 +10790,66 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
+          "code": [
+            0,
+            1,
+            3,
+            4,
+            6,
+            8,
+            9,
+            11
+          ],
+          "name": [
+            "Magen Abot"
+          ],
           "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              3,
+              4,
+              6,
+              20,
+              21,
+              11
+            ],
+            [
+              0,
+              13,
+              3,
+              4,
+              18,
+              20,
+              21,
+              11
+            ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            7,
+            8,
+            10,
+            11
+          ],
           "name": [
             "Maqam Hijaz"
           ],
-          "code": [
-            0,
-            1,
-            4,
-            5,
-            7,
-            8,
-            10,
-            11
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -10830,17 +10862,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Maqam Shadd'araban",
-            "Maqam Shadd'araban (6b's)"
-          ],
           "code": [
             0,
             1,
@@ -10851,6 +10875,14 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Maqam Shadd'araban",
+            "Maqam Shadd'araban (6b De)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10872,16 +10904,9 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Mela Tanarupi (India)"
-          ],
           "code": [
             0,
             1,
@@ -10892,6 +10917,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Mela Tanarupi (Inde)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10913,16 +10945,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Messiaen 2 According To Brown"
-          ],
           "code": [
             0,
             2,
@@ -10933,6 +10958,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Messiaen 2 Selon Brown"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10954,17 +10986,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Messiaen 3 According To Brown",
-            "Messiaen 6th Mode From Groves Start B"
-          ],
           "code": [
             0,
             1,
@@ -10975,6 +10999,14 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Messiaen 3 Selon Brown",
+            "Messiaen 6e Mode"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -10996,18 +11028,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Messiaen 5 According To Brown",
-            "Messiaen Mode 4",
-            "Mode 4"
-          ],
           "code": [
             0,
             1,
@@ -11018,6 +11041,15 @@ var data = {
             8,
             11
           ],
+          "name": [
+            "Messiaen 5 Selon Brown",
+            "Messiaen Mode 4",
+            "Mode 4"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11039,17 +11071,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Messiaen 7 According To Brown",
-            "Messiaen Mode 6 Inverse"
-          ],
           "code": [
             0,
             2,
@@ -11060,6 +11084,14 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Messiaen 7 Selon Brown",
+            "Messiaen Mode 6 Inverse"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11081,16 +11113,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Messiaen Mode 4 Flat"
-          ],
           "code": [
             0,
             1,
@@ -11101,6 +11126,13 @@ var data = {
             8,
             9
           ],
+          "name": [
+            "Messiaen Mode 4 Bémol"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11122,25 +11154,25 @@ var data = {
               20,
               21
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
+          "code": [
+            0,
+            3,
+            4,
+            5,
+            6,
+            9,
+            10,
+            11
+          ],
           "name": [
             "Messiaen Mode 4 Inverse"
           ],
-          "code": [
-            0,
-            3,
-            4,
-            5,
-            6,
-            9,
-            10,
-            11
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11163,25 +11195,25 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
+          "code": [
+            0,
+            1,
+            2,
+            4,
+            6,
+            7,
+            8,
+            10
+          ],
           "name": [
             "Messiaen Mode 6"
           ],
-          "code": [
-            0,
-            1,
-            2,
-            4,
-            6,
-            7,
-            8,
-            10
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11204,57 +11236,40 @@ var data = {
               20,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Minor Gypsy"
-          ],
           "code": [
             0,
+            1,
             2,
             3,
-            6,
+            5,
             7,
             8,
-            10,
             11
+          ],
+          "name": [
+            "Mineure Harmonique Napolitaine"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
               0,
+              13,
               14,
               3,
-              18,
+              17,
               7,
               20,
-              10,
-              11
-            ],
-            [
-              0,
-              14,
-              3,
-              6,
-              7,
-              20,
-              10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Neveseri (Greece)"
-          ],
           "code": [
             0,
             1,
@@ -11265,6 +11280,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Neveseri (Grèce)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11286,16 +11308,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Oriental 2"
-          ],
           "code": [
             0,
             1,
@@ -11306,6 +11321,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Orientale 2"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11327,90 +11349,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Phrygian Aeolian 2b 4b 6b",
-            "Phrygian Aeolian 3b1#"
-          ],
-          "code": [
-            0,
-            1,
-            2,
-            3,
-            5,
-            7,
-            8,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              14,
-              3,
-              17,
-              7,
-              20,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Phrygian Locrian"
-          ],
-          "code": [
-            0,
-            1,
-            3,
-            5,
-            6,
-            7,
-            8,
-            10
-          ],
-          "dualo_code": [
-            [
-              0,
-              13,
-              3,
-              17,
-              6,
-              7,
-              20,
-              10
-            ],
-            [
-              0,
-              13,
-              3,
-              17,
-              18,
-              7,
-              20,
-              10
-            ]
-          ],
-          "source": [
-            "Harmonics.com"
-          ]
-        },
-        {
-          "category": "8 notes",
-          "name": [
-            "Prokofiev",
-            "Prokofiev (All B's)"
-          ],
           "code": [
             0,
             1,
@@ -11421,6 +11362,13 @@ var data = {
             10,
             11
           ],
+          "name": [
+            "Prokofiev"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11442,16 +11390,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Raga Bhatiyar (India)"
-          ],
           "code": [
             0,
             1,
@@ -11462,6 +11403,13 @@ var data = {
             9,
             11
           ],
+          "name": [
+            "Raga Bhatiyar (Inde)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11483,16 +11431,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Raga Cintamani (India)"
-          ],
           "code": [
             0,
             2,
@@ -11503,6 +11444,13 @@ var data = {
             9,
             10
           ],
+          "name": [
+            "Raga Cintamani (Inde)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
+          ],
           "dualo_code": [
             [
               0,
@@ -11524,26 +11472,26 @@ var data = {
               21,
               10
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
+          "code": [
+            0,
+            2,
+            3,
+            5,
+            7,
+            9,
+            10,
+            11
+          ],
           "name": [
             "Raga Mian Ki Malhar",
-            "Bahar (India)"
+            "Bahar (Inde)"
           ],
-          "code": [
-            0,
-            2,
-            3,
-            5,
-            7,
-            9,
-            10,
-            11
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11556,16 +11504,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Raga Ramkali (India)"
-          ],
           "code": [
             0,
             1,
@@ -11575,6 +11516,13 @@ var data = {
             7,
             8,
             11
+          ],
+          "name": [
+            "Raga Ramkali (Inde)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11597,16 +11545,9 @@ var data = {
               20,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Raga Saurashtra (India)"
-          ],
           "code": [
             0,
             1,
@@ -11616,6 +11557,13 @@ var data = {
             8,
             9,
             11
+          ],
+          "name": [
+            "Raga Saurashtra (Inde)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11628,18 +11576,9 @@ var data = {
               21,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Utility Minor",
-            "Raga Suha (India)",
-            "Gregorian 4"
-          ],
           "code": [
             0,
             2,
@@ -11649,6 +11588,15 @@ var data = {
             8,
             10,
             11
+          ],
+          "name": [
+            "Utility Minor",
+            "Raga Suha (Inde)",
+            "Grégorien 4"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11661,16 +11609,9 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "Harmonics.com"
           ]
         },
         {
-          "category": "8 notes",
-          "name": [
-            "Zirafkend (Arabia)"
-          ],
           "code": [
             0,
             2,
@@ -11680,6 +11621,13 @@ var data = {
             8,
             9,
             11
+          ],
+          "name": [
+            "Zirafkend (Arabie)"
+          ],
+          "category": "8 notes",
+          "source": [
+            "Harmonics.com"
           ],
           "dualo_code": [
             [
@@ -11692,9 +11640,47 @@ var data = {
               21,
               11
             ]
+          ]
+        },
+        {
+          "code": [
+            0,
+            1,
+            4,
+            5,
+            6,
+            8,
+            10,
+            11
           ],
+          "name": [
+            "Énigmatique"
+          ],
+          "category": "8 notes",
           "source": [
             "Harmonics.com"
+          ],
+          "dualo_code": [
+            [
+              0,
+              13,
+              4,
+              17,
+              6,
+              20,
+              10,
+              11
+            ],
+            [
+              0,
+              13,
+              4,
+              17,
+              18,
+              20,
+              10,
+              11
+            ]
           ]
         }
       ]
@@ -11703,10 +11689,6 @@ var data = {
       "key": "12 notes",
       "values": [
         {
-          "category": "12 notes",
-          "name": [
-            "Chromatique"
-          ],
           "code": [
             0,
             1,
@@ -11720,6 +11702,13 @@ var data = {
             9,
             10,
             11
+          ],
+          "name": [
+            "Chromatique"
+          ],
+          "category": "12 notes",
+          "source": [
+            "GuitarPro5"
           ],
           "dualo_code": [
             [
@@ -11750,9 +11739,6 @@ var data = {
               10,
               11
             ]
-          ],
-          "source": [
-            "GuitarPro5"
           ]
         }
       ]

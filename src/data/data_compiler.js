@@ -124,11 +124,11 @@ function registerScale(element, index, source){
     });
   if (i === -1) {
     packed_data.push({
-      category: code.length + " notes",
-      name: element.name.split(',').map(formatName).filter(onlyUnique),
       code: code,
-      dualo_code: getCombinations(code),
-      source: [source.name]
+      name: element.name.split(',').map(formatName).filter(onlyUnique),
+      category: code.length + " notes",
+      source: [source.name],
+      dualo_code: getCombinations(code)
     });
   } else {
     packed_data[i].name = packed_data[i].name
