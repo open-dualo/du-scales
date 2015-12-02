@@ -402,6 +402,10 @@ nav li.current li.selected {
         -webkit-transition: min-height .3s ease-in-out;
         transition: min-height .3s ease-in-out;
     }
+    nav li.current ul {
+        overflow-y: scroll;
+        -webkit-overflow-scrolling: touch;
+    }
     .content,
     .svg-container {
         -webkit-flex-shrink: 0;
