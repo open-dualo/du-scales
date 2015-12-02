@@ -52,17 +52,36 @@ var scales = categories
     .text(function(d){return d.name[0]})
     .on("click", toggleScale);
 
+var openCategory = false;
+
 function toggleCategory(d,i) {
   if (!d3.select(this).classed("current"))
   {        
     d3.select(".current").classed("current", false);
     d3.select(this).classed("current", true);
+    openCategory = true;
   }
   else if (d3.mouse(this.childNodes[1])[1] < 0)
   {
     d3.select(this).classed("current", false);
+    openCategory = false;
+  }
+  deviceEscape();
+}
+
+function deviceEscape() {
+  var w = Math.min.apply(null, [window.innerWidth, screen.width]);
+  if (w <= 600) {
+    content.classed("escape", openCategory);
   }
 }
+
+content.on("click", function(){
+  if (content.classed("escape")) {
+    d3.select(".current").classed("current", false)
+    content.classed("escape", false);
+  };
+});
 
 function toggleScale(d,i) {
   if (!d3.select(this).classed("selected")) {
