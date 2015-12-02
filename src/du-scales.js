@@ -73,14 +73,12 @@ function toggleCategory(d,i) {
 }
 
 function deviceEscape() {
-  var w = Math.min.apply(null, [window.innerWidth, screen.width]);
-  if (w <= 800) {
-    content.classed("escape", openCategory);
-  }
+  content.classed("escape", openCategory);
 }
 
 content.on("click", function(){
-  if (content.classed("escape")) {
+  var w = Math.min.apply(null, [window.innerWidth, screen.width]);
+  if (content.classed("escape") && w <= 800) {
     d3.select(".current").classed("current", false)
     content.classed("escape", false);
   };

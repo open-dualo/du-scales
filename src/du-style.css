@@ -311,11 +311,11 @@ nav li.current li.selected {
     .svg-container {
         flex: 1 0 auto;
     }
-}
-.content.escape,
-.content.escape h2 {
-    flex: 0 100 auto;
-    cursor: pointer;
-    user-select: none;
-    overflow: hidden;
+    .content.escape,
+    .content.escape h2 {
+        flex: 0 100 auto;
+        cursor: pointer;
+        user-select: none;
+        overflow: hidden;
+    }
 }

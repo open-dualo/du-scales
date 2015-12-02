@@ -409,17 +409,17 @@ nav li.current li.selected {
             -ms-flex: 1 0 auto;
                 flex: 1 0 auto;
     }
-}
-.content.escape,
-.content.escape h2 {
-    -webkit-box-flex: 0;
-    -webkit-flex: 0 100 auto;
-        -ms-flex: 0 100 auto;
-            flex: 0 100 auto;
-    cursor: pointer;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
-    overflow: hidden;
+    .content.escape,
+    .content.escape h2 {
+        -webkit-box-flex: 0;
+        -webkit-flex: 0 100 auto;
+            -ms-flex: 0 100 auto;
+                flex: 0 100 auto;
+        cursor: pointer;
+        -webkit-user-select: none;
+           -moz-user-select: none;
+            -ms-user-select: none;
+                user-select: none;
+        overflow: hidden;
+    }
 }
