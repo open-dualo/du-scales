@@ -1,13 +1,13 @@
 code	name	en
 0 1 2 3 5 7 9 10	Adonaï Malakh (Israël)	Adonai Malakh (Israel)
-0 2 3 5 7 8 10	Aeolien Mineur Naturel,Asavari Asc Nats. A à G,Grégorien 2,Assari Thaat (Inde),SE (Chine),Kitmun (sumérienne)	Aeolian Natural Minor,Asavari Asc Nats. A to G,Gregorian 2,Assari Thaat (India),Se (China),Kitmun (Sumarian)
+0 2 3 5 7 8 10	Aeolien Mineur Naturel,Asavari Asc Nats. A à G,Grégorien 2,Assari Thaat,SE (Chine),Kitmun (sumérienne)	Aeolian Natural Minor,Asavari Asc Nats. A to G,Gregorian 2,Assari Thaat,Se (China),Kitmun (Sumarian)
 0 2 3 5 6 7 8 11	Algérienne	Algerian
 0 1 5 7 9	Pentatonique altérée	Altered Pentatonic
 0 3 4 7 8 11	Augmentée, Messiaen tronqué mode 3 Inverse,genus tertium,Raga Devamani	Augmented,Messiaen Truncated Mode 3 Inverse,genus tertium,Raga Devamani
 0 2 3 5 6 8 9 11	Auxiliaire diminuée	Auxillary Diminished
 0 1 4 6 7	Balinaise pentatonique	Balinese Pentatonic
 0 1 3 7 8	Balinaise,Pelog 1	Balinese,Pelog 1
-0 1 4 5 7 9 11	Bhairubahar Thaat (Inde)	Bhairubahar Thaat (India)
+0 1 4 5 7 9 11	Bhairubahar Thaat	Bhairubahar Thaat
 0 3 5 6 11	Blues #V	Blues #V
 0 1 3 4 6 7 9 10	Blues diminué	Blues Diminished
 0 2 3 4 7 9	Blues dorien Hexatonique	Blues Dorian Hexatonic
@@ -22,8 +22,8 @@ code	name	en
 0 1 3 5 6 7 10	Blues phrygien	Blues Phrygian
 0 3 5 6 7 10 11	Blues avec sensible	Blues with Leading Tone
 0 3 5 6 11	Blues #V	Blues #V
-0 1 2 5 7 8 9	Dorien Chromatique,Raga Kanakambari (Inde)	Chromatic Dorian,Raga Kanakambari (India)
-0 3 4 5 7 10 11	Dorien Chromatique inverse,Raga None (Inde)	Chromatic Dorian Inverse,Raga None (India)
+0 1 2 5 7 8 9	Dorien Chromatique,Raga Kanakambari	Chromatic Dorian,Raga Kanakambari
+0 3 4 5 7 10 11	Dorien Chromatique inverse,Raga None	Chromatic Dorian Inverse,Raga None
 0 2 3 4 7 8 9	Hypodorien Chromatique	Chromatic Hypodorian
 0 3 4 5 8 9 10	Hypodorien Chromatique inverse	Chromatic Hypodorian Inverse
 0 1 4 5 6 8 11	Hypolydien Chromatique inverse,le persan	Chromatic Hypolydian Inverse,Persian
@@ -42,7 +42,7 @@ code	name	en
 0 2 3 5 7 8 9 10	Aeolien dorien	Dorian Aeolian
 0 2 3 5 6 9 10	dorien b5	Dorian b5
 0 2 3 7 9	dorien pentatonique,Kumoi Japon,Akebono (Japon)	Dorian Pentatonic,Kumoi Japan,Akebono (Japan)
-0 2 3 5 7 9 10	dorien,Kafi D à C asc. Naturals,Eskimo heptatonique (Amérique du Nord),Kafi Thaat (Inde),Embulum (sumérienne)	Dorian,Kafi  D to C asc. naturals,Eskimo Heptatonic (N. America),Kafi Thaat (India),Embulum (Sumerian)
+0 2 3 5 7 9 10	dorien,Kafi D à C asc. Naturals,Eskimo heptatonique (Amérique du Nord),Kafi Thaat,Embulum (sumérienne)	Dorian,Kafi  D to C asc. naturals,Eskimo Heptatonic (N. America),Kafi Thaat,Embulum (Sumerian)
 0 1 3 5 6 9	Double-phrygien hexatonique	Double-Phrygian Hexatonic
 0 2 5 7 10	Égyptienne,pentatonique suspendue	Egyptian,Suspended Pentatonic
 0 1 4 5 6 8 10 11	Énigmatique	Enigmatic
@@ -52,7 +52,7 @@ code	name	en
 0 2 4 6 8 9	Eskimo hexatonique 2	Eskimo Hexatonic 2
 0 2 4 6 8 11	Eskimo hexatonique 2 (Amérique du Nord)	Eskimo Hexatonic 2 (North America)
 0 2 4 6 7 8 11	Exemple de Pelog	Example Of Pelog
-0 2 5 7 9	Zhi (Chine),Raga Devakriya (Inde),Ujo (Corée),Exemple de Slendro	Zhi (China),Raga Devakriya (India),Ujo (Korea),Example of Slendro
+0 2 5 7 9	Zhi (Chine),Raga Devakriya,Ujo (Corée),Exemple de Slendro	Zhi (China),Raga Devakriya,Ujo (Korea),Example of Slendro
 0 4 5 7 9 11	Genus Secundum	Genus Secundum
 0 1 5 6 8 9 10	Raga Kalakanti	Raga Kalakanti
 0 1 4 5 7 8 9	Gypsy hexatonique	Gypsy Hexatonic
@@ -69,15 +69,15 @@ code	name	en
 0 1 3 4 6 8 10	Hindi 5 bémoles,super Locrien 5 bémoles	Hindi 5 flats,Super Locrian 5 flats
 0 2 3 7 8	Hirajoshi (Japon)	Hirajoshi (Japan)
 0 1 3 5 6 10	Honchoshi Plagal Form	Honchoshi Plagal Form
-0 3 4 5 7 9 11	Houzam (Grèce),Raga Saildesakshi,Trishuli (Inde)	Houzam (Greece),Raga Saildesakshi,Trishuli (India)
-0 1 4 5 7 8 11	hongroise folk,byzantine Majeur Gypsy,Bhairav ​​Thaat (Inde),Mela Mayamalavagaula (Inde),Raga Paraj (Inde),Hitzazkiar (Grèce)	Hungarian Folk,Byzantine Major Gypsy,Bhairav Thaat (India),Mela Mayamalavagaula (India),Raga Paraj (India),Hitzazkiar (Greece)
-0 2 3 6 7 8 10	Gypsy hongrois,Mela Sanmukhapriya (Inde)	Hungarian Gypsy,Mela Sanmukhapriya (India)
-0 2 3 6 7 8 10	Gypsy hongrois,Damian Emmanuel,Mela Sanmukhapriya (Inde)	Hungarian Gypsy,Damian Emmanuel,Mela Sanmukhapriya (India)
-0 3 4 6 7 9 10	Hongroise Majeure,Raga Nasamani (Inde)	Hungarian Major,Raga Nasamani (India)
+0 3 4 5 7 9 11	Houzam (Grèce),Raga Saildesakshi,Trishuli	Houzam (Greece),Raga Saildesakshi,Trishuli
+0 1 4 5 7 8 11	hongroise folk,byzantine Majeur Gypsy,Bhairav ​​Thaat,Mela Mayamalavagaula,Raga Paraj,Hitzazkiar (Grèce)	Hungarian Folk,Byzantine Major Gypsy,Bhairav Thaat,Mela Mayamalavagaula,Raga Paraj,Hitzazkiar (Greece)
+0 2 3 6 7 8 10	Gypsy hongrois,Mela Sanmukhapriya	Hungarian Gypsy,Mela Sanmukhapriya
+0 2 3 6 7 8 10	Gypsy hongrois,Damian Emmanuel,Mela Sanmukhapriya	Hungarian Gypsy,Damian Emmanuel,Mela Sanmukhapriya
+0 3 4 6 7 9 10	Hongroise Majeure,Raga Nasamani	Hungarian Major,Raga Nasamani
 0 2 3 6 7 8 11	Hongroise Mineure,Nawa Athar Maqam (Arabie),double Mineure Harmonique,Niavent (Grèce)	Hungarian Minor,Maqam Nawa Athar (Arabia),Double Harmonic Minor,Niavent (Greece)
 0 1 2 3 6 7 8 11	hongroise mineure b2	Hungarian Minor b2
 0 1 3 4 7 8 10	Indienne,Phrygien quarte diminuée	Indian,Phrygian dim 4th
-0 4 5 7 11	Ionien pentatonique,Raga Gambhiranata (Inde)	Ionian Pentatonic,Raga Gambhiranata (India)
+0 4 5 7 11	Ionien pentatonique,Raga Gambhiranata	Ionian Pentatonic,Raga Gambhiranata
 0 2 4 5 7 9 11	Majeure,Ionien,Bilaval C à B asc. nats.,Thaat,Nid Murub (sumérienne)	Major,Ionian,Bilaval  C to B asc.  nats.,Thaat,Nid Murub (Sumerian)
 0 1 5 6 10	Iwato (Japon)	Iwato (Japan)
 0 1 3 6 7	Pentacorde japonais	Japanese Pentachord
@@ -98,66 +98,66 @@ code	name	en
 0 2 4 6 8 9 11	lydien Augmenté,Hindi #IV & #V	Lydian Augmented,Hindi #IV & #V
 0 2 3 4 6 7 9 11	lydien b3	Lydian b3
 0 3 4 7 9 11	lydien b3 hexatonique	Lydian b3 Hexatonic
-0 2 4 6 7 9 10	lydien b7,Harmonique,Hindi #IV & bVII,Mela Vacaspati (Inde),Raga Bhusavati (Inde),lydien Mixolydien,Bartok	Lydian b7,Overtone,Hindi #IV & bVII,Mela Vacaspati (India),Raga Bhusavati (India),Lydian Mixolydian,Bartok
+0 2 4 6 7 9 10	lydien b7,Harmonique,Hindi #IV & bVII,Mela Vacaspati,Raga Bhusavati,lydien Mixolydien,Bartok	Lydian b7,Overtone,Hindi #IV & bVII,Mela Vacaspati,Raga Bhusavati,Lydian Mixolydian,Bartok
 0 2 3 4 6 7 9 10	lydien Dim b7	Lydian Dim b7
-0 2 3 6 7 9 11	lydien diminué,Raga Dumyaraga,Madhuvanti,Ambika (Inde)	Lydian Diminished,Raga Dumyaraga,Madhuvanti,Ambika (India)
-0 2 4 6 7 9 10 11	lydien Dominant + septième naturel,lydien à la fois naturel et 7e dominante	Lydian Dominant + natural seventh,Lydian with both natural and dominant 7th
+0 2 3 6 7 9 11	lydien diminué,Raga Dumyaraga,Madhuvanti,Ambika	Lydian Diminished,Raga Dumyaraga,Madhuvanti,Ambika
+0 2 4 6 7 9 10 11	lydien Dominant + septième naturelle,lydien à la fois naturel et 7e dominante	Lydian Dominant + natural seventh,Lydian with both natural and dominant 7th
 0 2 4 7 9 11	lydien hexatonique	Lydian Hexatonic
-0 2 4 6 7 8 10	lydien mineur,Stravinski,Raga Ratipriya (Inde)	Lydian Minor,Stravinski,Raga Ratipriya (India)
+0 2 4 6 7 8 10	lydien mineur,Stravinski,Raga Ratipriya	Lydian Minor,Stravinski,Raga Ratipriya
 0 2 4 6 7	Pentacorde lydien	Lydian Pentachord
 0 2 4 6 7 9 11	lydien,Kalyan F à E ascendant naturel,Ping (Chine),Nis Garb.ri (mésopotamienne)	Lydian,Kalyan F to E ascending naturals,Ping (China),Nis Garb.ri (Mesopotamian)
 0 1 3 4 6 8 9 11	Magen Abot	Magen Abot
 0 2 4 5 7 8 9 11	Majeur Bebop	Major Bebop
-0 2 4 5 7 8 9	Majeur Bebop heptatonique,Mela Mararanjani (Inde)	Major Bebop Heptatonic,Mela Mararanjani (India)
+0 2 4 5 7 8 9	Majeur Bebop heptatonique,Mela Mararanjani	Major Bebop Heptatonic,Mela Mararanjani
 0 2 4 7 8 9	Majeur Bebop hexatonique	Major Bebop Hexatonic
 0 2 3 4 7 9	Blues Majeur,Blues dorien hexatonique	Major Blues,Blues Dorian Hexatonic
 0 2 4 5 6 8 10	Locrien Majeur	Major Locrian
 0 2 4 5 6 7 9 11	Lydien Majeur,Genus Diatonicum Veterum Correctum,Ishikotsucho (Japon)	Major Lydian,Genus Diatonicum Veterum Correctum,Ishikotsucho (Japan)
-0 2 4 5 7 8 10	Majeur Mineur,hindoue BVI & bVII,Mela Carukesi (Inde),Raga Tarangini (Inde)	Major Minor,Hindu bVI & bVII,Mela Carukesi (India),Raga Tarangini (India)
+0 2 4 5 7 8 10	Majeur Mineur,hindoue BVI & bVII,Mela Carukesi,Raga Tarangini	Major Minor,Hindu bVI & bVII,Mela Carukesi,Raga Tarangini
 0 2 4 5 7	Pentacorde majeur	Major Pentachord
-0 2 4 7 9	Majeur pentatonique,Gong (Chine),Raga Bhopali,Mohanam,Deskar,Bilahari (Inde)	Major Pentatonic,Gong (China),Raga Bhopali,Mohanam,Deskar,Bilahari (India)
+0 2 4 7 9	Majeur pentatonique,Gong (Chine),Raga Bhopali,Mohanam,Deskar,Bilahari	Major Pentatonic,Gong (China),Raga Bhopali,Mohanam,Deskar,Bilahari
 0 1 4 5 7 8 10 11	Maqam Hijaz	Maqam Hijaz
 0 1 3 4 5 6 9 10	Maqam Shadd'araban	Maqam Shadd'araban
 0 1 3 4 5 6 9 10	Maqam Shadd'araban (6b de)	Maqam Shadd'araban (6b's)
-0 1 4 6 7 9 11	Marva ou Marvi,Marva Thaat (Inde)	Marva or Marvi,Marva Thaat (India)
-0 1 4 6 7 9 11	Marva Thaat (Inde),Marva Thaat (Inde)	Marva Thaat (India),Marva Thaat (India)
-0 1 2 6 7 9 10	Mela Navanitam (Inde)	Mela  Navanitam (India)
-0 1 3 6 7 8 10	Mela Bhavapriya (Inde)	Mela Bhavapriya (India)
-0 2 4 6 7 10 11	Mela Citrambari (Inde)	Mela Citrambari (India)
-0 3 4 6 7 8 11	Mela Dhatuvardhani (Inde)	Mela Dhatuvardhani (India)
-0 1 4 6 7 8 9	Mela Dhavalambari (Inde)	Mela Dhavalambari (India)
-0 1 3 6 7 10 11	Mela Divamani (Inde)	Mela Divamani (India)
-0 1 2 5 7 8 11	Mela Ganamurti (Inde)	Mela Ganamurti (India)
-0 3 4 5 7 8 11	Mela Gangeyabhusani (Inde)	Mela Gangeyabhusani (India)
-0 1 3 6 7 8 9	Mela Gavambohdi (Inde)	Mela Gavambohdi (India)
-0 1 4 5 7 10 11	Mela Hatakambari (Inde)	Mela Hatakambari (India)
-0 1 2 6 7 8 10	Mela Jalarnava (Inde)	Mela Jalarnava (India)
-0 1 2 6 7 8 11	Mela Jhalavarali (Inde)	Mela Jhalavarali (India)
-0 2 3 5 7 8 9	Mela Jhankaradhvani (Inde)	Mela Jhankaradhvani (India)
-0 3 4 6 7 8 10	Mela Jhotisvarupini (Inde)	Mela Jhotisvarupini (India)
-0 2 4 6 7 8 9	Mela Kantamani (Inde)	Mela Kantamani (India)
-0 2 4 6 7 8 11	Mela Latangi (Inde)	Mela Latangi (India)
-0 2 4 6 7 8 11	Mela Latangi (Inde) (B6)	Mela Latangi (India) (b6)
-0 1 2 5 7 9 11	Mela Manavati (Inde)	Mela Manavati (India)
-0 2 4 5 7 10 11	Mela Nagananadini (Inde)	Mela Nagananadini (India)
-0 1 4 6 7 8 10	Mela Namanararayani (Inde)	Mela Namanararayani (India)
-0 2 3 6 7 9 11	Mela Nitimati (Inde)	Mela Nitimati (India)
-0 1 2 6 7 9 11	Mela Pavani (Inde)	Mela Pavani (India)
-0 3 4 5 7 8 10	Mela Ragavardhani (Inde)	Mela Ragavardhani (India)
-0 1 2 6 7 10 11	Mela Raghupriya (Inde)	Mela Raghupriya (India)
-0 3 4 6 7 10 11	Mela Rasikapriya (Inde)	Mela Rasikapriya (India)
-0 1 2 5 7 8 10	Mela Ratnangi (Inde)	Mela Ratnangi (India)
-0 1 3 5 7 10 11	Mela Rupavati (Inde)	Mela Rupavati (India)
-0 1 2 6 7 8 9	Mela Salaga (Inde)	Mela Salaga (India)
-0 1 3 5 7 8 9	Mela Senavati (Inde)	Mela Senavati (India)
-0 3 4 6 7 8 9	Mela Sucaritra (Inde)	Mela Sucaritra (India)
-0 2 3 6 7 8 9	Mela Syamalangi (Inde)	Mela Syamalangi (India)
-0 1 2 5 6 7 10 11	Mela Tanarupi (Inde)	Mela Tanarupi (India)
-0 1 2 5 7 10 11	Mela Tanarupi (Inde)	Mela Tanarupi (India)
-0 1 2 5 7 9 10	Mela Vanaspati (Inde)	Mela Vanaspati (India)
-0 2 3 5 7 10 11	Mela Varunapriya (Inde)	Mela Varunapriya (India)
-0 1 4 6 7 10 11	Mela Visvambhari (Inde)	Mela Visvambhari (India)
-0 3 4 5 7 8 9	Mela Yagapriya (Inde)	Mela Yagapriya  (India)
+0 1 4 6 7 9 11	Marva ou Marvi,Marva Thaat	Marva or Marvi,Marva Thaat
+0 1 4 6 7 9 11	Marva Thaat,Marva Thaat	Marva Thaat,Marva Thaat
+0 1 2 6 7 9 10	Mela Navanitam	Mela  Navanitam
+0 1 3 6 7 8 10	Mela Bhavapriya	Mela Bhavapriya
+0 2 4 6 7 10 11	Mela Citrambari	Mela Citrambari
+0 3 4 6 7 8 11	Mela Dhatuvardhani	Mela Dhatuvardhani
+0 1 4 6 7 8 9	Mela Dhavalambari	Mela Dhavalambari
+0 1 3 6 7 10 11	Mela Divamani	Mela Divamani
+0 1 2 5 7 8 11	Mela Ganamurti	Mela Ganamurti
+0 3 4 5 7 8 11	Mela Gangeyabhusani	Mela Gangeyabhusani
+0 1 3 6 7 8 9	Mela Gavambohdi	Mela Gavambohdi
+0 1 4 5 7 10 11	Mela Hatakambari	Mela Hatakambari
+0 1 2 6 7 8 10	Mela Jalarnava	Mela Jalarnava
+0 1 2 6 7 8 11	Mela Jhalavarali	Mela Jhalavarali
+0 2 3 5 7 8 9	Mela Jhankaradhvani	Mela Jhankaradhvani
+0 3 4 6 7 8 10	Mela Jhotisvarupini	Mela Jhotisvarupini
+0 2 4 6 7 8 9	Mela Kantamani	Mela Kantamani
+0 2 4 6 7 8 11	Mela Latangi	Mela Latangi
+0 2 4 6 7 8 11	Mela Latangi (B6)	Mela Latangi (b6)
+0 1 2 5 7 9 11	Mela Manavati	Mela Manavati
+0 2 4 5 7 10 11	Mela Nagananadini	Mela Nagananadini
+0 1 4 6 7 8 10	Mela Namanararayani	Mela Namanararayani
+0 2 3 6 7 9 11	Mela Nitimati	Mela Nitimati
+0 1 2 6 7 9 11	Mela Pavani	Mela Pavani
+0 3 4 5 7 8 10	Mela Ragavardhani	Mela Ragavardhani
+0 1 2 6 7 10 11	Mela Raghupriya	Mela Raghupriya
+0 3 4 6 7 10 11	Mela Rasikapriya	Mela Rasikapriya
+0 1 2 5 7 8 10	Mela Ratnangi	Mela Ratnangi
+0 1 3 5 7 10 11	Mela Rupavati	Mela Rupavati
+0 1 2 6 7 8 9	Mela Salaga	Mela Salaga
+0 1 3 5 7 8 9	Mela Senavati	Mela Senavati
+0 3 4 6 7 8 9	Mela Sucaritra	Mela Sucaritra
+0 2 3 6 7 8 9	Mela Syamalangi	Mela Syamalangi
+0 1 2 5 6 7 10 11	Mela Tanarupi	Mela Tanarupi
+0 1 2 5 7 10 11	Mela Tanarupi	Mela Tanarupi
+0 1 2 5 7 9 10	Mela Vanaspati	Mela Vanaspati
+0 2 3 5 7 10 11	Mela Varunapriya	Mela Varunapriya
+0 1 4 6 7 10 11	Mela Visvambhari	Mela Visvambhari
+0 3 4 5 7 8 9	Mela Yagapriya	Mela Yagapriya 
 0 2 3 5 6 8 10 11	Messiaen 2 selon Brown	Messiaen 2 according to Brown
 0 2 3 5 6 8 9 11	Messiaen 2e mode	Messiaen 2nd mode From Groves start B
 0 1 3 5 6 7 9 11	Messiaen 3 selon Brown	Messiaen 3 according to Brown
@@ -190,15 +190,15 @@ code	name	en
 0 2 3 5 7	Pentacorde mineur,Chad Gadyo (Israël)	Minor Pentachord,Chad Gadyo (Israel)
 0 2 4 5 8 9 10	Mixolydien Augmentée	Mixolydian Augmented
 0 2 4 5 6 9 10	Mixolydien b5	Mixolydian b5
-0 2 5 7 9 10	Mixolydien hexatonique,Yosen (Japon),Raga Darbar,Narayani,Suposhini (Inde)	Mixolydian Hexatonic,Yosen (Japan),Raga Darbar,Narayani,Suposhini (India)
+0 2 5 7 9 10	Mixolydien hexatonique,Yosen (Japon),Raga Darbar,Narayani,Suposhini	Mixolydian Hexatonic,Yosen (Japan),Raga Darbar,Narayani,Suposhini
 0 4 5 7 10	Mixolydien pentatonique	Mixolydian Pentatonic
 0 2 4 5 7 9 10	Mixolydien,Khamaj G à F Ascend. nats,Ching (Chine),Mitum (sumérien),Grégorien 7	Mixolydian,Khamaj G to F ascend. nats,Ching (China),Mitum (Sumerian),Gregorian 7
-0 1 3 5 7 9 11	Napolitaine Majeure,Mela Kokilapriya (Inde),Raga Kokilaravam (Inde)	Neapolitan Major,Mela Kokilapriya (India),Raga Kokilaravam (India)
-0 1 3 5 7 8 11	Napolitaine mineure,Raga Dhunibinnashadjam (Inde),Maqam Shahnaz Kurdi (Arabie)	Neapolitan Minor,Raga Dhunibinnashadjam (India),Maqam Shahnaz Kurdi (Arabia)
+0 1 3 5 7 9 11	Napolitaine Majeure,Mela Kokilapriya,Raga Kokilaravam	Neapolitan Major,Mela Kokilapriya,Raga Kokilaravam
+0 1 3 5 7 8 11	Napolitaine mineure,Raga Dhunibinnashadjam,Maqam Shahnaz Kurdi (Arabie)	Neapolitan Minor,Raga Dhunibinnashadjam,Maqam Shahnaz Kurdi (Arabia)
 0 1 2 4 6 8 9	Napolitaine Mode Mineur	Neapolitan Minor Mode
 0 1 3 6 7 8 10 11	Neveseri (Grèce)	Neveseri (Greece)
 0 2 5 6 8 9 11	Nohkan (Japon)	Nohkan (Japan)
-0 1 4 5 6 9 10	Orientale 1,Tsinganikos (Grèce),Raga Ahira Lalita (Inde)	Oriental 1,Tsinganikos (Greece),Raga Ahira Lalita (India)
+0 1 4 5 6 9 10	Orientale 1,Tsinganikos (Grèce),Raga Ahira Lalita	Oriental 1,Tsinganikos (Greece),Raga Ahira Lalita
 0 1 4 5 6 9 10 11	Orientale 2	Oriental 2
 0 1 2 3 5 7 8 10	Aeolien Phrygien 2b 4b 6b	Phrygian Aeolian 2b 4b 6b
 0 1 2 3 5 7 8 10	Aeolien phrygien 3b1 de #	Phrygian Aeolian 3b1#
@@ -213,142 +213,142 @@ code	name	en
 0 1 4 6 9 10	Prometheus napolitaine	Prometheus Neapolitan
 0 2 3 5 6 9	Pyramide hexatonique	Pyramid Hexatonic
 0 2 3 5 9	Raga Abhogi	Raga Abhogi
-0 2 3 6 7 11	Raga Amarasenapriya (Inde)	Raga Amarasenapriya (India)
-0 2 3 5 8	Raga Audva Tukhari (Inde)	Raga Audva Tukhari (India)
-0 2 3 5 9 10	Raga Bagesri,Sriranjani,Kapijingla (Inde)	Raga Bagesri,Sriranjani,Kapijingla (India)
-0 1 4 7 8 11	Raga Bauli (Inde)	Raga Bauli (India)
-0 3 4 5 7 10	Raga Bhanumanjari (Inde)	Raga Bhanumanjari (India)
-0 1 4 5 6 7 9 11	Raga Bhatiyar (Inde)	Raga Bhatiyar (India)
-0 1 3 6 8 10	Raga Bhavani (Inde)	Raga Bhavani (India)
-0 2 5 7 8 11	Raga bhinna Pancama (Inde)	Raga Bhinna Pancama (India)
-0 4 5 9 11	Raga bhinna Shadja,Hindolita (Inde)	Raga Bhinna Shadja,Hindolita (India)
-0 2 4 7 8	Raga Bhupeshwari,Janasammodini (Inde)	Raga Bhupeshwari,Janasammodini (India)
-0 2 4 6 7 11	Raga Caturangini (Inde)	Raga Caturangini (India)
-0 1 2 6 7 9	Raga Chandrajyoti (Inde)	Raga Chandrajyoti (India)
-0 3 5 9 10	Raga Chandrakauns Kafi,Surya (Inde)	Raga Chandrakauns Kafi,Surya (India)
-0 3 5 8 11	Raga Chandrakauns Kiravani (Inde)	Raga Chandrakauns Kiravani (India)
-0 3 5 9 11	Raga Chandrakauns moderne (Inde),Marga Hindola	Raga Chandrakauns Modern (India),Marga Hindola
-0 1 3 6 8	Raga Chhaya Todi (Inde)	Raga Chhaya Todi (India)
-0 1 3 5 8	Raga Chitthakarshini (Inde)	Raga Chitthakarshini (India)
-0 2 3 6 7 8 9 10	Raga Cintamani (Inde)	Raga Cintamani (India)
+0 2 3 6 7 11	Raga Amarasenapriya	Raga Amarasenapriya
+0 2 3 5 8	Raga Audva Tukhari	Raga Audva Tukhari
+0 2 3 5 9 10	Raga Bagesri,Sriranjani,Kapijingla	Raga Bagesri,Sriranjani,Kapijingla
+0 1 4 7 8 11	Raga Bauli	Raga Bauli
+0 3 4 5 7 10	Raga Bhanumanjari	Raga Bhanumanjari
+0 1 4 5 6 7 9 11	Raga Bhatiyar	Raga Bhatiyar
+0 1 3 6 8 10	Raga Bhavani	Raga Bhavani
+0 2 5 7 8 11	Raga bhinna Pancama	Raga Bhinna Pancama
+0 4 5 9 11	Raga bhinna Shadja,Hindolita	Raga Bhinna Shadja,Hindolita
+0 2 4 7 8	Raga Bhupeshwari,Janasammodini	Raga Bhupeshwari,Janasammodini
+0 2 4 6 7 11	Raga Caturangini	Raga Caturangini
+0 1 2 6 7 9	Raga Chandrajyoti	Raga Chandrajyoti
+0 3 5 9 10	Raga Chandrakauns Kafi,Surya	Raga Chandrakauns Kafi,Surya
+0 3 5 8 11	Raga Chandrakauns Kiravani	Raga Chandrakauns Kiravani
+0 3 5 9 11	Raga Chandrakauns moderne,Marga Hindola	Raga Chandrakauns Modern,Marga Hindola
+0 1 3 6 8	Raga Chhaya Todi	Raga Chhaya Todi
+0 1 3 5 8	Raga Chitthakarshini	Raga Chitthakarshini
+0 2 3 6 7 8 9 10	Raga Cintamani	Raga Cintamani
 0 2 5 7 11	Raga Desh	Raga Desh
-0 1 7 8 11	Raga Deshgaur (Inde)	Raga Deshgaur (India)
-0 5 7 8 11	Raga Devaranjani (Inde)	Raga Devaranjani (India)
-0 1 4 6 7 8	Raga Dhavalangam (Inde)	Raga Dhavalangam (India)
-0 4 6 7 9	Raga Dhavalashri (Inde)	Raga Dhavalashri (India)
-0 2 4 5 6 7	Raga Dipak (Inde)	Raga Dipak (India)
+0 1 7 8 11	Raga Deshgaur	Raga Deshgaur
+0 5 7 8 11	Raga Devaranjani	Raga Devaranjani
+0 1 4 6 7 8	Raga Dhavalangam	Raga Dhavalangam
+0 4 6 7 9	Raga Dhavalashri	Raga Dhavalashri
+0 2 4 5 6 7	Raga Dipak	Raga Dipak
 0 1 3 5 7 10	Raga Gandharavam	Raga Gandharavam
-0 1 4 5 7 11	Raga Gaula (Inde)	Raga Gaula (India)
-0 1 5 7 11	Raga Gauri (Inde)	Raga Gauri (India)
-0 2 3 5 8 11	Raga Ghantana (Inde)	Raga Ghantana (India)
-0 1 3 6 8 11	Raga Gujari Todi (Inde)	Raga Gujari Todi (India)
-0 2 4 5 9 11	Raga Hamsa Vinodini (Inde)	Raga Hamsa Vinodini (India)
-0 2 4 7 11	Raga Hamsadhvani (Inde)	Raga Hamsadhvani (India)
-0 1 4 6 9 11	Raga Hamsanandi,Puriya (Inde)	Raga Hamsanandi,Puriya (India)
-0 3 6 8 10	Raga Harikauns (Inde) (bémoles)	Raga Harikauns (India) (Flats)
-0 3 6 8 10	Raga Harikauns (Inde) (dièses)	Raga Harikauns (India) (Sharps)
-0 1 4 6 8 9	Raga Hejjajji (Inde)	Raga Hejjajji (India)
-0 4 6 9 11	Raga Hindol (Inde)	Raga Hindol (India)
-0 1 4 6 7 10	Raga Indupriya (Inde),Petrouchka Chord	Raga Indupriya (India),Petrushka Chord
-0 2 6 7 8 10	Raga Jaganmohanam (Inde)	Raga Jaganmohanam (India)
-0 3 5 6 10	Raga Jayakauns (Inde)	Raga Jayakauns (india)
-0 1 5 7 9 11	Raga Jivantika (Inde)	Raga Jivantika (India)
-0 3 6 7 10 11	Raga Jivantini,Gaurikriya (Inde)	Raga Jivantini,Gaurikriya (India)
-0 4 6 7 8 10	Raga Jyoti (Inde)	Raga Jyoti (India)
-0 1 4 7 8 10	Raga Kalagada (Inde)	Raga Kalagada (India)
-0 1 5 7 8 9	Raga Kalakanthi (Inde)	Raga Kalakanthi (India)
-0 1 4 5 7 9	Raga Kalavati,Ragamalini (Inde)	Raga Kalavati,Ragamalini (India)
-0 4 5 7 8 10	Raga Kamalamanohari (Inde)	Raga Kamalamanohari (India)
-0 1 3 7 8 10	Raga Kashyapi (Inde)	Raga Kashyapi (India)
-0 1 3 7 8 10	Raga Kashyapi (Inde)	Raga Kashyapi (India)
-0 4 5 9 10	Raga Khamaji Durga (Inde)	Raga Khamaji Durga (India)
-0 4 5 7 9 10	Raga Khamas,Baduhari (Inde)	Raga Khamas,Baduhari (India)
-0 3 5 7 8	Raga Kokil Pancham (Inde)	Raga Kokil Pancham (India)
-0 2 4 6 11	Raga Kumurdaki (Inde)	Raga Kumurdaki (India)
+0 1 4 5 7 11	Raga Gaula	Raga Gaula
+0 1 5 7 11	Raga Gauri	Raga Gauri
+0 2 3 5 8 11	Raga Ghantana	Raga Ghantana
+0 1 3 6 8 11	Raga Gujari Todi	Raga Gujari Todi
+0 2 4 5 9 11	Raga Hamsa Vinodini	Raga Hamsa Vinodini
+0 2 4 7 11	Raga Hamsadhvani	Raga Hamsadhvani
+0 1 4 6 9 11	Raga Hamsanandi,Puriya	Raga Hamsanandi,Puriya
+0 3 6 8 10	Raga Harikauns (bémoles)	Raga Harikauns (Flats)
+0 3 6 8 10	Raga Harikauns (dièses)	Raga Harikauns (Sharps)
+0 1 4 6 8 9	Raga Hejjajji	Raga Hejjajji
+0 4 6 9 11	Raga Hindol	Raga Hindol
+0 1 4 6 7 10	Raga Indupriya,Petrouchka Chord	Raga Indupriya,Petrushka Chord
+0 2 6 7 8 10	Raga Jaganmohanam	Raga Jaganmohanam
+0 3 5 6 10	Raga Jayakauns	Raga Jayakauns
+0 1 5 7 9 11	Raga Jivantika	Raga Jivantika
+0 3 6 7 10 11	Raga Jivantini,Gaurikriya	Raga Jivantini,Gaurikriya
+0 4 6 7 8 10	Raga Jyoti	Raga Jyoti
+0 1 4 7 8 10	Raga Kalagada	Raga Kalagada
+0 1 5 7 8 9	Raga Kalakanthi	Raga Kalakanthi
+0 1 4 5 7 9	Raga Kalavati,Ragamalini	Raga Kalavati,Ragamalini
+0 4 5 7 8 10	Raga Kamalamanohari	Raga Kamalamanohari
+0 1 3 7 8 10	Raga Kashyapi	Raga Kashyapi
+0 1 3 7 8 10	Raga Kashyapi	Raga Kashyapi
+0 4 5 9 10	Raga Khamaji Durga	Raga Khamaji Durga
+0 4 5 7 9 10	Raga Khamas,Baduhari	Raga Khamas,Baduhari
+0 3 5 7 8	Raga Kokil Pancham	Raga Kokil Pancham
+0 2 4 6 11	Raga Kumurdaki	Raga Kumurdaki
 0 2 4 7 8 11	Raga Latika	Raga Latika
-0 3 6 7 9 10	Raga Madhakauns (Inde)	Raga Madhakauns (India)
+0 3 6 7 9 10	Raga Madhakauns	Raga Madhakauns
 0 4 5 7 9 10 11	Raga Madhuri	Raga Madhuri
-0 1 4 5 7 8	Raga Malahari (Inde)	Raga Malahari (India)
-0 2 6 7 10 11	Raga Malarani (Inde)	Raga Malarani (India)
-0 4 6 7 11	Raga Malashri (Inde),chinois	Raga Malashri (India),Chinese
-0 1 4 7 9 10	Raga Malayamarutam (Inde)	Raga Malayamarutam (India)
+0 1 4 5 7 8	Raga Malahari	Raga Malahari
+0 2 6 7 10 11	Raga Malarani	Raga Malarani
+0 4 6 7 11	Raga Malashri,chinois	Raga Malashri,Chinese
+0 1 4 7 9 10	Raga Malayamarutam	Raga Malayamarutam
 0 3 5 8 10	Raga Malkauns,1 # Blues pentatonique mineur de 2b,Hard Japon déscendant	Raga Malkauns,2b's 1# Blues Pentatonic Minor,Hard Japan descending
-0 3 5 8 10	Raga Malkauns,Blues pentatonique mineur,dur Japon descendent	Raga Malkauns,Blues Pentatonic Minor,Hard Japan descending
-0 3 5 8 10	Raga Malkauns,Blues pentatonique mineur,Hard Japon déscendant 3 # 's	Raga Malkauns,Blues Pentatonic Minor,Hard Japan descending 3#'s
-0 4 7 9 11	Raga Mamata (Inde) Majeur 6e	Raga Mamata (India) Major 6th
-0 1 4 7 10	Raga Manaranjani (Inde)	Raga Manaranjani (India)
-0 2 3 7 9 10	Raga Manavi (Inde)	Raga Manavi (India)
-0 4 5 7 9	Raga Mand (Inde)	Raga Mand (India)
-0 1 4 6 7 11	Raga Mandari,Gamakakriya (Inde)	Raga Mandari,Gamakakriya (India)
-0 3 5 7 9 10	Raga Manohari (Inde)	Raga Manohari (India)
-0 2 7 9 10	Raga Matha Kokila (Inde)	Raga Matha Kokila (India)
-0 2 5 7 10 11	Raga Megh (Inde)	Raga Megh (India)
-0 1 4 5 8	Raga Megharanjani (Inde)	Raga Megharanjani (India)
-0 1 4 5 11	Raga Megharanji (Inde)	Raga Megharanji (India)
-0 2 3 5 7 9 10 11	Raga Mian Ki Malhar,Bahar (Inde)	Raga Mian Ki Malhar,Bahar (India)
-0 2 4 6 9 11	Raga Mrunganandana (Inde)	Raga Mrunganandana (India)
-0 1 6 7 11	Raga Multani (Inde)	Raga Multani (India)
-0 1 2 6 7	Raga Nabhomani (Inde)	Raga Nabhomani (India)
-0 2 5 7 9 11	Raga Nagagandhari (Inde)	Raga Nagagandhari (India)
-0 2 4 5 7 11	Raga Nalinakanti,Kedaram (Inde)	Raga Nalinakanti,Kedaram (India)
-0 3 4 5 7 9 10	Raga Nandkauns (Inde)	Raga Nandkauns (India)
-0 3 5 7 11	Raga Nata,Madhuranjani (Inde)	Raga Nata,Madhuranjani (India)
-0 2 5 7 8 10	Raga Navamanohari (Inde)	Raga Navamanohari (India)
-0 2 3 6 8 9	Raga Neelangi (Inde)	Raga Neelangi (India)
-0 2 6 7 9 11	Raga Nishadi (Inde)	Raga Nishadi (India)
-0 1 5 7 8 11	Raga Padi (Inde)	Raga Padi (India)
-0 4 5 7 8 11	Raga Paraju Simhavahini l'Inde	Raga Paraju  Simhavahini India
-0 1 5 7 8 10	Raga Phenadyuti (Inde)	Raga Phenadyuti (India)
-0 2 5 8 11	Raga Priyadharshini (Inde)	Raga Priyadharshini (India)
-0 5 7 9 11	Raga Puruhutika,Purvaholika (Inde)	Raga Puruhutika,Purvaholika (India)
-0 2 4 5 9 10	Raga Rageshri,Nattaikurinji (Inde)	Raga Rageshri,Nattaikurinji (India)
-0 2 4 5 9 10 11	Raga Ragesri (Inde)	Raga Ragesri (India)
-0 1 4 5 6 7 8 11	Raga Ramkali (Inde)	Raga Ramkali (India)
-0 2 3 6 9 11	Raga Ranjani,Rangini (Inde)	Raga Ranjani,Rangini (India)
-0 3 4 6 7 11	Raga Rasamanjari (Inde)	Raga Rasamanjari (India)
-0 1 5 7 9 10	Raga Rasavali (Inde)	Raga Rasavali (India)
-0 2 5 9 11	Raga Rasranjani (Inde)	Raga Rasranjani (India)
-0 1 4 7 8	Raga Reva,Revagupti (Inde)	Raga Reva,Revagupti (India)
-0 1 4 5 9 10	Raga Rudra Pancama (Inde)	Raga Rudra Pancama (India)
+0 3 5 8 10	Raga Malkauns,Blues pentatonique mineur,Hard Japan descendent	Raga Malkauns,Blues Pentatonic Minor,Hard Japan descending
+0 3 5 8 10	Raga Malkauns,Blues pentatonique mineur,Hard Japan déscendant 3 # 's	Raga Malkauns,Blues Pentatonic Minor,Hard Japan descending 3#'s
+0 4 7 9 11	Raga Mamata Majeur 6e	Raga Mamata Major 6th
+0 1 4 7 10	Raga Manaranjani	Raga Manaranjani
+0 2 3 7 9 10	Raga Manavi	Raga Manavi
+0 4 5 7 9	Raga Mand	Raga Mand
+0 1 4 6 7 11	Raga Mandari,Gamakakriya	Raga Mandari,Gamakakriya
+0 3 5 7 9 10	Raga Manohari	Raga Manohari
+0 2 7 9 10	Raga Matha Kokila	Raga Matha Kokila
+0 2 5 7 10 11	Raga Megh	Raga Megh
+0 1 4 5 8	Raga Megharanjani	Raga Megharanjani
+0 1 4 5 11	Raga Megharanji	Raga Megharanji
+0 2 3 5 7 9 10 11	Raga Mian Ki Malhar,Bahar	Raga Mian Ki Malhar,Bahar
+0 2 4 6 9 11	Raga Mrunganandana	Raga Mrunganandana
+0 1 6 7 11	Raga Multani	Raga Multani
+0 1 2 6 7	Raga Nabhomani	Raga Nabhomani
+0 2 5 7 9 11	Raga Nagagandhari	Raga Nagagandhari
+0 2 4 5 7 11	Raga Nalinakanti,Kedaram	Raga Nalinakanti,Kedaram
+0 3 4 5 7 9 10	Raga Nandkauns	Raga Nandkauns
+0 3 5 7 11	Raga Nata,Madhuranjani	Raga Nata,Madhuranjani
+0 2 5 7 8 10	Raga Navamanohari	Raga Navamanohari
+0 2 3 6 8 9	Raga Neelangi	Raga Neelangi
+0 2 6 7 9 11	Raga Nishadi	Raga Nishadi
+0 1 5 7 8 11	Raga Padi	Raga Padi
+0 4 5 7 8 11	Raga Paraju Simhavahini	Raga Paraju  Simhavahini
+0 1 5 7 8 10	Raga Phenadyuti	Raga Phenadyuti
+0 2 5 8 11	Raga Priyadharshini	Raga Priyadharshini
+0 5 7 9 11	Raga Puruhutika,Purvaholika	Raga Puruhutika,Purvaholika
+0 2 4 5 9 10	Raga Rageshri,Nattaikurinji	Raga Rageshri,Nattaikurinji
+0 2 4 5 9 10 11	Raga Ragesri	Raga Ragesri
+0 1 4 5 6 7 8 11	Raga Ramkali	Raga Ramkali
+0 2 3 6 9 11	Raga Ranjani,Rangini	Raga Ranjani,Rangini
+0 3 4 6 7 11	Raga Rasamanjari	Raga Rasamanjari
+0 1 5 7 9 10	Raga Rasavali	Raga Rasavali
+0 2 5 9 11	Raga Rasranjani	Raga Rasranjani
+0 1 4 7 8	Raga Reva,Revagupti	Raga Reva,Revagupti
+0 1 4 5 9 10	Raga Rudra Pancama	Raga Rudra Pancama
 0 1 3 7 10	Raga Rukmangi,Pelog 2	Raga Rukmangi,Pelog 2
-0 1 3 7 9 10	Raga Salagavarali (Inde)	Raga Salagavarali (India)
-0 3 6 7 10	Raga Samudhra Priya (Inde)	Raga Samudhra Priya (India)
-0 3 6 7 10	Raga Samudhra Priya (Inde)?	Raga Samudhra Priya (India)?
-0 2 4 5 8 11	Raga Sarasanana (Inde)	Raga Sarasanana (India)
-0 2 6 7 9 10	Raga Sarasvati (Inde)	Raga Sarasvati (India)
-0 4 5 7 8 9	Raga Saravati (# 5) (Inde)	Raga Saravati (#5) (India)
-0 4 5 7 8 9	Raga Saravati (B6) (Inde)	Raga Saravati (b6) (India)
-0 1 6 7 8	Raga Saugandhini,Yashranjani (Inde)	Raga Saugandhini,Yashranjani (India)
-0 1 4 5 7 8 9 11	Raga Saurashtra (Inde)	Raga Saurashtra (India)
-0 3 7 8 10	Raga Shailaja (Inde)	Raga Shailaja (India)
+0 1 3 7 9 10	Raga Salagavarali	Raga Salagavarali
+0 3 6 7 10	Raga Samudhra Priya	Raga Samudhra Priya
+0 3 6 7 10	Raga Samudhra Priya?	Raga Samudhra Priya?
+0 2 4 5 8 11	Raga Sarasanana	Raga Sarasanana
+0 2 6 7 9 10	Raga Sarasvati	Raga Sarasvati
+0 4 5 7 8 9	Raga Saravati (# 5)	Raga Saravati (#5)
+0 4 5 7 8 9	Raga Saravati (B6)	Raga Saravati (b6)
+0 1 6 7 8	Raga Saugandhini,Yashranjani	Raga Saugandhini,Yashranjani
+0 1 4 5 7 8 9 11	Raga Saurashtra	Raga Saurashtra
+0 3 7 8 10	Raga Shailaja	Raga Shailaja
 0 2 6 7 9	Raga Shri Kalyan	Raga Shri Kalyan
-0 2 6 9 11	Raga Shubravarni (Inde)	Raga Shubravarni (India)
-0 1 3 5 7 8	Raga Simantini (Inde)	Raga Simantini (India)
-0 2 3 6 7 10	Raga Simharava (Inde)	Raga Simharava (India)
-0 2 3 5 7 11	Raga Sindhura Kafi (Inde)	Raga Sindhura Kafi (India)
-0 2 4 5 7 10	Raga Siva Kambhoji,Vivardhini (Inde)	Raga Siva Kambhoji,Vivardhini (India)
-0 1 4 5 8 11	Raga Sohini (Inde)	Raga Sohini (India)
-0 2 5 7 9 10 11	Raga Sorati (Inde)	Raga Sorati (India)
-0 2 3 5 7 9	Raga Suddha Bangala (Inde)	Raga Suddha Bangala (India)
-0 1 2 5 8 9	Raga Suddha Mukhari (Inde)	Raga Suddha Mukhari (India)
-0 2 3 6 7 8	Raga Syamalam (Inde)	Raga Syamalam (India)
-0 3 5 7 8 11	Raga Takka (Inde)	Raga Takka (India)
-0 4 5 7 10 11	Raga Tilang,Savitri (Inde)	Raga Tilang,Savitri (India)
+0 2 6 9 11	Raga Shubravarni	Raga Shubravarni
+0 1 3 5 7 8	Raga Simantini	Raga Simantini
+0 2 3 6 7 10	Raga Simharava	Raga Simharava
+0 2 3 5 7 11	Raga Sindhura Kafi	Raga Sindhura Kafi
+0 2 4 5 7 10	Raga Siva Kambhoji,Vivardhini	Raga Siva Kambhoji,Vivardhini
+0 1 4 5 8 11	Raga Sohini	Raga Sohini
+0 2 5 7 9 10 11	Raga Sorati	Raga Sorati
+0 2 3 5 7 9	Raga Suddha Bangala	Raga Suddha Bangala
+0 1 2 5 8 9	Raga Suddha Mukhari	Raga Suddha Mukhari
+0 2 3 6 7 8	Raga Syamalam	Raga Syamalam
+0 3 5 7 8 11	Raga Takka	Raga Takka
+0 4 5 7 10 11	Raga Tilang,Savitri	Raga Tilang,Savitri
 0 2 3 7 8 10	Raga Trimurti	Raga Trimurti
-0 2 6 7 11	Raga Vaijayanti (Inde)	Raga Vaijayanti (India)
-0 4 7 9 10	Raga Valaji (Inde)	Raga Valaji (India)
-0 1 4 5 9 11	Raga Vasanta,Chayavati (Inde)	Raga Vasanta,Chayavati (India)
+0 2 6 7 11	Raga Vaijayanti	Raga Vaijayanti
+0 4 7 9 10	Raga Valaji	Raga Valaji
+0 1 4 5 9 11	Raga Vasanta,Chayavati	Raga Vasanta,Chayavati
 0 1 4 5 8 10	Raga Vasantabhairavi	Raga Vasantabhairavi
 0 2 3 6 7 9	Raga Vijayanagari	Raga Vijayanagari
-0 1 2 6 7 11	Raga Vijayasri (Inde)	Raga Vijayasri (India)
-0 4 6 7 10 11	Raga Vijayavasanta (Inde)	Raga Vijayavasanta (India)
+0 1 2 6 7 11	Raga Vijayasri	Raga Vijayasri
+0 4 6 7 10 11	Raga Vijayavasanta	Raga Vijayavasanta
 0 1 3 5 8 11	Raga Viyogavarali	Raga Viyogavarali
-0 4 6 7 9 10	Raga Vutari (Inde)	Raga Vutari (India)
+0 4 6 7 9 10	Raga Vutari	Raga Vutari
 0 2 4 6 7 9	Raga Yamuna Kalyani	Raga Yamuna Kalyani
-0 4 5 7 8	Raga Zilaf (Inde)	Raga Zilaf (India)
+0 4 5 7 8	Raga Zilaf	Raga Zilaf
 0 1 3 5 8 10	Ritsu	Ritsu
-0 2 5 7 9	Ritusen Japon,pentatonique écossaise,Zhi (Chine),Raga Devakriya (Inde),Ujo (Corée)	Ritusen Japan,Scottish Pentatonic,Zhi (China),Raga Devakriya (India),Ujo (Korea)
-0 3 4 5 7 9 10	Rock'n Roll,Raga Nandkauns (Inde)	Rock 'n Roll,Raga Nandkauns (India)
+0 2 5 7 9	Ritusen Japon,pentatonique écossaise,Zhi (Chine),Raga Devakriya,Ujo (Corée)	Ritusen Japan,Scottish Pentatonic,Zhi (China),Raga Devakriya,Ujo (Korea)
+0 3 4 5 7 9 10	Rock'n Roll,Raga Nandkauns	Rock 'n Roll,Raga Nandkauns
 0 4 5 8 11	Roumaine Bacovia	Romanian Bacovia
 0 1 4 6 7 9 10	Roumaine Majeure,Purvi bVII	Romanian Major,Purvi bVII
 0 2 3 6 7 9 10	Roumaine,Gnossiennes,mineur ukrainien Raja,dorien avec quarte augmentée	Romanian,Gnossiennes,Ukrainian minor Raja,Dorian with a sharp fourth
@@ -360,8 +360,8 @@ code	name	en
 0 1 3 4 6 8 10	SuperLocrien,Super Locrien,Ton-par-Ton diminué	Superlocrian,Super Locrian,Diminished Whole-Tone
 0 2 3 6 8 10	Takemitsu Tree Line Mode 2	Takemitsu Tree Line Mode 2
 0 2 3 6 8 11	Takemitsu Tree Line Mode 1	Takemitsu Tree Line Mode 1
-0 1 3 6 7 9 10	Todi bVII Mela Sadvidhamargini (Inde)	Todi bVII Mela Sadvidhamargini (India)
+0 1 3 6 7 9 10	Todi bVII Mela Sadvidhamargini	Todi bVII Mela Sadvidhamargini
 0 1 3 4 6 8 9	Ultra Locrien	Ultra Locrian
-0 2 3 5 7 8 10 11	Utility Minor,Raga Suha (Inde),Grégorien 4	Utility Minor,Raga Suha (India),Gregorian 4
-0 2 4 6 8 10	Ton-par-Ton,Auxiliaire Augmentée,Messiaen 1er mode,Raga Gopriya (Inde),anhémitonique hexatonique	Whole-Tone,Auxillary Augmented,Messiaen 1st Mode,Raga Gopriya (India),Anhemitonic Hexatonic
+0 2 3 5 7 8 10 11	Utility Minor,Raga Suha,Grégorien 4	Utility Minor,Raga Suha,Gregorian 4
+0 2 4 6 8 10	Ton-par-Ton,Auxiliaire Augmentée,Messiaen 1er mode,Raga Gopriya,anhémitonique hexatonique	Whole-Tone,Auxillary Augmented,Messiaen 1st Mode,Raga Gopriya,Anhemitonic Hexatonic
 0 2 3 5 7 8 9 11	Zirafkend (Arabie)	Zirafkend (Arabia)

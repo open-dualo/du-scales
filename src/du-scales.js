@@ -41,12 +41,7 @@ var categories = navig
   .enter()
     .append("li")
     .text(function(d){return d.key + ' (' + d.values.length + ')'})
-    .on("click", function(d){
-      if (!d3.select(this).classed("current")) {        
-        d3.select(".current").classed("current", false);
-        d3.select(this).classed("current", true);
-      }
-    })
+    .on("click", toggleCategory)
     .append("ul");
 
 var scales = categories
@@ -57,13 +52,24 @@ var scales = categories
     .text(function(d){return d.name[0]})
     .on("click", toggleScale);
 
+function toggleCategory(d,i) {
+  if (!d3.select(this).classed("current"))
+  {        
+    d3.select(".current").classed("current", false);
+    d3.select(this).classed("current", true);
+  }
+  else if (d3.mouse(this.childNodes[1])[1] < 0)
+  {
+    d3.select(this).classed("current", false);
+  }
+}
+
 function toggleScale(d,i) {
   if (!d3.select(this).classed("selected")) {
+    /*window.clearInterval(auto);*/
     svg.classed("active", true);
-    window.clearInterval(auto);
     d3.select(".selected").classed("selected",false);
     d3.select(this).classed("selected", true);
-    transpo = 1;
     variation = 0;
     category = this.parentNode.parentNode.__data__.key;
     currScale = d;
@@ -118,21 +124,33 @@ function mouseout(d) {
     .attr("transform","translate(0,0)scale(1)")
 };
 
-function range(i) {
-  i = (i - transpo)%24;
-  return (i >= 0) ? i : i + 24;
+function range(i, r) {
+  r = r || 24;
+  i = (i - transpo) % r;
+  return (i >= 0) ? i : i + r;
 };
+
+function range2(i) {
+  i = (i - transpo)%48;
+  return (i >= 0) ? i : i + 48;
+};
+
+function headache(i) {
+  var res = (i > 13 && i < 38)
+    ? (range(i) <= 11)
+    : (range(i) > 11)
+  res = (transpo > 13) ? !res : res;
+  return res;
+}
     
 function lighten(d,i) {
-  if (category === "") {
-    return "touch";
-  };
+  var st = (headache(i)) ? "touch odd " : "touch ";
   var sc = currScale.dualo_code[variation];
   return (range(i) === 0)
-    ? "touch orange"
+    ? st + "orange"
     : (sc.indexOf(range(i)) != -1)
-      ? "touch green"
-      : "touch";
+      ? st + "green"
+      : st;
 };
 
 function keys(d,i) {
@@ -155,7 +173,7 @@ function update(){
   text.text(keys);
 };
 
-var ica = 0;
+/*var ica = 0;
 var isc = 0;
 category  = data.scales[ica].key;
 var auto = setInterval(iupdate, 250);
@@ -168,4 +186,4 @@ function iupdate(){
     ica = (ica + 1) % data.scales.length;
     category  = data.scales[ica].key;
   };
-};
+};*/

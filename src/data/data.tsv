@@ -1,55 +1,55 @@
 code	name	category	source	dualo_code
 0,1,3,7,8	Balinaise,Balinoise,Pelog 1	5 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,13,3,7,20
-0,2,5,7,9	Chinoise (Première Forme),Pentatonique 4,Zhi (Chine),Raga Devakriya (Inde),Ujo (Corée),Exemple De Slendro,Ritusen Japon,Pentatonique Écossaise	5 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,17,7,21
-0,4,6,7,11	Chinoise (Deuxième Forme),Raga Malashri (Inde),Chinois	5 notes	Solfego.fr,Harmonics.com	0,4,18,7,11,0,4,6,7,11
+0,2,5,7,9	Chinoise (Première Forme),Pentatonique 4,Zhi (Chine),Raga Devakriya,Ujo (Corée),Exemple De Slendro,Ritusen Japon,Pentatonique Écossaise	5 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,17,7,21
+0,4,6,7,11	Chinoise (Deuxième Forme),Raga Malashri,Chinois	5 notes	Solfego.fr,Harmonics.com	0,4,18,7,11,0,4,6,7,11
 0,5,6,7,10	Iwato 2	5 notes	Solfego.fr	0,17,18,7,10,0,17,6,7,10
 0,1,5,7,10	Kokin Joshi,Insen,Kokin-joshi,Soft Ascend Japan,Miyakobushi (Japon)	5 notes	Solfego.fr,Wikipedia,Harmonics.com	0,13,17,7,10
 0,1,5,7,8	Kumoi,Japonnaise,Miyako-bushi,Japonaise,Sakura Pentatonic Soft Descend	5 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,17,7,20
 0,2,4,7,10	Pentatonique Dominante	5 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,4,7,10
 0,2,5,7,10	Pentatonique Égyptienne,Egyptienne,Pentatonique 2,Égyptienne,Pentatonique Suspendue	5 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,17,7,10
-0,2,4,7,8	Pentatonique Harmonique,Raga Bhupeshwari,Janasammodini (Inde)	5 notes	Solfego.fr,Harmonics.com	0,14,4,7,20
+0,2,4,7,8	Pentatonique Harmonique,Raga Bhupeshwari,Janasammodini	5 notes	Solfego.fr,Harmonics.com	0,14,4,7,20
 0,2,3,7,9	Pentatonique Japonaise,Dorien Pentatonique,Kumoi Japon,Akebono (Japon)	5 notes	Solfego.fr,Harmonics.com	0,14,3,7,21
 0,2,3,6,8	Pentatonique Locrien (Première Forme)	5 notes	Solfego.fr	0,14,3,6,20,0,14,3,18,20
-0,1,3,6,8	Pentatonique Locrien (Deuxième Forme),Raga Chhaya Todi (Inde)	5 notes	Solfego.fr,Harmonics.com	0,13,3,6,20,0,13,3,18,20
-0,2,4,7,9	Pentatonique Majeure,Chinoise,Mongole,Pentatonique Majeur,Majeur Pentatonique,Gong (Chine),Raga Bhopali,Mohanam,Deskar,Bilahari (Inde)	5 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,7,21
-0,4,5,7,11	Pentatonique Mauritanienne,Ionien Pentatonique,Raga Gambhiranata (Inde)	5 notes	Solfego.fr,Harmonics.com	0,4,17,7,11
+0,1,3,6,8	Pentatonique Locrien (Deuxième Forme),Raga Chhaya Todi	5 notes	Solfego.fr,Harmonics.com	0,13,3,6,20,0,13,3,18,20
+0,2,4,7,9	Pentatonique Majeure,Chinoise,Mongole,Pentatonique Majeur,Majeur Pentatonique,Gong (Chine),Raga Bhopali,Mohanam,Deskar,Bilahari	5 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,7,21
+0,4,5,7,11	Pentatonique Mauritanienne,Ionien Pentatonique,Raga Gambhiranata	5 notes	Solfego.fr,Harmonics.com	0,4,17,7,11
 0,3,5,7,10	Pentatonique Mineure,Pentatonique Mineur,Blues Pentatonique Mineur,Hard Japan Déscendant,Pyongjo Kyemyonjo (Corée),Minyo (Japon)	5 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,3,17,7,10
 0,1,3,7,10	Pentatonique Pelog,Pelog,Raga Rukmangi,Pelog 2	5 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,13,3,7,10
 0,3,4,7,8,11	Augmentée, Messiaen Tronqué Mode 3 Inverse,Genus Tertium,Raga Devamani	6 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,3,4,7,20,11
 0,2,3,5,7,10	Bahar,Mineur Hexatonique,Nayaki,Yo (Japon),Eskimo Hexatonique 1 (Amérique Du Nord)	6 notes	Solfego.fr,Harmonics.com	0,14,3,17,7,10
 0,3,4,6,7,11,11	Bitonal Majeur Chromatique	7 notes	Solfego.fr	0,3,4,18,7,11,11,0,3,4,6,7,11,11
-0,2,3,6,7,11	Bitonal Mineur Chromatique,Raga Amarasenapriya (Inde)	6 notes	Solfego.fr,Harmonics.com	0,14,3,18,7,11,0,14,3,6,7,11
+0,2,3,6,7,11	Bitonal Mineur Chromatique,Raga Amarasenapriya	6 notes	Solfego.fr,Harmonics.com	0,14,3,18,7,11,0,14,3,6,7,11
 0,3,4,6,7,9	Blues Diminué (Deuxième Forme)	6 notes	Solfego.fr	0,3,4,18,7,21,0,3,4,6,7,21
 0,1,4,6,8,10	Enigmatique	6 notes	Solfego.fr	0,13,4,18,20,10,0,13,4,6,20,10
 0,2,4,6,7,9	Hexa-lydien,Raga Yamuna Kalyani	6 notes	Solfego.fr,Harmonics.com	0,14,4,18,7,21,0,14,4,6,7,21
-0,2,3,5,7,9	Hexa-mélodique,Raga Suddha Bangala (Inde)	6 notes	Solfego.fr,Harmonics.com	0,14,3,17,7,21
-0,1,3,5,7,8	Hexa-phrygien,Raga Simantini (Inde)	6 notes	Solfego.fr,Harmonics.com	0,13,3,17,7,20
+0,2,3,5,7,9	Hexa-mélodique,Raga Suddha Bangala	6 notes	Solfego.fr,Harmonics.com	0,14,3,17,7,21
+0,1,3,5,7,8	Hexa-phrygien,Raga Simantini	6 notes	Solfego.fr,Harmonics.com	0,13,3,17,7,20
 0,3,4,7,9,10	Hexa-tritonique Binaire	6 notes	Solfego.fr	0,3,4,7,21,10
-0,2,3,6,8,9	Hexa-tritonique Diminué,Raga Neelangi (Inde)	6 notes	Solfego.fr,Harmonics.com	0,14,3,6,20,21,0,14,3,18,20,21
+0,2,3,6,8,9	Hexa-tritonique Diminué,Raga Neelangi	6 notes	Solfego.fr,Harmonics.com	0,14,3,6,20,21,0,14,3,18,20,21
 0,1,3,6,7,9	Hexa-tritonique Diminué 2,Messiaen Mode Tronqué 2	6 notes	Solfego.fr,Harmonics.com	0,13,3,18,7,21,0,13,3,6,7,21
 0,2,3,6,7,9	Hexa-tritonique Diminué Suspendu,Raga Vijayanagari	6 notes	Solfego.fr,Harmonics.com	0,14,3,18,7,21,0,14,3,6,7,21
-0,4,5,7,8,10	Indoustane,Raga Kamalamanohari (Inde)	6 notes	Solfego.fr,Harmonics.com	0,4,17,7,20,10
+0,4,5,7,8,10	Indoustane,Raga Kamalamanohari	6 notes	Solfego.fr,Harmonics.com	0,4,17,7,20,10
 0,2,3,4,7,9,11	Blues Majeur (Première Forme)	7 notes	Solfego.fr	0,14,3,4,7,21,11
 0,3,5,6,7,9	Blues Majeur (Deuxième Forme),Blues Majeur,Blues	6 notes	Solfego.fr,GuitarPro5	0,3,17,18,7,21,0,3,17,6,7,21
 0,3,5,6,7,10	Blues Mineur (Première Forme),Blues Mineur,Blues	6 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,3,17,18,7,10,0,3,17,6,7,10
 0,3,6,8,9,10	Blues Mineur (Deuxième Forme)	6 notes	Solfego.fr	0,3,6,20,21,10,0,3,18,20,21,10
 0,2,4,6,9,10	Prométhée,Prometheus,Prometheus F # Et Sib	6 notes	Solfego.fr,Wikipedia,Harmonics.com	0,14,4,18,21,10,0,14,4,6,21,10
-0,2,4,6,8,10	Ton Par Ton,Ton-par-ton,Auxiliaire Augmentée,Messiaen 1er Mode,Raga Gopriya (Inde),Anhémitonique Hexatonique	6 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,18,20,10,0,14,4,6,20,10
-0,2,3,5,7,8,10	Aéolien,Mineure Naturelle,Ethiopienne,Aeolien Mineur Naturel,Asavari Asc Nats. A À G,Grégorien 2,Assari Thaat (Inde),Se (Chine),Kitmun (Sumérienne)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,7,20,10
+0,2,4,6,8,10	Ton Par Ton,Ton-par-ton,Auxiliaire Augmentée,Messiaen 1er Mode,Raga Gopriya,Anhémitonique Hexatonique	6 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,18,20,10,0,14,4,6,20,10
+0,2,3,5,7,8,10	Aéolien,Mineure Naturelle,Ethiopienne,Aeolien Mineur Naturel,Asavari Asc Nats. A À G,Grégorien 2,Assari Thaat,Se (Chine),Kitmun (Sumérienne)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,7,20,10
 0,2,3,5,6,8,10	Aéolien B5,Mélodique Locrien,Demi Diminué,Locrien Mineur,Hindi 3 Bémoles Et Bv	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,6,20,10,0,14,3,17,18,20,10
 0,1,3,4,6,8,10	Altéré Superlocrien,Mélodique Superlocrien,Altérée,Hindi 5 Bémoles,Super Locrien 5 Bémoles,Lydien Augmenté,Hindi 5 Bémoles & Biv,Super Locrien 6 Bémoles,Superlocrien,Super Locrien,Ton-par-ton Diminué	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,3,4,18,20,10,0,13,3,4,6,20,10
 0,2,4,5,6,8,10	Arabe,Locrien Majeur	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,17,6,20,10,0,14,4,17,18,20,10
-0,2,4,6,7,9,10	Bartock,Bartok,Harmonique,Mélodique Lydien,Acoustique,Lydien B7,Hindi #Iv & Bvii,Mela Vacaspati (Inde),Raga Bhusavati (Inde),Lydien Mixolydien	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,18,7,21,10,0,14,4,6,7,21,10
+0,2,4,6,7,9,10	Bartock,Bartok,Harmonique,Mélodique Lydien,Acoustique,Lydien B7,Hindi #Iv & Bvii,Mela Vacaspati,Raga Bhusavati,Lydien Mixolydien	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,18,7,21,10,0,14,4,6,7,21,10
 0,3,5,6,7,10,11	Blues (Heptatonique),Blues Avec Sensible	7 notes	Solfego.fr,Harmonics.com	0,3,17,18,7,10,11,0,3,17,6,7,10,11
 0,1,3,4,6,7,10	Demi-ton Tons Sans Sixte	7 notes	Solfego.fr	0,13,3,4,18,7,10,0,13,3,4,6,7,10
-0,2,3,5,7,9,10	Dorien,Kafi D À C Asc. Naturals,Eskimo Heptatonique (Amérique Du Nord),Kafi Thaat (Inde),Embulum (Sumérienne)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,7,21,10
+0,2,3,5,7,9,10	Dorien,Kafi D À C Asc. Naturals,Eskimo Heptatonique (Amérique Du Nord),Kafi Thaat,Embulum (Sumérienne)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,7,21,10
 0,1,4,6,8,10,11	Enigmatique,Enigmatique Ascendant,Enigmatique Ascendante	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,4,18,20,10,11,0,13,4,6,20,10,11
 0,1,4,5,7,8,10	Espagnole (Première Forme),Espagnole,Juive,Harmonique Mixolydien,Phrygien Dominant,Dorico Flamenco,Avaha Raba,Folk Espagnole,Juive Majeure,Alhijaz (Arabie),Ahavh Rabbah (Israël),Hitzaz (Grèce),Gypsy Espagnol	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,4,17,7,20,10
 0,1,4,5,7,9,10	Gitane,Gypsy,Mineure Harmonique Inverse,Bhairav,Maqam Hicaz (Arabie)	7 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,13,4,17,7,21,10
-0,1,4,5,7,8,11	Gypsy,Byzantine,Double Harmonique,Flamenco,Hongroise Folk,Byzantine Majeur Gypsy,Bhairav ​​thaat (Inde),Mela Mayamalavagaula (Inde),Raga Paraj (Inde),Hitzazkiar (Grèce)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,4,17,7,20,11
-0,2,4,5,7,8,10	Hindou,Indienne,Mélodique Mixolydien,Majeur Mineur,Hindoue Bvi & Bvii,Mela Carukesi (Inde),Raga Tarangini (Inde)	7 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,4,17,7,20,10
-0,2,3,6,7,8,10	Hongroise Gitane,Gypsy Hongroise,Gypsy,Gypsy Hongrois,Mela Sanmukhapriya (Inde),Damian Emmanuel	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,18,7,20,10,0,14,3,6,7,20,10
-0,3,4,6,7,9,10	Hongroise Majeure,Raga Nasamani (Inde)	7 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,3,4,18,7,21,10,0,3,4,6,7,21,10
+0,1,4,5,7,8,11	Gypsy,Byzantine,Double Harmonique,Flamenco,Hongroise Folk,Byzantine Majeur Gypsy,Bhairav ​​thaat,Mela Mayamalavagaula,Raga Paraj,Hitzazkiar (Grèce)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,4,17,7,20,11
+0,2,4,5,7,8,10	Hindou,Indienne,Mélodique Mixolydien,Majeur Mineur,Hindoue Bvi & Bvii,Mela Carukesi,Raga Tarangini	7 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,4,17,7,20,10
+0,2,3,6,7,8,10	Hongroise Gitane,Gypsy Hongroise,Gypsy,Gypsy Hongrois,Mela Sanmukhapriya,Damian Emmanuel	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,18,7,20,10,0,14,3,6,7,20,10
+0,3,4,6,7,9,10	Hongroise Majeure,Raga Nasamani	7 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,3,4,18,7,21,10,0,3,4,6,7,21,10
 0,2,3,6,7,8,11	Hongroise Mineure,Algérienne,Hongroise Gypsy,Nawa Athar Maqam (Arabie),Double Mineure Harmonique,Niavent (Grèce)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,18,7,20,11,0,14,3,6,7,20,11
 0,2,4,5,7,9,11	Ionien,Majeure,Bilaval C À B Asc. Nats.,Thaat,Nid Murub (Sumérienne)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,17,7,21,11
 0,2,4,5,8,9,11	Ionien #5,Harmonique Phrygien,Majeur Harmonique 2,Ionien # 5	7 notes	Solfego.fr,GuitarPro5,Harmonics.com	0,14,4,17,20,21,11
@@ -63,8 +63,8 @@ code	name	category	source	dualo_code
 0,2,3,5,7,8,11	Mineure Harmonique,Mahométan,Harmonique Ionien,Gamme Mineure Harmonique	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,7,20,11
 0,2,3,5,7,9,11	Mineure Mélodique,Hawaïenne,Mélodique Ionien,Jazz Mineur,Mineure Mélodique Ascendante,Mineur Mélodique	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,3,17,7,21,11
 0,2,4,5,7,9,10	Mixolydien,Khamaj G À F Ascend. Nats,Ching (Chine),Mitum (Sumérien),Grégorien 7	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,14,4,17,7,21,10
-0,1,3,5,7,9,11	Napolitaine Majeure,Mélodique Dorien,Mela Kokilapriya (Inde),Raga Kokilaravam (Inde)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,3,17,7,21,11
-0,1,3,5,7,8,11	Napolitaine Mineure,Raga Dhunibinnashadjam (Inde),Maqam Shahnaz Kurdi (Arabie)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,3,17,7,20,11
+0,1,3,5,7,9,11	Napolitaine Majeure,Mélodique Dorien,Mela Kokilapriya,Raga Kokilaravam	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,3,17,7,21,11
+0,1,3,5,7,8,11	Napolitaine Mineure,Raga Dhunibinnashadjam,Maqam Shahnaz Kurdi (Arabie)	7 notes	Solfego.fr,GuitarPro5,Wikipedia,Harmonics.com	0,13,3,17,7,20,11
 0,1,4,5,6,8,10	Orientale (Première Forme)	7 notes	Solfego.fr	0,13,4,17,6,20,10,0,13,4,17,18,20,10
 0,1,4,5,6,8,9	Orientale (Deuxième Forme)	7 notes	Solfego.fr	0,13,4,17,6,20,21,0,13,4,17,18,20,21
 0,3,4,5,8,9,11	Orientale (Troisième Forme)	7 notes	Solfego.fr	0,3,4,17,20,21,11
@@ -85,17 +85,17 @@ code	name	category	source	dualo_code
 0,1,5,6,10	Iwato,Iwato (Japon)	5 notes	GuitarPro5,Wikipedia,Harmonics.com	0,13,17,6,10,0,13,17,18,10
 0,2,3,7,8	Hirajoshi,Hirajoshi (Japon)	5 notes	GuitarPro5,Wikipedia,Harmonics.com	0,14,3,7,20
 0,2,4,6,8,10,11	Ton Par Ton Sensible,Ton-par-ton Sensible	7 notes	GuitarPro5,Harmonics.com	0,14,4,18,20,10,11,0,14,4,6,20,10,11
-0,1,4,5,6,9,10	Orientale,Orientale 1,Tsinganikos (Grèce),Raga Ahira Lalita (Inde)	7 notes	GuitarPro5,Harmonics.com	0,13,4,17,6,21,10,0,13,4,17,18,21,10
-0,3,5,8,10	Pentatonique 3,Blues Pentatonique Mineur,Hard Japan Déscendant,Raga Malkauns,1 # Blues Pentatonique Mineur De 2b,Hard Japon Déscendant,Dur Japon Descendent,Hard Japon Déscendant 3 # 's	5 notes	GuitarPro5,Harmonics.com	0,3,17,20,10
+0,1,4,5,6,9,10	Orientale,Orientale 1,Tsinganikos (Grèce),Raga Ahira Lalita	7 notes	GuitarPro5,Harmonics.com	0,13,4,17,6,21,10,0,13,4,17,18,21,10
+0,3,5,8,10	Pentatonique 3,Blues Pentatonique Mineur,Hard Japan Déscendant,Raga Malkauns,1 # Blues Pentatonique Mineur De 2b,Hard Japon Déscendant,Hard Japan Descendent,Hard Japan Déscendant 3 # 's	5 notes	GuitarPro5,Harmonics.com	0,3,17,20,10
 0,1,4,7,9	Pentatonique Altéré	5 notes	GuitarPro5	0,13,4,7,21
 0,1,3,4,6,7	Istrienne	6 notes	Wikipedia	0,13,3,4,18,7,0,13,3,4,6,7
-0,1,4,6,7,10	Tritone,Raga Indupriya (Inde),Petrouchka Chord	6 notes	Wikipedia,Harmonics.com	0,13,4,18,7,10,0,13,4,6,7,10
-0,3,5,7,11	Minyo,Raga Nata,Madhuranjani (Inde)	5 notes	Wikipedia,Harmonics.com	0,3,17,7,11
+0,1,4,6,7,10	Tritone,Raga Indupriya,Petrouchka Chord	6 notes	Wikipedia,Harmonics.com	0,13,4,18,7,10,0,13,4,6,7,10
+0,3,5,7,11	Minyo,Raga Nata,Madhuranjani	5 notes	Wikipedia,Harmonics.com	0,3,17,7,11
 0,1,2,3,5,7,9,10	Adonaï Malakh (Israël)	8 notes	Harmonics.com	0,13,14,3,17,7,21,10
 0,2,3,5,6,7,8,11	Algérienne	8 notes	Harmonics.com	0,14,3,17,6,7,20,11,0,14,3,17,18,7,20,11
 0,1,5,7,9	Pentatonique Altérée	5 notes	Harmonics.com	0,13,17,7,21
 0,1,4,6,7	Balinaise Pentatonique	5 notes	Harmonics.com	0,13,4,18,7,0,13,4,6,7
-0,1,4,5,7,9,11	Bhairubahar Thaat (Inde)	7 notes	Harmonics.com	0,13,4,17,7,21,11
+0,1,4,5,7,9,11	Bhairubahar Thaat	7 notes	Harmonics.com	0,13,4,17,7,21,11
 0,3,5,6,11	Blues #V	5 notes	Harmonics.com	0,3,17,18,11,0,3,17,6,11
 0,2,3,4,7,9	Blues Dorien Hexatonique,Blues Majeur	6 notes	Harmonics.com	0,14,3,4,7,21
 0,1,3,4,7,9	Blues Dorien Hexatonique 2	6 notes	Harmonics.com	0,13,3,4,7,21
@@ -104,8 +104,8 @@ code	name	category	source	dualo_code
 0,2,3,5,6,7,10	Blues Modifié	7 notes	Harmonics.com	0,14,3,17,18,7,10,0,14,3,17,6,7,10
 0,2,3,5,6,7,9,10	Blues Octatonique	8 notes	Harmonics.com	0,14,3,17,6,7,21,10,0,14,3,17,18,7,21,10
 0,1,3,5,6,7,10	Blues Phrygien	7 notes	Harmonics.com	0,13,3,17,18,7,10,0,13,3,17,6,7,10
-0,1,2,5,7,8,9	Dorien Chromatique,Raga Kanakambari (Inde)	7 notes	Harmonics.com	0,13,14,17,7,20,21
-0,3,4,5,7,10,11	Dorien Chromatique Inverse,Raga None (Inde)	7 notes	Harmonics.com	0,3,4,17,7,10,11
+0,1,2,5,7,8,9	Dorien Chromatique,Raga Kanakambari	7 notes	Harmonics.com	0,13,14,17,7,20,21
+0,3,4,5,7,10,11	Dorien Chromatique Inverse,Raga None	7 notes	Harmonics.com	0,3,4,17,7,10,11
 0,2,3,4,7,8,9	Hypodorien Chromatique	7 notes	Harmonics.com	0,14,3,4,7,20,21
 0,3,4,5,8,9,10	Hypodorien Chromatique Inverse	7 notes	Harmonics.com	0,3,4,17,20,21,10
 0,1,4,6,7,8,11	Hypolydien Chromatique,Puravi Bvi	7 notes	Harmonics.com	0,13,4,18,7,20,11,0,13,4,6,7,20,11
@@ -125,7 +125,7 @@ code	name	category	source	dualo_code
 0,1,3,6,8,10,11	Enigmatique Mineure	7 notes	Harmonics.com	0,13,3,18,20,10,11,0,13,3,6,20,10,11
 0,2,4,6,8,9	Eskimo Hexatonique 2	6 notes	Harmonics.com	0,14,4,6,20,21,0,14,4,18,20,21
 0,2,4,6,8,11	Eskimo Hexatonique 2 (Amérique Du Nord)	6 notes	Harmonics.com	0,14,4,18,20,11,0,14,4,6,20,11
-0,2,4,6,7,8,11	Exemple De Pelog,Mela Latangi (Inde),Mela Latangi (Inde) (B6)	7 notes	Harmonics.com	0,14,4,18,7,20,11,0,14,4,6,7,20,11
+0,2,4,6,7,8,11	Exemple De Pelog,Mela Latangi,Mela Latangi (B6)	7 notes	Harmonics.com	0,14,4,18,7,20,11,0,14,4,6,7,20,11
 0,4,5,7,9,11	Genus Secundum	6 notes	Harmonics.com	0,4,17,7,21,11
 0,1,5,6,8,9,10	Raga Kalakanti	7 notes	Harmonics.com	0,13,17,6,20,21,10,0,13,17,18,20,21,10
 0,1,4,5,7,8,9	Gypsy Hexatonique	7 notes	Harmonics.com	0,13,4,17,7,20,21
@@ -135,7 +135,7 @@ code	name	category	source	dualo_code
 0,1,2,3,5,7,8,11	Mineure Harmonique Napolitaine	8 notes	Harmonics.com	0,13,14,3,17,7,20,11
 0,2,3,7,9,11	Hawaïenne,Nando Kyemyonjo (Corée)	6 notes	Harmonics.com	0,14,3,7,21,11
 0,1,3,5,6,10	Honchoshi Plagal Form	6 notes	Harmonics.com	0,13,3,17,6,10,0,13,3,17,18,10
-0,3,4,5,7,9,11	Houzam (Grèce),Raga Saildesakshi,Trishuli (Inde)	7 notes	Harmonics.com	0,3,4,17,7,21,11
+0,3,4,5,7,9,11	Houzam (Grèce),Raga Saildesakshi,Trishuli	7 notes	Harmonics.com	0,3,4,17,7,21,11
 0,1,2,3,6,7,8,11	Hongroise Mineure B2	8 notes	Harmonics.com	0,13,14,3,6,7,20,11,0,13,14,3,18,7,20,11
 0,1,3,4,7,8,10	Indienne,Phrygien Quarte Diminuée	7 notes	Harmonics.com	0,13,3,4,7,20,10
 0,1,3,6,7	Pentacorde Japonais,Pentacorde Javanais	5 notes	Harmonics.com	0,13,3,18,7,0,13,3,6,7
@@ -146,53 +146,53 @@ code	name	category	source	dualo_code
 0,3,4,7,9,11	Lydien #2 Hexatonique,Lydien B3 Hexatonique	6 notes	Harmonics.com	0,3,4,7,21,11
 0,2,3,4,6,7,9,11	Lydien B3	8 notes	Harmonics.com	0,14,3,4,18,7,21,11,0,14,3,4,6,7,21,11
 0,2,3,4,6,7,9,10	Lydien Dim B7	8 notes	Harmonics.com	0,14,3,4,18,7,21,10,0,14,3,4,6,7,21,10
-0,2,3,6,7,9,11	Lydien Diminué,Raga Dumyaraga,Madhuvanti,Ambika (Inde),Mela Nitimati (Inde)	7 notes	Harmonics.com	0,14,3,18,7,21,11,0,14,3,6,7,21,11
-0,2,4,6,7,9,10,11	Lydien Dominant + Septième Naturel,Lydien À La Fois Naturel Et 7e Dominante	8 notes	Harmonics.com	0,14,4,18,7,21,10,11,0,14,4,6,7,21,10,11
+0,2,3,6,7,9,11	Lydien Diminué,Raga Dumyaraga,Madhuvanti,Ambika,Mela Nitimati	7 notes	Harmonics.com	0,14,3,18,7,21,11,0,14,3,6,7,21,11
+0,2,4,6,7,9,10,11	Lydien Dominant + Septième Naturelle,Lydien À La Fois Naturel Et 7e Dominante	8 notes	Harmonics.com	0,14,4,18,7,21,10,11,0,14,4,6,7,21,10,11
 0,2,4,7,9,11	Lydien Hexatonique	6 notes	Harmonics.com	0,14,4,7,21,11
-0,2,4,6,7,8,10	Lydien Mineur,Stravinski,Raga Ratipriya (Inde)	7 notes	Harmonics.com	0,14,4,18,7,20,10,0,14,4,6,7,20,10
+0,2,4,6,7,8,10	Lydien Mineur,Stravinski,Raga Ratipriya	7 notes	Harmonics.com	0,14,4,18,7,20,10,0,14,4,6,7,20,10
 0,2,4,6,7	Pentacorde Lydien	5 notes	Harmonics.com	0,14,4,18,7,0,14,4,6,7
 0,1,3,4,6,8,9,11	Magen Abot	8 notes	Harmonics.com	0,13,3,4,6,20,21,11,0,13,3,4,18,20,21,11
-0,2,4,5,7,8,9	Majeur Bebop Heptatonique,Mela Mararanjani (Inde)	7 notes	Harmonics.com	0,14,4,17,7,20,21
+0,2,4,5,7,8,9	Majeur Bebop Heptatonique,Mela Mararanjani	7 notes	Harmonics.com	0,14,4,17,7,20,21
 0,2,4,7,8,9	Majeur Bebop Hexatonique	6 notes	Harmonics.com	0,14,4,7,20,21
 0,2,4,5,6,7,9,11	Lydien Majeur,Genus Diatonicum Veterum Correctum,Ishikotsucho (Japon)	8 notes	Harmonics.com	0,14,4,17,6,7,21,11,0,14,4,17,18,7,21,11
 0,2,4,5,7	Pentacorde Majeur	5 notes	Harmonics.com	0,14,4,17,7
 0,1,4,5,7,8,10,11	Maqam Hijaz	8 notes	Harmonics.com	0,13,4,17,7,20,10,11
 0,1,3,4,5,6,9,10	Maqam Shadd'araban,Maqam Shadd'araban (6b De)	8 notes	Harmonics.com	0,13,3,4,17,6,21,10,0,13,3,4,17,18,21,10
-0,1,4,6,7,9,11	Marva Ou Marvi,Marva Thaat (Inde)	7 notes	Harmonics.com	0,13,4,18,7,21,11,0,13,4,6,7,21,11
-0,1,2,6,7,9,10	Mela Navanitam (Inde)	7 notes	Harmonics.com	0,13,14,6,7,21,10,0,13,14,18,7,21,10
-0,1,3,6,7,8,10	Mela Bhavapriya (Inde)	7 notes	Harmonics.com	0,13,3,18,7,20,10,0,13,3,6,7,20,10
-0,2,4,6,7,10,11	Mela Citrambari (Inde)	7 notes	Harmonics.com	0,14,4,18,7,10,11,0,14,4,6,7,10,11
-0,3,4,6,7,8,11	Mela Dhatuvardhani (Inde)	7 notes	Harmonics.com	0,3,4,18,7,20,11,0,3,4,6,7,20,11
-0,1,4,6,7,8,9	Mela Dhavalambari (Inde)	7 notes	Harmonics.com	0,13,4,6,7,20,21,0,13,4,18,7,20,21
-0,1,3,6,7,10,11	Mela Divamani (Inde)	7 notes	Harmonics.com	0,13,3,18,7,10,11,0,13,3,6,7,10,11
-0,1,2,5,7,8,11	Mela Ganamurti (Inde)	7 notes	Harmonics.com	0,13,14,17,7,20,11
-0,3,4,5,7,8,11	Mela Gangeyabhusani (Inde)	7 notes	Harmonics.com	0,3,4,17,7,20,11
-0,1,3,6,7,8,9	Mela Gavambohdi (Inde)	7 notes	Harmonics.com	0,13,3,6,7,20,21,0,13,3,18,7,20,21
-0,1,4,5,7,10,11	Mela Hatakambari (Inde)	7 notes	Harmonics.com	0,13,4,17,7,10,11
-0,1,2,6,7,8,10	Mela Jalarnava (Inde)	7 notes	Harmonics.com	0,13,14,6,7,20,10,0,13,14,18,7,20,10
-0,1,2,6,7,8,11	Mela Jhalavarali (Inde)	7 notes	Harmonics.com	0,13,14,6,7,20,11,0,13,14,18,7,20,11
-0,2,3,5,7,8,9	Mela Jhankaradhvani (Inde)	7 notes	Harmonics.com	0,14,3,17,7,20,21
-0,3,4,6,7,8,10	Mela Jhotisvarupini (Inde)	7 notes	Harmonics.com	0,3,4,18,7,20,10,0,3,4,6,7,20,10
-0,2,4,6,7,8,9	Mela Kantamani (Inde)	7 notes	Harmonics.com	0,14,4,6,7,20,21,0,14,4,18,7,20,21
-0,1,2,5,7,9,11	Mela Manavati (Inde)	7 notes	Harmonics.com	0,13,14,17,7,21,11
-0,2,4,5,7,10,11	Mela Nagananadini (Inde)	7 notes	Harmonics.com	0,14,4,17,7,10,11
-0,1,4,6,7,8,10	Mela Namanararayani (Inde)	7 notes	Harmonics.com	0,13,4,18,7,20,10,0,13,4,6,7,20,10
-0,1,2,6,7,9,11	Mela Pavani (Inde)	7 notes	Harmonics.com	0,13,14,6,7,21,11,0,13,14,18,7,21,11
-0,3,4,5,7,8,10	Mela Ragavardhani (Inde)	7 notes	Harmonics.com	0,3,4,17,7,20,10
-0,1,2,6,7,10,11	Mela Raghupriya (Inde)	7 notes	Harmonics.com	0,13,14,18,7,10,11,0,13,14,6,7,10,11
-0,3,4,6,7,10,11	Mela Rasikapriya (Inde)	7 notes	Harmonics.com	0,3,4,18,7,10,11,0,3,4,6,7,10,11
-0,1,2,5,7,8,10	Mela Ratnangi (Inde)	7 notes	Harmonics.com	0,13,14,17,7,20,10
-0,1,3,5,7,10,11	Mela Rupavati (Inde)	7 notes	Harmonics.com	0,13,3,17,7,10,11
-0,1,2,6,7,8,9	Mela Salaga (Inde)	7 notes	Harmonics.com	0,13,14,6,7,20,21,0,13,14,18,7,20,21
-0,1,3,5,7,8,9	Mela Senavati (Inde)	7 notes	Harmonics.com	0,13,3,17,7,20,21
-0,3,4,6,7,8,9	Mela Sucaritra (Inde)	7 notes	Harmonics.com	0,3,4,18,7,20,21,0,3,4,6,7,20,21
-0,2,3,6,7,8,9	Mela Syamalangi (Inde)	7 notes	Harmonics.com	0,14,3,6,7,20,21,0,14,3,18,7,20,21
-0,1,2,5,6,7,10,11	Mela Tanarupi (Inde)	8 notes	Harmonics.com	0,13,14,17,6,7,10,11,0,13,14,17,18,7,10,11
-0,1,2,5,7,10,11	Mela Tanarupi (Inde)	7 notes	Harmonics.com	0,13,14,17,7,10,11
-0,1,2,5,7,9,10	Mela Vanaspati (Inde)	7 notes	Harmonics.com	0,13,14,17,7,21,10
-0,2,3,5,7,10,11	Mela Varunapriya (Inde)	7 notes	Harmonics.com	0,14,3,17,7,10,11
-0,1,4,6,7,10,11	Mela Visvambhari (Inde)	7 notes	Harmonics.com	0,13,4,18,7,10,11,0,13,4,6,7,10,11
-0,3,4,5,7,8,9	Mela Yagapriya (Inde)	7 notes	Harmonics.com	0,3,4,17,7,20,21
+0,1,4,6,7,9,11	Marva Ou Marvi,Marva Thaat	7 notes	Harmonics.com	0,13,4,18,7,21,11,0,13,4,6,7,21,11
+0,1,2,6,7,9,10	Mela Navanitam	7 notes	Harmonics.com	0,13,14,6,7,21,10,0,13,14,18,7,21,10
+0,1,3,6,7,8,10	Mela Bhavapriya	7 notes	Harmonics.com	0,13,3,18,7,20,10,0,13,3,6,7,20,10
+0,2,4,6,7,10,11	Mela Citrambari	7 notes	Harmonics.com	0,14,4,18,7,10,11,0,14,4,6,7,10,11
+0,3,4,6,7,8,11	Mela Dhatuvardhani	7 notes	Harmonics.com	0,3,4,18,7,20,11,0,3,4,6,7,20,11
+0,1,4,6,7,8,9	Mela Dhavalambari	7 notes	Harmonics.com	0,13,4,6,7,20,21,0,13,4,18,7,20,21
+0,1,3,6,7,10,11	Mela Divamani	7 notes	Harmonics.com	0,13,3,18,7,10,11,0,13,3,6,7,10,11
+0,1,2,5,7,8,11	Mela Ganamurti	7 notes	Harmonics.com	0,13,14,17,7,20,11
+0,3,4,5,7,8,11	Mela Gangeyabhusani	7 notes	Harmonics.com	0,3,4,17,7,20,11
+0,1,3,6,7,8,9	Mela Gavambohdi	7 notes	Harmonics.com	0,13,3,6,7,20,21,0,13,3,18,7,20,21
+0,1,4,5,7,10,11	Mela Hatakambari	7 notes	Harmonics.com	0,13,4,17,7,10,11
+0,1,2,6,7,8,10	Mela Jalarnava	7 notes	Harmonics.com	0,13,14,6,7,20,10,0,13,14,18,7,20,10
+0,1,2,6,7,8,11	Mela Jhalavarali	7 notes	Harmonics.com	0,13,14,6,7,20,11,0,13,14,18,7,20,11
+0,2,3,5,7,8,9	Mela Jhankaradhvani	7 notes	Harmonics.com	0,14,3,17,7,20,21
+0,3,4,6,7,8,10	Mela Jhotisvarupini	7 notes	Harmonics.com	0,3,4,18,7,20,10,0,3,4,6,7,20,10
+0,2,4,6,7,8,9	Mela Kantamani	7 notes	Harmonics.com	0,14,4,6,7,20,21,0,14,4,18,7,20,21
+0,1,2,5,7,9,11	Mela Manavati	7 notes	Harmonics.com	0,13,14,17,7,21,11
+0,2,4,5,7,10,11	Mela Nagananadini	7 notes	Harmonics.com	0,14,4,17,7,10,11
+0,1,4,6,7,8,10	Mela Namanararayani	7 notes	Harmonics.com	0,13,4,18,7,20,10,0,13,4,6,7,20,10
+0,1,2,6,7,9,11	Mela Pavani	7 notes	Harmonics.com	0,13,14,6,7,21,11,0,13,14,18,7,21,11
+0,3,4,5,7,8,10	Mela Ragavardhani	7 notes	Harmonics.com	0,3,4,17,7,20,10
+0,1,2,6,7,10,11	Mela Raghupriya	7 notes	Harmonics.com	0,13,14,18,7,10,11,0,13,14,6,7,10,11
+0,3,4,6,7,10,11	Mela Rasikapriya	7 notes	Harmonics.com	0,3,4,18,7,10,11,0,3,4,6,7,10,11
+0,1,2,5,7,8,10	Mela Ratnangi	7 notes	Harmonics.com	0,13,14,17,7,20,10
+0,1,3,5,7,10,11	Mela Rupavati	7 notes	Harmonics.com	0,13,3,17,7,10,11
+0,1,2,6,7,8,9	Mela Salaga	7 notes	Harmonics.com	0,13,14,6,7,20,21,0,13,14,18,7,20,21
+0,1,3,5,7,8,9	Mela Senavati	7 notes	Harmonics.com	0,13,3,17,7,20,21
+0,3,4,6,7,8,9	Mela Sucaritra	7 notes	Harmonics.com	0,3,4,18,7,20,21,0,3,4,6,7,20,21
+0,2,3,6,7,8,9	Mela Syamalangi	7 notes	Harmonics.com	0,14,3,6,7,20,21,0,14,3,18,7,20,21
+0,1,2,5,6,7,10,11	Mela Tanarupi	8 notes	Harmonics.com	0,13,14,17,6,7,10,11,0,13,14,17,18,7,10,11
+0,1,2,5,7,10,11	Mela Tanarupi	7 notes	Harmonics.com	0,13,14,17,7,10,11
+0,1,2,5,7,9,10	Mela Vanaspati	7 notes	Harmonics.com	0,13,14,17,7,21,10
+0,2,3,5,7,10,11	Mela Varunapriya	7 notes	Harmonics.com	0,14,3,17,7,10,11
+0,1,4,6,7,10,11	Mela Visvambhari	7 notes	Harmonics.com	0,13,4,18,7,10,11,0,13,4,6,7,10,11
+0,3,4,5,7,8,9	Mela Yagapriya	7 notes	Harmonics.com	0,3,4,17,7,20,21
 0,2,3,5,6,8,10,11	Messiaen 2 Selon Brown	8 notes	Harmonics.com	0,14,3,17,6,20,10,11,0,14,3,17,18,20,10,11
 0,1,3,5,6,7,9,11	Messiaen 3 Selon Brown,Messiaen 6e Mode	8 notes	Harmonics.com	0,13,3,17,6,7,21,11,0,13,3,17,18,7,21,11
 0,1,2,5,6,7,8,11	Messiaen 5 Selon Brown,Messiaen Mode 4,Mode 4	8 notes	Harmonics.com	0,13,14,17,6,7,20,11,0,13,14,17,18,7,20,11
@@ -212,7 +212,7 @@ code	name	category	source	dualo_code
 0,2,3,5,7	Pentacorde Mineur,Chad Gadyo (Israël)	5 notes	Harmonics.com	0,14,3,17,7
 0,2,4,5,8,9,10	Mixolydien Augmentée	7 notes	Harmonics.com	0,14,4,17,20,21,10
 0,2,4,5,6,9,10	Mixolydien B5	7 notes	Harmonics.com	0,14,4,17,6,21,10,0,14,4,17,18,21,10
-0,2,5,7,9,10	Mixolydien Hexatonique,Yosen (Japon),Raga Darbar,Narayani,Suposhini (Inde)	6 notes	Harmonics.com	0,14,17,7,21,10
+0,2,5,7,9,10	Mixolydien Hexatonique,Yosen (Japon),Raga Darbar,Narayani,Suposhini	6 notes	Harmonics.com	0,14,17,7,21,10
 0,4,5,7,10	Mixolydien Pentatonique	5 notes	Harmonics.com	0,4,17,7,10
 0,1,2,4,6,8,9	Napolitaine Mode Mineur	7 notes	Harmonics.com	0,13,14,4,6,20,21,0,13,14,4,18,20,21
 0,1,3,6,7,8,10,11	Neveseri (Grèce)	8 notes	Harmonics.com	0,13,3,18,7,20,10,11,0,13,3,6,7,20,10,11
@@ -225,119 +225,119 @@ code	name	category	source	dualo_code
 0,1,4,6,9,10	Prometheus Napolitaine	6 notes	Harmonics.com	0,13,4,18,21,10,0,13,4,6,21,10
 0,2,3,5,6,9	Pyramide Hexatonique	6 notes	Harmonics.com	0,14,3,17,6,21,0,14,3,17,18,21
 0,2,3,5,9	Raga Abhogi	5 notes	Harmonics.com	0,14,3,17,21
-0,2,3,5,8	Raga Audva Tukhari (Inde)	5 notes	Harmonics.com	0,14,3,17,20
-0,2,3,5,9,10	Raga Bagesri,Sriranjani,Kapijingla (Inde)	6 notes	Harmonics.com	0,14,3,17,21,10
-0,1,4,7,8,11	Raga Bauli (Inde)	6 notes	Harmonics.com	0,13,4,7,20,11
-0,3,4,5,7,10	Raga Bhanumanjari (Inde)	6 notes	Harmonics.com	0,3,4,17,7,10
-0,1,4,5,6,7,9,11	Raga Bhatiyar (Inde)	8 notes	Harmonics.com	0,13,4,17,6,7,21,11,0,13,4,17,18,7,21,11
-0,1,3,6,8,10	Raga Bhavani (Inde)	6 notes	Harmonics.com	0,13,3,6,20,10,0,13,3,18,20,10
-0,2,5,7,8,11	Raga Bhinna Pancama (Inde)	6 notes	Harmonics.com	0,14,17,7,20,11
-0,4,5,9,11	Raga Bhinna Shadja,Hindolita (Inde)	5 notes	Harmonics.com	0,4,17,21,11
-0,2,4,6,7,11	Raga Caturangini (Inde)	6 notes	Harmonics.com	0,14,4,18,7,11,0,14,4,6,7,11
-0,1,2,6,7,9	Raga Chandrajyoti (Inde)	6 notes	Harmonics.com	0,13,14,6,7,21,0,13,14,18,7,21
-0,3,5,9,10	Raga Chandrakauns Kafi,Surya (Inde)	5 notes	Harmonics.com	0,3,17,21,10
-0,3,5,8,11	Raga Chandrakauns Kiravani (Inde)	5 notes	Harmonics.com	0,3,17,20,11
-0,3,5,9,11	Raga Chandrakauns Moderne (Inde),Marga Hindola	5 notes	Harmonics.com	0,3,17,21,11
-0,1,3,5,8	Raga Chitthakarshini (Inde)	5 notes	Harmonics.com	0,13,3,17,20
-0,2,3,6,7,8,9,10	Raga Cintamani (Inde)	8 notes	Harmonics.com	0,14,3,6,7,20,21,10,0,14,3,18,7,20,21,10
+0,2,3,5,8	Raga Audva Tukhari	5 notes	Harmonics.com	0,14,3,17,20
+0,2,3,5,9,10	Raga Bagesri,Sriranjani,Kapijingla	6 notes	Harmonics.com	0,14,3,17,21,10
+0,1,4,7,8,11	Raga Bauli	6 notes	Harmonics.com	0,13,4,7,20,11
+0,3,4,5,7,10	Raga Bhanumanjari	6 notes	Harmonics.com	0,3,4,17,7,10
+0,1,4,5,6,7,9,11	Raga Bhatiyar	8 notes	Harmonics.com	0,13,4,17,6,7,21,11,0,13,4,17,18,7,21,11
+0,1,3,6,8,10	Raga Bhavani	6 notes	Harmonics.com	0,13,3,6,20,10,0,13,3,18,20,10
+0,2,5,7,8,11	Raga Bhinna Pancama	6 notes	Harmonics.com	0,14,17,7,20,11
+0,4,5,9,11	Raga Bhinna Shadja,Hindolita	5 notes	Harmonics.com	0,4,17,21,11
+0,2,4,6,7,11	Raga Caturangini	6 notes	Harmonics.com	0,14,4,18,7,11,0,14,4,6,7,11
+0,1,2,6,7,9	Raga Chandrajyoti	6 notes	Harmonics.com	0,13,14,6,7,21,0,13,14,18,7,21
+0,3,5,9,10	Raga Chandrakauns Kafi,Surya	5 notes	Harmonics.com	0,3,17,21,10
+0,3,5,8,11	Raga Chandrakauns Kiravani	5 notes	Harmonics.com	0,3,17,20,11
+0,3,5,9,11	Raga Chandrakauns Moderne,Marga Hindola	5 notes	Harmonics.com	0,3,17,21,11
+0,1,3,5,8	Raga Chitthakarshini	5 notes	Harmonics.com	0,13,3,17,20
+0,2,3,6,7,8,9,10	Raga Cintamani	8 notes	Harmonics.com	0,14,3,6,7,20,21,10,0,14,3,18,7,20,21,10
 0,2,5,7,11	Raga Desh	5 notes	Harmonics.com	0,14,17,7,11
-0,1,7,8,11	Raga Deshgaur (Inde)	5 notes	Harmonics.com	0,13,7,20,11
-0,5,7,8,11	Raga Devaranjani (Inde)	5 notes	Harmonics.com	0,17,7,20,11
-0,1,4,6,7,8	Raga Dhavalangam (Inde)	6 notes	Harmonics.com	0,13,4,18,7,20,0,13,4,6,7,20
-0,4,6,7,9	Raga Dhavalashri (Inde)	5 notes	Harmonics.com	0,4,18,7,21,0,4,6,7,21
-0,2,4,5,6,7	Raga Dipak (Inde)	6 notes	Harmonics.com	0,14,4,17,18,7,0,14,4,17,6,7
+0,1,7,8,11	Raga Deshgaur	5 notes	Harmonics.com	0,13,7,20,11
+0,5,7,8,11	Raga Devaranjani	5 notes	Harmonics.com	0,17,7,20,11
+0,1,4,6,7,8	Raga Dhavalangam	6 notes	Harmonics.com	0,13,4,18,7,20,0,13,4,6,7,20
+0,4,6,7,9	Raga Dhavalashri	5 notes	Harmonics.com	0,4,18,7,21,0,4,6,7,21
+0,2,4,5,6,7	Raga Dipak	6 notes	Harmonics.com	0,14,4,17,18,7,0,14,4,17,6,7
 0,1,3,5,7,10	Raga Gandharavam	6 notes	Harmonics.com	0,13,3,17,7,10
-0,1,4,5,7,11	Raga Gaula (Inde)	6 notes	Harmonics.com	0,13,4,17,7,11
-0,1,5,7,11	Raga Gauri (Inde)	5 notes	Harmonics.com	0,13,17,7,11
-0,2,3,5,8,11	Raga Ghantana (Inde)	6 notes	Harmonics.com	0,14,3,17,20,11
-0,1,3,6,8,11	Raga Gujari Todi (Inde)	6 notes	Harmonics.com	0,13,3,6,20,11,0,13,3,18,20,11
-0,2,4,5,9,11	Raga Hamsa Vinodini (Inde)	6 notes	Harmonics.com	0,14,4,17,21,11
-0,2,4,7,11	Raga Hamsadhvani (Inde)	5 notes	Harmonics.com	0,14,4,7,11
-0,1,4,6,9,11	Raga Hamsanandi,Puriya (Inde)	6 notes	Harmonics.com	0,13,4,18,21,11,0,13,4,6,21,11
-0,3,6,8,10	Raga Harikauns (Inde) (Bémoles),Raga Harikauns (Inde) (Dièses)	5 notes	Harmonics.com	0,3,18,20,10,0,3,6,20,10
-0,1,4,6,8,9	Raga Hejjajji (Inde)	6 notes	Harmonics.com	0,13,4,6,20,21,0,13,4,18,20,21
-0,4,6,9,11	Raga Hindol (Inde)	5 notes	Harmonics.com	0,4,18,21,11,0,4,6,21,11
-0,2,6,7,8,10	Raga Jaganmohanam (Inde)	6 notes	Harmonics.com	0,14,18,7,20,10,0,14,6,7,20,10
-0,3,5,6,10	Raga Jayakauns (Inde)	5 notes	Harmonics.com	0,3,17,18,10,0,3,17,6,10
-0,1,5,7,9,11	Raga Jivantika (Inde)	6 notes	Harmonics.com	0,13,17,7,21,11
-0,3,6,7,10,11	Raga Jivantini,Gaurikriya (Inde)	6 notes	Harmonics.com	0,3,18,7,10,11,0,3,6,7,10,11
-0,4,6,7,8,10	Raga Jyoti (Inde)	6 notes	Harmonics.com	0,4,18,7,20,10,0,4,6,7,20,10
-0,1,4,7,8,10	Raga Kalagada (Inde)	6 notes	Harmonics.com	0,13,4,7,20,10
-0,1,5,7,8,9	Raga Kalakanthi (Inde)	6 notes	Harmonics.com	0,13,17,7,20,21
-0,1,4,5,7,9	Raga Kalavati,Ragamalini (Inde)	6 notes	Harmonics.com	0,13,4,17,7,21
-0,1,3,7,8,10	Raga Kashyapi (Inde)	6 notes	Harmonics.com	0,13,3,7,20,10
-0,4,5,9,10	Raga Khamaji Durga (Inde)	5 notes	Harmonics.com	0,4,17,21,10
-0,4,5,7,9,10	Raga Khamas,Baduhari (Inde)	6 notes	Harmonics.com	0,4,17,7,21,10
-0,3,5,7,8	Raga Kokil Pancham (Inde)	5 notes	Harmonics.com	0,3,17,7,20
-0,2,4,6,11	Raga Kumurdaki (Inde)	5 notes	Harmonics.com	0,14,4,18,11,0,14,4,6,11
+0,1,4,5,7,11	Raga Gaula	6 notes	Harmonics.com	0,13,4,17,7,11
+0,1,5,7,11	Raga Gauri	5 notes	Harmonics.com	0,13,17,7,11
+0,2,3,5,8,11	Raga Ghantana	6 notes	Harmonics.com	0,14,3,17,20,11
+0,1,3,6,8,11	Raga Gujari Todi	6 notes	Harmonics.com	0,13,3,6,20,11,0,13,3,18,20,11
+0,2,4,5,9,11	Raga Hamsa Vinodini	6 notes	Harmonics.com	0,14,4,17,21,11
+0,2,4,7,11	Raga Hamsadhvani	5 notes	Harmonics.com	0,14,4,7,11
+0,1,4,6,9,11	Raga Hamsanandi,Puriya	6 notes	Harmonics.com	0,13,4,18,21,11,0,13,4,6,21,11
+0,3,6,8,10	Raga Harikauns (Bémoles),Raga Harikauns (Dièses)	5 notes	Harmonics.com	0,3,18,20,10,0,3,6,20,10
+0,1,4,6,8,9	Raga Hejjajji	6 notes	Harmonics.com	0,13,4,6,20,21,0,13,4,18,20,21
+0,4,6,9,11	Raga Hindol	5 notes	Harmonics.com	0,4,18,21,11,0,4,6,21,11
+0,2,6,7,8,10	Raga Jaganmohanam	6 notes	Harmonics.com	0,14,18,7,20,10,0,14,6,7,20,10
+0,3,5,6,10	Raga Jayakauns	5 notes	Harmonics.com	0,3,17,18,10,0,3,17,6,10
+0,1,5,7,9,11	Raga Jivantika	6 notes	Harmonics.com	0,13,17,7,21,11
+0,3,6,7,10,11	Raga Jivantini,Gaurikriya	6 notes	Harmonics.com	0,3,18,7,10,11,0,3,6,7,10,11
+0,4,6,7,8,10	Raga Jyoti	6 notes	Harmonics.com	0,4,18,7,20,10,0,4,6,7,20,10
+0,1,4,7,8,10	Raga Kalagada	6 notes	Harmonics.com	0,13,4,7,20,10
+0,1,5,7,8,9	Raga Kalakanthi	6 notes	Harmonics.com	0,13,17,7,20,21
+0,1,4,5,7,9	Raga Kalavati,Ragamalini	6 notes	Harmonics.com	0,13,4,17,7,21
+0,1,3,7,8,10	Raga Kashyapi	6 notes	Harmonics.com	0,13,3,7,20,10
+0,4,5,9,10	Raga Khamaji Durga	5 notes	Harmonics.com	0,4,17,21,10
+0,4,5,7,9,10	Raga Khamas,Baduhari	6 notes	Harmonics.com	0,4,17,7,21,10
+0,3,5,7,8	Raga Kokil Pancham	5 notes	Harmonics.com	0,3,17,7,20
+0,2,4,6,11	Raga Kumurdaki	5 notes	Harmonics.com	0,14,4,18,11,0,14,4,6,11
 0,2,4,7,8,11	Raga Latika	6 notes	Harmonics.com	0,14,4,7,20,11
-0,3,6,7,9,10	Raga Madhakauns (Inde)	6 notes	Harmonics.com	0,3,18,7,21,10,0,3,6,7,21,10
+0,3,6,7,9,10	Raga Madhakauns	6 notes	Harmonics.com	0,3,18,7,21,10,0,3,6,7,21,10
 0,4,5,7,9,10,11	Raga Madhuri	7 notes	Harmonics.com	0,4,17,7,21,10,11
-0,1,4,5,7,8	Raga Malahari (Inde)	6 notes	Harmonics.com	0,13,4,17,7,20
-0,2,6,7,10,11	Raga Malarani (Inde)	6 notes	Harmonics.com	0,14,18,7,10,11,0,14,6,7,10,11
-0,1,4,7,9,10	Raga Malayamarutam (Inde)	6 notes	Harmonics.com	0,13,4,7,21,10
-0,4,7,9,11	Raga Mamata (Inde) Majeur 6e	5 notes	Harmonics.com	0,4,7,21,11
-0,1,4,7,10	Raga Manaranjani (Inde)	5 notes	Harmonics.com	0,13,4,7,10
-0,2,3,7,9,10	Raga Manavi (Inde)	6 notes	Harmonics.com	0,14,3,7,21,10
-0,4,5,7,9	Raga Mand (Inde)	5 notes	Harmonics.com	0,4,17,7,21
-0,1,4,6,7,11	Raga Mandari,Gamakakriya (Inde)	6 notes	Harmonics.com	0,13,4,18,7,11,0,13,4,6,7,11
-0,3,5,7,9,10	Raga Manohari (Inde)	6 notes	Harmonics.com	0,3,17,7,21,10
-0,2,7,9,10	Raga Matha Kokila (Inde)	5 notes	Harmonics.com	0,14,7,21,10
-0,2,5,7,10,11	Raga Megh (Inde)	6 notes	Harmonics.com	0,14,17,7,10,11
-0,1,4,5,8	Raga Megharanjani (Inde)	5 notes	Harmonics.com	0,13,4,17,20
-0,1,4,5,11	Raga Megharanji (Inde)	5 notes	Harmonics.com	0,13,4,17,11
-0,2,3,5,7,9,10,11	Raga Mian Ki Malhar,Bahar (Inde)	8 notes	Harmonics.com	0,14,3,17,7,21,10,11
-0,2,4,6,9,11	Raga Mrunganandana (Inde)	6 notes	Harmonics.com	0,14,4,18,21,11,0,14,4,6,21,11
-0,1,6,7,11	Raga Multani (Inde)	5 notes	Harmonics.com	0,13,18,7,11,0,13,6,7,11
-0,1,2,6,7	Raga Nabhomani (Inde)	5 notes	Harmonics.com	0,13,14,6,7,0,13,14,18,7
-0,2,5,7,9,11	Raga Nagagandhari (Inde)	6 notes	Harmonics.com	0,14,17,7,21,11
-0,2,4,5,7,11	Raga Nalinakanti,Kedaram (Inde)	6 notes	Harmonics.com	0,14,4,17,7,11
-0,3,4,5,7,9,10	Raga Nandkauns (Inde),Rock'n Roll	7 notes	Harmonics.com	0,3,4,17,7,21,10
-0,2,5,7,8,10	Raga Navamanohari (Inde)	6 notes	Harmonics.com	0,14,17,7,20,10
-0,2,6,7,9,11	Raga Nishadi (Inde)	6 notes	Harmonics.com	0,14,18,7,21,11,0,14,6,7,21,11
-0,1,5,7,8,11	Raga Padi (Inde)	6 notes	Harmonics.com	0,13,17,7,20,11
-0,4,5,7,8,11	Raga Paraju Simhavahini L'inde	6 notes	Harmonics.com	0,4,17,7,20,11
-0,1,5,7,8,10	Raga Phenadyuti (Inde)	6 notes	Harmonics.com	0,13,17,7,20,10
-0,2,5,8,11	Raga Priyadharshini (Inde)	5 notes	Harmonics.com	0,14,17,20,11
-0,5,7,9,11	Raga Puruhutika,Purvaholika (Inde)	5 notes	Harmonics.com	0,17,7,21,11
-0,2,4,5,9,10	Raga Rageshri,Nattaikurinji (Inde)	6 notes	Harmonics.com	0,14,4,17,21,10
-0,2,4,5,9,10,11	Raga Ragesri (Inde)	7 notes	Harmonics.com	0,14,4,17,21,10,11
-0,1,4,5,6,7,8,11	Raga Ramkali (Inde)	8 notes	Harmonics.com	0,13,4,17,6,7,20,11,0,13,4,17,18,7,20,11
-0,2,3,6,9,11	Raga Ranjani,Rangini (Inde)	6 notes	Harmonics.com	0,14,3,18,21,11,0,14,3,6,21,11
-0,3,4,6,7,11	Raga Rasamanjari (Inde)	6 notes	Harmonics.com	0,3,4,18,7,11,0,3,4,6,7,11
-0,1,5,7,9,10	Raga Rasavali (Inde)	6 notes	Harmonics.com	0,13,17,7,21,10
-0,2,5,9,11	Raga Rasranjani (Inde)	5 notes	Harmonics.com	0,14,17,21,11
-0,1,4,7,8	Raga Reva,Revagupti (Inde)	5 notes	Harmonics.com	0,13,4,7,20
-0,1,4,5,9,10	Raga Rudra Pancama (Inde)	6 notes	Harmonics.com	0,13,4,17,21,10
-0,1,3,7,9,10	Raga Salagavarali (Inde)	6 notes	Harmonics.com	0,13,3,7,21,10
-0,3,6,7,10	Raga Samudhra Priya (Inde),Raga Samudhra Priya (Inde)?	5 notes	Harmonics.com	0,3,18,7,10,0,3,6,7,10
-0,2,4,5,8,11	Raga Sarasanana (Inde)	6 notes	Harmonics.com	0,14,4,17,20,11
-0,2,6,7,9,10	Raga Sarasvati (Inde)	6 notes	Harmonics.com	0,14,18,7,21,10,0,14,6,7,21,10
-0,4,5,7,8,9	Raga Saravati (# 5) (Inde),Raga Saravati (B6) (Inde)	6 notes	Harmonics.com	0,4,17,7,20,21
-0,1,6,7,8	Raga Saugandhini,Yashranjani (Inde)	5 notes	Harmonics.com	0,13,6,7,20,0,13,18,7,20
-0,1,4,5,7,8,9,11	Raga Saurashtra (Inde)	8 notes	Harmonics.com	0,13,4,17,7,20,21,11
-0,3,7,8,10	Raga Shailaja (Inde)	5 notes	Harmonics.com	0,3,7,20,10
+0,1,4,5,7,8	Raga Malahari	6 notes	Harmonics.com	0,13,4,17,7,20
+0,2,6,7,10,11	Raga Malarani	6 notes	Harmonics.com	0,14,18,7,10,11,0,14,6,7,10,11
+0,1,4,7,9,10	Raga Malayamarutam	6 notes	Harmonics.com	0,13,4,7,21,10
+0,4,7,9,11	Raga Mamata Majeur 6e	5 notes	Harmonics.com	0,4,7,21,11
+0,1,4,7,10	Raga Manaranjani	5 notes	Harmonics.com	0,13,4,7,10
+0,2,3,7,9,10	Raga Manavi	6 notes	Harmonics.com	0,14,3,7,21,10
+0,4,5,7,9	Raga Mand	5 notes	Harmonics.com	0,4,17,7,21
+0,1,4,6,7,11	Raga Mandari,Gamakakriya	6 notes	Harmonics.com	0,13,4,18,7,11,0,13,4,6,7,11
+0,3,5,7,9,10	Raga Manohari	6 notes	Harmonics.com	0,3,17,7,21,10
+0,2,7,9,10	Raga Matha Kokila	5 notes	Harmonics.com	0,14,7,21,10
+0,2,5,7,10,11	Raga Megh	6 notes	Harmonics.com	0,14,17,7,10,11
+0,1,4,5,8	Raga Megharanjani	5 notes	Harmonics.com	0,13,4,17,20
+0,1,4,5,11	Raga Megharanji	5 notes	Harmonics.com	0,13,4,17,11
+0,2,3,5,7,9,10,11	Raga Mian Ki Malhar,Bahar	8 notes	Harmonics.com	0,14,3,17,7,21,10,11
+0,2,4,6,9,11	Raga Mrunganandana	6 notes	Harmonics.com	0,14,4,18,21,11,0,14,4,6,21,11
+0,1,6,7,11	Raga Multani	5 notes	Harmonics.com	0,13,18,7,11,0,13,6,7,11
+0,1,2,6,7	Raga Nabhomani	5 notes	Harmonics.com	0,13,14,6,7,0,13,14,18,7
+0,2,5,7,9,11	Raga Nagagandhari	6 notes	Harmonics.com	0,14,17,7,21,11
+0,2,4,5,7,11	Raga Nalinakanti,Kedaram	6 notes	Harmonics.com	0,14,4,17,7,11
+0,3,4,5,7,9,10	Raga Nandkauns,Rock'n Roll	7 notes	Harmonics.com	0,3,4,17,7,21,10
+0,2,5,7,8,10	Raga Navamanohari	6 notes	Harmonics.com	0,14,17,7,20,10
+0,2,6,7,9,11	Raga Nishadi	6 notes	Harmonics.com	0,14,18,7,21,11,0,14,6,7,21,11
+0,1,5,7,8,11	Raga Padi	6 notes	Harmonics.com	0,13,17,7,20,11
+0,4,5,7,8,11	Raga Paraju Simhavahini	6 notes	Harmonics.com	0,4,17,7,20,11
+0,1,5,7,8,10	Raga Phenadyuti	6 notes	Harmonics.com	0,13,17,7,20,10
+0,2,5,8,11	Raga Priyadharshini	5 notes	Harmonics.com	0,14,17,20,11
+0,5,7,9,11	Raga Puruhutika,Purvaholika	5 notes	Harmonics.com	0,17,7,21,11
+0,2,4,5,9,10	Raga Rageshri,Nattaikurinji	6 notes	Harmonics.com	0,14,4,17,21,10
+0,2,4,5,9,10,11	Raga Ragesri	7 notes	Harmonics.com	0,14,4,17,21,10,11
+0,1,4,5,6,7,8,11	Raga Ramkali	8 notes	Harmonics.com	0,13,4,17,6,7,20,11,0,13,4,17,18,7,20,11
+0,2,3,6,9,11	Raga Ranjani,Rangini	6 notes	Harmonics.com	0,14,3,18,21,11,0,14,3,6,21,11
+0,3,4,6,7,11	Raga Rasamanjari	6 notes	Harmonics.com	0,3,4,18,7,11,0,3,4,6,7,11
+0,1,5,7,9,10	Raga Rasavali	6 notes	Harmonics.com	0,13,17,7,21,10
+0,2,5,9,11	Raga Rasranjani	5 notes	Harmonics.com	0,14,17,21,11
+0,1,4,7,8	Raga Reva,Revagupti	5 notes	Harmonics.com	0,13,4,7,20
+0,1,4,5,9,10	Raga Rudra Pancama	6 notes	Harmonics.com	0,13,4,17,21,10
+0,1,3,7,9,10	Raga Salagavarali	6 notes	Harmonics.com	0,13,3,7,21,10
+0,3,6,7,10	Raga Samudhra Priya,Raga Samudhra Priya?	5 notes	Harmonics.com	0,3,18,7,10,0,3,6,7,10
+0,2,4,5,8,11	Raga Sarasanana	6 notes	Harmonics.com	0,14,4,17,20,11
+0,2,6,7,9,10	Raga Sarasvati	6 notes	Harmonics.com	0,14,18,7,21,10,0,14,6,7,21,10
+0,4,5,7,8,9	Raga Saravati (# 5),Raga Saravati (B6)	6 notes	Harmonics.com	0,4,17,7,20,21
+0,1,6,7,8	Raga Saugandhini,Yashranjani	5 notes	Harmonics.com	0,13,6,7,20,0,13,18,7,20
+0,1,4,5,7,8,9,11	Raga Saurashtra	8 notes	Harmonics.com	0,13,4,17,7,20,21,11
+0,3,7,8,10	Raga Shailaja	5 notes	Harmonics.com	0,3,7,20,10
 0,2,6,7,9	Raga Shri Kalyan	5 notes	Harmonics.com	0,14,6,7,21,0,14,18,7,21
-0,2,6,9,11	Raga Shubravarni (Inde)	5 notes	Harmonics.com	0,14,6,21,11,0,14,18,21,11
-0,2,3,6,7,10	Raga Simharava (Inde)	6 notes	Harmonics.com	0,14,3,18,7,10,0,14,3,6,7,10
-0,2,3,5,7,11	Raga Sindhura Kafi (Inde)	6 notes	Harmonics.com	0,14,3,17,7,11
-0,2,4,5,7,10	Raga Siva Kambhoji,Vivardhini (Inde)	6 notes	Harmonics.com	0,14,4,17,7,10
-0,1,4,5,8,11	Raga Sohini (Inde)	6 notes	Harmonics.com	0,13,4,17,20,11
-0,2,5,7,9,10,11	Raga Sorati (Inde)	7 notes	Harmonics.com	0,14,17,7,21,10,11
-0,1,2,5,8,9	Raga Suddha Mukhari (Inde)	6 notes	Harmonics.com	0,13,14,17,20,21
-0,2,3,6,7,8	Raga Syamalam (Inde)	6 notes	Harmonics.com	0,14,3,18,7,20,0,14,3,6,7,20
-0,3,5,7,8,11	Raga Takka (Inde)	6 notes	Harmonics.com	0,3,17,7,20,11
-0,4,5,7,10,11	Raga Tilang,Savitri (Inde)	6 notes	Harmonics.com	0,4,17,7,10,11
+0,2,6,9,11	Raga Shubravarni	5 notes	Harmonics.com	0,14,6,21,11,0,14,18,21,11
+0,2,3,6,7,10	Raga Simharava	6 notes	Harmonics.com	0,14,3,18,7,10,0,14,3,6,7,10
+0,2,3,5,7,11	Raga Sindhura Kafi	6 notes	Harmonics.com	0,14,3,17,7,11
+0,2,4,5,7,10	Raga Siva Kambhoji,Vivardhini	6 notes	Harmonics.com	0,14,4,17,7,10
+0,1,4,5,8,11	Raga Sohini	6 notes	Harmonics.com	0,13,4,17,20,11
+0,2,5,7,9,10,11	Raga Sorati	7 notes	Harmonics.com	0,14,17,7,21,10,11
+0,1,2,5,8,9	Raga Suddha Mukhari	6 notes	Harmonics.com	0,13,14,17,20,21
+0,2,3,6,7,8	Raga Syamalam	6 notes	Harmonics.com	0,14,3,18,7,20,0,14,3,6,7,20
+0,3,5,7,8,11	Raga Takka	6 notes	Harmonics.com	0,3,17,7,20,11
+0,4,5,7,10,11	Raga Tilang,Savitri	6 notes	Harmonics.com	0,4,17,7,10,11
 0,2,3,7,8,10	Raga Trimurti	6 notes	Harmonics.com	0,14,3,7,20,10
-0,2,6,7,11	Raga Vaijayanti (Inde)	5 notes	Harmonics.com	0,14,18,7,11,0,14,6,7,11
-0,4,7,9,10	Raga Valaji (Inde)	5 notes	Harmonics.com	0,4,7,21,10
-0,1,4,5,9,11	Raga Vasanta,Chayavati (Inde)	6 notes	Harmonics.com	0,13,4,17,21,11
+0,2,6,7,11	Raga Vaijayanti	5 notes	Harmonics.com	0,14,18,7,11,0,14,6,7,11
+0,4,7,9,10	Raga Valaji	5 notes	Harmonics.com	0,4,7,21,10
+0,1,4,5,9,11	Raga Vasanta,Chayavati	6 notes	Harmonics.com	0,13,4,17,21,11
 0,1,4,5,8,10	Raga Vasantabhairavi	6 notes	Harmonics.com	0,13,4,17,20,10
-0,1,2,6,7,11	Raga Vijayasri (Inde)	6 notes	Harmonics.com	0,13,14,18,7,11,0,13,14,6,7,11
-0,4,6,7,10,11	Raga Vijayavasanta (Inde)	6 notes	Harmonics.com	0,4,18,7,10,11,0,4,6,7,10,11
+0,1,2,6,7,11	Raga Vijayasri	6 notes	Harmonics.com	0,13,14,18,7,11,0,13,14,6,7,11
+0,4,6,7,10,11	Raga Vijayavasanta	6 notes	Harmonics.com	0,4,18,7,10,11,0,4,6,7,10,11
 0,1,3,5,8,11	Raga Viyogavarali	6 notes	Harmonics.com	0,13,3,17,20,11
-0,4,6,7,9,10	Raga Vutari (Inde)	6 notes	Harmonics.com	0,4,18,7,21,10,0,4,6,7,21,10
-0,4,5,7,8	Raga Zilaf (Inde)	5 notes	Harmonics.com	0,4,17,7,20
+0,4,6,7,9,10	Raga Vutari	6 notes	Harmonics.com	0,4,18,7,21,10,0,4,6,7,21,10
+0,4,5,7,8	Raga Zilaf	5 notes	Harmonics.com	0,4,17,7,20
 0,1,3,5,8,10	Ritsu	6 notes	Harmonics.com	0,13,3,17,20,10
 0,4,5,8,11	Roumaine Bacovia	5 notes	Harmonics.com	0,4,17,20,11
 0,1,4,6,7,9,10	Roumaine Majeure,Purvi Bvii	7 notes	Harmonics.com	0,13,4,18,7,21,10,0,13,4,6,7,21,10
@@ -346,6 +346,6 @@ code	name	category	source	dualo_code
 0,3,4,5,6,8,10	Espagnole Heptatonique	7 notes	Harmonics.com	0,3,4,17,18,20,10,0,3,4,17,6,20,10
 0,2,3,6,8,10	Takemitsu Tree Line Mode 2	6 notes	Harmonics.com	0,14,3,6,20,10,0,14,3,18,20,10
 0,2,3,6,8,11	Takemitsu Tree Line Mode 1	6 notes	Harmonics.com	0,14,3,6,20,11,0,14,3,18,20,11
-0,1,3,6,7,9,10	Todi Bvii Mela Sadvidhamargini (Inde)	7 notes	Harmonics.com	0,13,3,18,7,21,10,0,13,3,6,7,21,10
-0,2,3,5,7,8,10,11	Utility Minor,Raga Suha (Inde),Grégorien 4	8 notes	Harmonics.com	0,14,3,17,7,20,10,11
+0,1,3,6,7,9,10	Todi Bvii Mela Sadvidhamargini	7 notes	Harmonics.com	0,13,3,18,7,21,10,0,13,3,6,7,21,10
+0,2,3,5,7,8,10,11	Utility Minor,Raga Suha,Grégorien 4	8 notes	Harmonics.com	0,14,3,17,7,20,10,11
 0,2,3,5,7,8,9,11	Zirafkend (Arabie)	8 notes	Harmonics.com	0,14,3,17,7,20,21,11

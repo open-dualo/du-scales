@@ -106,7 +106,7 @@ var data = {
           ],
           "name": [
             "Chinoise (Deuxième Forme)",
-            "Raga Malashri (Inde)",
+            "Raga Malashri",
             "Chinois"
           ],
           "category": "5 notes",
@@ -143,7 +143,7 @@ var data = {
             "Chinoise (Première Forme)",
             "Pentatonique 4",
             "Zhi (Chine)",
-            "Raga Devakriya (Inde)",
+            "Raga Devakriya",
             "Ujo (Corée)",
             "Exemple De Slendro",
             "Ritusen Japon",
@@ -449,7 +449,7 @@ var data = {
           "name": [
             "Minyo",
             "Raga Nata",
-            "Madhuranjani (Inde)"
+            "Madhuranjani"
           ],
           "category": "5 notes",
           "source": [
@@ -622,8 +622,8 @@ var data = {
             "Raga Malkauns",
             "1 # Blues Pentatonique Mineur De 2b",
             "Hard Japon Déscendant",
-            "Dur Japon Descendent",
-            "Hard Japon Déscendant 3 # 's"
+            "Hard Japan Descendent",
+            "Hard Japan Déscendant 3 # 's"
           ],
           "category": "5 notes",
           "source": [
@@ -728,7 +728,7 @@ var data = {
           "name": [
             "Pentatonique Harmonique",
             "Raga Bhupeshwari",
-            "Janasammodini (Inde)"
+            "Janasammodini"
           ],
           "category": "5 notes",
           "source": [
@@ -784,7 +784,7 @@ var data = {
           ],
           "name": [
             "Pentatonique Locrien (Deuxième Forme)",
-            "Raga Chhaya Todi (Inde)"
+            "Raga Chhaya Todi"
           ],
           "category": "5 notes",
           "source": [
@@ -858,7 +858,7 @@ var data = {
             "Raga Bhopali",
             "Mohanam",
             "Deskar",
-            "Bilahari (Inde)"
+            "Bilahari"
           ],
           "category": "5 notes",
           "source": [
@@ -888,7 +888,7 @@ var data = {
           "name": [
             "Pentatonique Mauritanienne",
             "Ionien Pentatonique",
-            "Raga Gambhiranata (Inde)"
+            "Raga Gambhiranata"
           ],
           "category": "5 notes",
           "source": [
@@ -1033,7 +1033,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Audva Tukhari (Inde)"
+            "Raga Audva Tukhari"
           ],
           "category": "5 notes",
           "source": [
@@ -1059,7 +1059,7 @@ var data = {
           ],
           "name": [
             "Raga Bhinna Shadja",
-            "Hindolita (Inde)"
+            "Hindolita"
           ],
           "category": "5 notes",
           "source": [
@@ -1085,7 +1085,7 @@ var data = {
           ],
           "name": [
             "Raga Chandrakauns Kafi",
-            "Surya (Inde)"
+            "Surya"
           ],
           "category": "5 notes",
           "source": [
@@ -1110,7 +1110,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Chandrakauns Kiravani (Inde)"
+            "Raga Chandrakauns Kiravani"
           ],
           "category": "5 notes",
           "source": [
@@ -1135,7 +1135,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Chandrakauns Moderne (Inde)",
+            "Raga Chandrakauns Moderne",
             "Marga Hindola"
           ],
           "category": "5 notes",
@@ -1161,7 +1161,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Chitthakarshini (Inde)"
+            "Raga Chitthakarshini"
           ],
           "category": "5 notes",
           "source": [
@@ -1211,7 +1211,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Deshgaur (Inde)"
+            "Raga Deshgaur"
           ],
           "category": "5 notes",
           "source": [
@@ -1236,7 +1236,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Devaranjani (Inde)"
+            "Raga Devaranjani"
           ],
           "category": "5 notes",
           "source": [
@@ -1261,7 +1261,7 @@ var data = {
             9
           ],
           "name": [
-            "Raga Dhavalashri (Inde)"
+            "Raga Dhavalashri"
           ],
           "category": "5 notes",
           "source": [
@@ -1293,7 +1293,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Gauri (Inde)"
+            "Raga Gauri"
           ],
           "category": "5 notes",
           "source": [
@@ -1318,7 +1318,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Hamsadhvani (Inde)"
+            "Raga Hamsadhvani"
           ],
           "category": "5 notes",
           "source": [
@@ -1343,8 +1343,8 @@ var data = {
             10
           ],
           "name": [
-            "Raga Harikauns (Inde) (Bémoles)",
-            "Raga Harikauns (Inde) (Dièses)"
+            "Raga Harikauns (Bémoles)",
+            "Raga Harikauns (Dièses)"
           ],
           "category": "5 notes",
           "source": [
@@ -1376,7 +1376,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Hindol (Inde)"
+            "Raga Hindol"
           ],
           "category": "5 notes",
           "source": [
@@ -1408,7 +1408,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Jayakauns (Inde)"
+            "Raga Jayakauns"
           ],
           "category": "5 notes",
           "source": [
@@ -1440,7 +1440,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Khamaji Durga (Inde)"
+            "Raga Khamaji Durga"
           ],
           "category": "5 notes",
           "source": [
@@ -1465,7 +1465,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Kokil Pancham (Inde)"
+            "Raga Kokil Pancham"
           ],
           "category": "5 notes",
           "source": [
@@ -1490,7 +1490,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Kumurdaki (Inde)"
+            "Raga Kumurdaki"
           ],
           "category": "5 notes",
           "source": [
@@ -1522,7 +1522,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Mamata (Inde) Majeur 6e"
+            "Raga Mamata Majeur 6e"
           ],
           "category": "5 notes",
           "source": [
@@ -1547,7 +1547,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Manaranjani (Inde)"
+            "Raga Manaranjani"
           ],
           "category": "5 notes",
           "source": [
@@ -1572,7 +1572,7 @@ var data = {
             9
           ],
           "name": [
-            "Raga Mand (Inde)"
+            "Raga Mand"
           ],
           "category": "5 notes",
           "source": [
@@ -1597,7 +1597,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Matha Kokila (Inde)"
+            "Raga Matha Kokila"
           ],
           "category": "5 notes",
           "source": [
@@ -1622,7 +1622,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Megharanjani (Inde)"
+            "Raga Megharanjani"
           ],
           "category": "5 notes",
           "source": [
@@ -1647,7 +1647,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Megharanji (Inde)"
+            "Raga Megharanji"
           ],
           "category": "5 notes",
           "source": [
@@ -1672,7 +1672,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Multani (Inde)"
+            "Raga Multani"
           ],
           "category": "5 notes",
           "source": [
@@ -1704,7 +1704,7 @@ var data = {
             7
           ],
           "name": [
-            "Raga Nabhomani (Inde)"
+            "Raga Nabhomani"
           ],
           "category": "5 notes",
           "source": [
@@ -1736,7 +1736,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Priyadharshini (Inde)"
+            "Raga Priyadharshini"
           ],
           "category": "5 notes",
           "source": [
@@ -1762,7 +1762,7 @@ var data = {
           ],
           "name": [
             "Raga Puruhutika",
-            "Purvaholika (Inde)"
+            "Purvaholika"
           ],
           "category": "5 notes",
           "source": [
@@ -1787,7 +1787,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Rasranjani (Inde)"
+            "Raga Rasranjani"
           ],
           "category": "5 notes",
           "source": [
@@ -1813,7 +1813,7 @@ var data = {
           ],
           "name": [
             "Raga Reva",
-            "Revagupti (Inde)"
+            "Revagupti"
           ],
           "category": "5 notes",
           "source": [
@@ -1838,8 +1838,8 @@ var data = {
             10
           ],
           "name": [
-            "Raga Samudhra Priya (Inde)",
-            "Raga Samudhra Priya (Inde)?"
+            "Raga Samudhra Priya",
+            "Raga Samudhra Priya?"
           ],
           "category": "5 notes",
           "source": [
@@ -1872,7 +1872,7 @@ var data = {
           ],
           "name": [
             "Raga Saugandhini",
-            "Yashranjani (Inde)"
+            "Yashranjani"
           ],
           "category": "5 notes",
           "source": [
@@ -1904,7 +1904,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Shailaja (Inde)"
+            "Raga Shailaja"
           ],
           "category": "5 notes",
           "source": [
@@ -1961,7 +1961,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Shubravarni (Inde)"
+            "Raga Shubravarni"
           ],
           "category": "5 notes",
           "source": [
@@ -1993,7 +1993,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Vaijayanti (Inde)"
+            "Raga Vaijayanti"
           ],
           "category": "5 notes",
           "source": [
@@ -2025,7 +2025,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Valaji (Inde)"
+            "Raga Valaji"
           ],
           "category": "5 notes",
           "source": [
@@ -2050,7 +2050,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Zilaf (Inde)"
+            "Raga Zilaf"
           ],
           "category": "5 notes",
           "source": [
@@ -2172,7 +2172,7 @@ var data = {
           ],
           "name": [
             "Bitonal Mineur Chromatique",
-            "Raga Amarasenapriya (Inde)"
+            "Raga Amarasenapriya"
           ],
           "category": "6 notes",
           "source": [
@@ -2679,7 +2679,7 @@ var data = {
           ],
           "name": [
             "Hexa-mélodique",
-            "Raga Suddha Bangala (Inde)"
+            "Raga Suddha Bangala"
           ],
           "category": "6 notes",
           "source": [
@@ -2708,7 +2708,7 @@ var data = {
           ],
           "name": [
             "Hexa-phrygien",
-            "Raga Simantini (Inde)"
+            "Raga Simantini"
           ],
           "category": "6 notes",
           "source": [
@@ -2764,7 +2764,7 @@ var data = {
           ],
           "name": [
             "Hexa-tritonique Diminué",
-            "Raga Neelangi (Inde)"
+            "Raga Neelangi"
           ],
           "category": "6 notes",
           "source": [
@@ -2910,7 +2910,7 @@ var data = {
           ],
           "name": [
             "Indoustane",
-            "Raga Kamalamanohari (Inde)"
+            "Raga Kamalamanohari"
           ],
           "category": "6 notes",
           "source": [
@@ -3184,7 +3184,7 @@ var data = {
             "Yosen (Japon)",
             "Raga Darbar",
             "Narayani",
-            "Suposhini (Inde)"
+            "Suposhini"
           ],
           "category": "6 notes",
           "source": [
@@ -3419,7 +3419,7 @@ var data = {
           "name": [
             "Raga Bagesri",
             "Sriranjani",
-            "Kapijingla (Inde)"
+            "Kapijingla"
           ],
           "category": "6 notes",
           "source": [
@@ -3446,7 +3446,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Bauli (Inde)"
+            "Raga Bauli"
           ],
           "category": "6 notes",
           "source": [
@@ -3473,7 +3473,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Bhanumanjari (Inde)"
+            "Raga Bhanumanjari"
           ],
           "category": "6 notes",
           "source": [
@@ -3500,7 +3500,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Bhavani (Inde)"
+            "Raga Bhavani"
           ],
           "category": "6 notes",
           "source": [
@@ -3535,7 +3535,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Bhinna Pancama (Inde)"
+            "Raga Bhinna Pancama"
           ],
           "category": "6 notes",
           "source": [
@@ -3562,7 +3562,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Caturangini (Inde)"
+            "Raga Caturangini"
           ],
           "category": "6 notes",
           "source": [
@@ -3597,7 +3597,7 @@ var data = {
             9
           ],
           "name": [
-            "Raga Chandrajyoti (Inde)"
+            "Raga Chandrajyoti"
           ],
           "category": "6 notes",
           "source": [
@@ -3632,7 +3632,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Dhavalangam (Inde)"
+            "Raga Dhavalangam"
           ],
           "category": "6 notes",
           "source": [
@@ -3667,7 +3667,7 @@ var data = {
             7
           ],
           "name": [
-            "Raga Dipak (Inde)"
+            "Raga Dipak"
           ],
           "category": "6 notes",
           "source": [
@@ -3729,7 +3729,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Gaula (Inde)"
+            "Raga Gaula"
           ],
           "category": "6 notes",
           "source": [
@@ -3756,7 +3756,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Ghantana (Inde)"
+            "Raga Ghantana"
           ],
           "category": "6 notes",
           "source": [
@@ -3783,7 +3783,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Gujari Todi (Inde)"
+            "Raga Gujari Todi"
           ],
           "category": "6 notes",
           "source": [
@@ -3818,7 +3818,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Hamsa Vinodini (Inde)"
+            "Raga Hamsa Vinodini"
           ],
           "category": "6 notes",
           "source": [
@@ -3846,7 +3846,7 @@ var data = {
           ],
           "name": [
             "Raga Hamsanandi",
-            "Puriya (Inde)"
+            "Puriya"
           ],
           "category": "6 notes",
           "source": [
@@ -3881,7 +3881,7 @@ var data = {
             9
           ],
           "name": [
-            "Raga Hejjajji (Inde)"
+            "Raga Hejjajji"
           ],
           "category": "6 notes",
           "source": [
@@ -3916,7 +3916,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Jaganmohanam (Inde)"
+            "Raga Jaganmohanam"
           ],
           "category": "6 notes",
           "source": [
@@ -3951,7 +3951,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Jivantika (Inde)"
+            "Raga Jivantika"
           ],
           "category": "6 notes",
           "source": [
@@ -3979,7 +3979,7 @@ var data = {
           ],
           "name": [
             "Raga Jivantini",
-            "Gaurikriya (Inde)"
+            "Gaurikriya"
           ],
           "category": "6 notes",
           "source": [
@@ -4014,7 +4014,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Jyoti (Inde)"
+            "Raga Jyoti"
           ],
           "category": "6 notes",
           "source": [
@@ -4049,7 +4049,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Kalagada (Inde)"
+            "Raga Kalagada"
           ],
           "category": "6 notes",
           "source": [
@@ -4076,7 +4076,7 @@ var data = {
             9
           ],
           "name": [
-            "Raga Kalakanthi (Inde)"
+            "Raga Kalakanthi"
           ],
           "category": "6 notes",
           "source": [
@@ -4104,7 +4104,7 @@ var data = {
           ],
           "name": [
             "Raga Kalavati",
-            "Ragamalini (Inde)"
+            "Ragamalini"
           ],
           "category": "6 notes",
           "source": [
@@ -4131,7 +4131,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Kashyapi (Inde)"
+            "Raga Kashyapi"
           ],
           "category": "6 notes",
           "source": [
@@ -4159,7 +4159,7 @@ var data = {
           ],
           "name": [
             "Raga Khamas",
-            "Baduhari (Inde)"
+            "Baduhari"
           ],
           "category": "6 notes",
           "source": [
@@ -4213,7 +4213,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Madhakauns (Inde)"
+            "Raga Madhakauns"
           ],
           "category": "6 notes",
           "source": [
@@ -4248,7 +4248,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Malahari (Inde)"
+            "Raga Malahari"
           ],
           "category": "6 notes",
           "source": [
@@ -4275,7 +4275,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Malarani (Inde)"
+            "Raga Malarani"
           ],
           "category": "6 notes",
           "source": [
@@ -4310,7 +4310,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Malayamarutam (Inde)"
+            "Raga Malayamarutam"
           ],
           "category": "6 notes",
           "source": [
@@ -4337,7 +4337,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Manavi (Inde)"
+            "Raga Manavi"
           ],
           "category": "6 notes",
           "source": [
@@ -4365,7 +4365,7 @@ var data = {
           ],
           "name": [
             "Raga Mandari",
-            "Gamakakriya (Inde)"
+            "Gamakakriya"
           ],
           "category": "6 notes",
           "source": [
@@ -4400,7 +4400,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Manohari (Inde)"
+            "Raga Manohari"
           ],
           "category": "6 notes",
           "source": [
@@ -4427,7 +4427,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Megh (Inde)"
+            "Raga Megh"
           ],
           "category": "6 notes",
           "source": [
@@ -4454,7 +4454,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Mrunganandana (Inde)"
+            "Raga Mrunganandana"
           ],
           "category": "6 notes",
           "source": [
@@ -4489,7 +4489,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Nagagandhari (Inde)"
+            "Raga Nagagandhari"
           ],
           "category": "6 notes",
           "source": [
@@ -4517,7 +4517,7 @@ var data = {
           ],
           "name": [
             "Raga Nalinakanti",
-            "Kedaram (Inde)"
+            "Kedaram"
           ],
           "category": "6 notes",
           "source": [
@@ -4544,7 +4544,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Navamanohari (Inde)"
+            "Raga Navamanohari"
           ],
           "category": "6 notes",
           "source": [
@@ -4571,7 +4571,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Nishadi (Inde)"
+            "Raga Nishadi"
           ],
           "category": "6 notes",
           "source": [
@@ -4606,7 +4606,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Padi (Inde)"
+            "Raga Padi"
           ],
           "category": "6 notes",
           "source": [
@@ -4633,7 +4633,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Paraju Simhavahini L'inde"
+            "Raga Paraju Simhavahini"
           ],
           "category": "6 notes",
           "source": [
@@ -4660,7 +4660,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Phenadyuti (Inde)"
+            "Raga Phenadyuti"
           ],
           "category": "6 notes",
           "source": [
@@ -4688,7 +4688,7 @@ var data = {
           ],
           "name": [
             "Raga Rageshri",
-            "Nattaikurinji (Inde)"
+            "Nattaikurinji"
           ],
           "category": "6 notes",
           "source": [
@@ -4716,7 +4716,7 @@ var data = {
           ],
           "name": [
             "Raga Ranjani",
-            "Rangini (Inde)"
+            "Rangini"
           ],
           "category": "6 notes",
           "source": [
@@ -4751,7 +4751,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Rasamanjari (Inde)"
+            "Raga Rasamanjari"
           ],
           "category": "6 notes",
           "source": [
@@ -4786,7 +4786,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Rasavali (Inde)"
+            "Raga Rasavali"
           ],
           "category": "6 notes",
           "source": [
@@ -4813,7 +4813,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Rudra Pancama (Inde)"
+            "Raga Rudra Pancama"
           ],
           "category": "6 notes",
           "source": [
@@ -4840,7 +4840,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Salagavarali (Inde)"
+            "Raga Salagavarali"
           ],
           "category": "6 notes",
           "source": [
@@ -4867,7 +4867,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Sarasanana (Inde)"
+            "Raga Sarasanana"
           ],
           "category": "6 notes",
           "source": [
@@ -4894,7 +4894,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Sarasvati (Inde)"
+            "Raga Sarasvati"
           ],
           "category": "6 notes",
           "source": [
@@ -4929,8 +4929,8 @@ var data = {
             9
           ],
           "name": [
-            "Raga Saravati (# 5) (Inde)",
-            "Raga Saravati (B6) (Inde)"
+            "Raga Saravati (# 5)",
+            "Raga Saravati (B6)"
           ],
           "category": "6 notes",
           "source": [
@@ -4957,7 +4957,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Simharava (Inde)"
+            "Raga Simharava"
           ],
           "category": "6 notes",
           "source": [
@@ -4992,7 +4992,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Sindhura Kafi (Inde)"
+            "Raga Sindhura Kafi"
           ],
           "category": "6 notes",
           "source": [
@@ -5020,7 +5020,7 @@ var data = {
           ],
           "name": [
             "Raga Siva Kambhoji",
-            "Vivardhini (Inde)"
+            "Vivardhini"
           ],
           "category": "6 notes",
           "source": [
@@ -5047,7 +5047,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Sohini (Inde)"
+            "Raga Sohini"
           ],
           "category": "6 notes",
           "source": [
@@ -5074,7 +5074,7 @@ var data = {
             9
           ],
           "name": [
-            "Raga Suddha Mukhari (Inde)"
+            "Raga Suddha Mukhari"
           ],
           "category": "6 notes",
           "source": [
@@ -5101,7 +5101,7 @@ var data = {
             8
           ],
           "name": [
-            "Raga Syamalam (Inde)"
+            "Raga Syamalam"
           ],
           "category": "6 notes",
           "source": [
@@ -5136,7 +5136,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Takka (Inde)"
+            "Raga Takka"
           ],
           "category": "6 notes",
           "source": [
@@ -5164,7 +5164,7 @@ var data = {
           ],
           "name": [
             "Raga Tilang",
-            "Savitri (Inde)"
+            "Savitri"
           ],
           "category": "6 notes",
           "source": [
@@ -5219,7 +5219,7 @@ var data = {
           ],
           "name": [
             "Raga Vasanta",
-            "Chayavati (Inde)"
+            "Chayavati"
           ],
           "category": "6 notes",
           "source": [
@@ -5273,7 +5273,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Vijayasri (Inde)"
+            "Raga Vijayasri"
           ],
           "category": "6 notes",
           "source": [
@@ -5308,7 +5308,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Vijayavasanta (Inde)"
+            "Raga Vijayavasanta"
           ],
           "category": "6 notes",
           "source": [
@@ -5370,7 +5370,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Vutari (Inde)"
+            "Raga Vutari"
           ],
           "category": "6 notes",
           "source": [
@@ -5506,7 +5506,7 @@ var data = {
             "Ton-par-ton",
             "Auxiliaire Augmentée",
             "Messiaen 1er Mode",
-            "Raga Gopriya (Inde)",
+            "Raga Gopriya",
             "Anhémitonique Hexatonique"
           ],
           "category": "6 notes",
@@ -5546,7 +5546,7 @@ var data = {
           ],
           "name": [
             "Tritone",
-            "Raga Indupriya (Inde)",
+            "Raga Indupriya",
             "Petrouchka Chord"
           ],
           "category": "6 notes",
@@ -5717,7 +5717,7 @@ var data = {
             "Aeolien Mineur Naturel",
             "Asavari Asc Nats. A À G",
             "Grégorien 2",
-            "Assari Thaat (Inde)",
+            "Assari Thaat",
             "Se (Chine)",
             "Kitmun (Sumérienne)"
           ],
@@ -5803,8 +5803,8 @@ var data = {
             "Acoustique",
             "Lydien B7",
             "Hindi #Iv & Bvii",
-            "Mela Vacaspati (Inde)",
-            "Raga Bhusavati (Inde)",
+            "Mela Vacaspati",
+            "Raga Bhusavati",
             "Lydien Mixolydien"
           ],
           "category": "7 notes",
@@ -5913,7 +5913,7 @@ var data = {
             11
           ],
           "name": [
-            "Bhairubahar Thaat (Inde)"
+            "Bhairubahar Thaat"
           ],
           "category": "7 notes",
           "source": [
@@ -6204,7 +6204,7 @@ var data = {
             "Dorien",
             "Kafi D À C Asc. Naturals",
             "Eskimo Heptatonique (Amérique Du Nord)",
-            "Kafi Thaat (Inde)",
+            "Kafi Thaat",
             "Embulum (Sumérienne)"
           ],
           "category": "7 notes",
@@ -6276,7 +6276,7 @@ var data = {
           ],
           "name": [
             "Dorien Chromatique",
-            "Raga Kanakambari (Inde)"
+            "Raga Kanakambari"
           ],
           "category": "7 notes",
           "source": [
@@ -6306,7 +6306,7 @@ var data = {
           ],
           "name": [
             "Dorien Chromatique Inverse",
-            "Raga None (Inde)"
+            "Raga None"
           ],
           "category": "7 notes",
           "source": [
@@ -6528,8 +6528,8 @@ var data = {
           ],
           "name": [
             "Exemple De Pelog",
-            "Mela Latangi (Inde)",
-            "Mela Latangi (Inde) (B6)"
+            "Mela Latangi",
+            "Mela Latangi (B6)"
           ],
           "category": "7 notes",
           "source": [
@@ -6608,9 +6608,9 @@ var data = {
             "Flamenco",
             "Hongroise Folk",
             "Byzantine Majeur Gypsy",
-            "Bhairav ​​thaat (Inde)",
-            "Mela Mayamalavagaula (Inde)",
-            "Raga Paraj (Inde)",
+            "Bhairav ​​thaat",
+            "Mela Mayamalavagaula",
+            "Raga Paraj",
             "Hitzazkiar (Grèce)"
           ],
           "category": "7 notes",
@@ -6677,8 +6677,8 @@ var data = {
             "Mélodique Mixolydien",
             "Majeur Mineur",
             "Hindoue Bvi & Bvii",
-            "Mela Carukesi (Inde)",
-            "Raga Tarangini (Inde)"
+            "Mela Carukesi",
+            "Raga Tarangini"
           ],
           "category": "7 notes",
           "source": [
@@ -6713,7 +6713,7 @@ var data = {
             "Gypsy Hongroise",
             "Gypsy",
             "Gypsy Hongrois",
-            "Mela Sanmukhapriya (Inde)",
+            "Mela Sanmukhapriya",
             "Damian Emmanuel"
           ],
           "category": "7 notes",
@@ -6756,7 +6756,7 @@ var data = {
           ],
           "name": [
             "Hongroise Majeure",
-            "Raga Nasamani (Inde)"
+            "Raga Nasamani"
           ],
           "category": "7 notes",
           "source": [
@@ -6844,7 +6844,7 @@ var data = {
           "name": [
             "Houzam (Grèce)",
             "Raga Saildesakshi",
-            "Trishuli (Inde)"
+            "Trishuli"
           ],
           "category": "7 notes",
           "source": [
@@ -7476,8 +7476,8 @@ var data = {
             "Lydien Diminué",
             "Raga Dumyaraga",
             "Madhuvanti",
-            "Ambika (Inde)",
-            "Mela Nitimati (Inde)"
+            "Ambika",
+            "Mela Nitimati"
           ],
           "category": "7 notes",
           "source": [
@@ -7517,7 +7517,7 @@ var data = {
           "name": [
             "Lydien Mineur",
             "Stravinski",
-            "Raga Ratipriya (Inde)"
+            "Raga Ratipriya"
           ],
           "category": "7 notes",
           "source": [
@@ -7556,7 +7556,7 @@ var data = {
           ],
           "name": [
             "Majeur Bebop Heptatonique",
-            "Mela Mararanjani (Inde)"
+            "Mela Mararanjani"
           ],
           "category": "7 notes",
           "source": [
@@ -7621,7 +7621,7 @@ var data = {
           ],
           "name": [
             "Marva Ou Marvi",
-            "Marva Thaat (Inde)"
+            "Marva Thaat"
           ],
           "category": "7 notes",
           "source": [
@@ -7659,7 +7659,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Bhavapriya (Inde)"
+            "Mela Bhavapriya"
           ],
           "category": "7 notes",
           "source": [
@@ -7697,7 +7697,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Citrambari (Inde)"
+            "Mela Citrambari"
           ],
           "category": "7 notes",
           "source": [
@@ -7735,7 +7735,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Dhatuvardhani (Inde)"
+            "Mela Dhatuvardhani"
           ],
           "category": "7 notes",
           "source": [
@@ -7773,7 +7773,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Dhavalambari (Inde)"
+            "Mela Dhavalambari"
           ],
           "category": "7 notes",
           "source": [
@@ -7811,7 +7811,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Divamani (Inde)"
+            "Mela Divamani"
           ],
           "category": "7 notes",
           "source": [
@@ -7849,7 +7849,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Ganamurti (Inde)"
+            "Mela Ganamurti"
           ],
           "category": "7 notes",
           "source": [
@@ -7878,7 +7878,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Gangeyabhusani (Inde)"
+            "Mela Gangeyabhusani"
           ],
           "category": "7 notes",
           "source": [
@@ -7907,7 +7907,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Gavambohdi (Inde)"
+            "Mela Gavambohdi"
           ],
           "category": "7 notes",
           "source": [
@@ -7945,7 +7945,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Hatakambari (Inde)"
+            "Mela Hatakambari"
           ],
           "category": "7 notes",
           "source": [
@@ -7974,7 +7974,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Jalarnava (Inde)"
+            "Mela Jalarnava"
           ],
           "category": "7 notes",
           "source": [
@@ -8012,7 +8012,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Jhalavarali (Inde)"
+            "Mela Jhalavarali"
           ],
           "category": "7 notes",
           "source": [
@@ -8050,7 +8050,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Jhankaradhvani (Inde)"
+            "Mela Jhankaradhvani"
           ],
           "category": "7 notes",
           "source": [
@@ -8079,7 +8079,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Jhotisvarupini (Inde)"
+            "Mela Jhotisvarupini"
           ],
           "category": "7 notes",
           "source": [
@@ -8117,7 +8117,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Kantamani (Inde)"
+            "Mela Kantamani"
           ],
           "category": "7 notes",
           "source": [
@@ -8155,7 +8155,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Manavati (Inde)"
+            "Mela Manavati"
           ],
           "category": "7 notes",
           "source": [
@@ -8184,7 +8184,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Nagananadini (Inde)"
+            "Mela Nagananadini"
           ],
           "category": "7 notes",
           "source": [
@@ -8213,7 +8213,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Namanararayani (Inde)"
+            "Mela Namanararayani"
           ],
           "category": "7 notes",
           "source": [
@@ -8251,7 +8251,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Navanitam (Inde)"
+            "Mela Navanitam"
           ],
           "category": "7 notes",
           "source": [
@@ -8289,7 +8289,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Pavani (Inde)"
+            "Mela Pavani"
           ],
           "category": "7 notes",
           "source": [
@@ -8327,7 +8327,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Ragavardhani (Inde)"
+            "Mela Ragavardhani"
           ],
           "category": "7 notes",
           "source": [
@@ -8356,7 +8356,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Raghupriya (Inde)"
+            "Mela Raghupriya"
           ],
           "category": "7 notes",
           "source": [
@@ -8394,7 +8394,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Rasikapriya (Inde)"
+            "Mela Rasikapriya"
           ],
           "category": "7 notes",
           "source": [
@@ -8432,7 +8432,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Ratnangi (Inde)"
+            "Mela Ratnangi"
           ],
           "category": "7 notes",
           "source": [
@@ -8461,7 +8461,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Rupavati (Inde)"
+            "Mela Rupavati"
           ],
           "category": "7 notes",
           "source": [
@@ -8490,7 +8490,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Salaga (Inde)"
+            "Mela Salaga"
           ],
           "category": "7 notes",
           "source": [
@@ -8528,7 +8528,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Senavati (Inde)"
+            "Mela Senavati"
           ],
           "category": "7 notes",
           "source": [
@@ -8557,7 +8557,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Sucaritra (Inde)"
+            "Mela Sucaritra"
           ],
           "category": "7 notes",
           "source": [
@@ -8595,7 +8595,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Syamalangi (Inde)"
+            "Mela Syamalangi"
           ],
           "category": "7 notes",
           "source": [
@@ -8633,7 +8633,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Tanarupi (Inde)"
+            "Mela Tanarupi"
           ],
           "category": "7 notes",
           "source": [
@@ -8662,7 +8662,7 @@ var data = {
             10
           ],
           "name": [
-            "Mela Vanaspati (Inde)"
+            "Mela Vanaspati"
           ],
           "category": "7 notes",
           "source": [
@@ -8691,7 +8691,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Varunapriya (Inde)"
+            "Mela Varunapriya"
           ],
           "category": "7 notes",
           "source": [
@@ -8720,7 +8720,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Visvambhari (Inde)"
+            "Mela Visvambhari"
           ],
           "category": "7 notes",
           "source": [
@@ -8758,7 +8758,7 @@ var data = {
             9
           ],
           "name": [
-            "Mela Yagapriya (Inde)"
+            "Mela Yagapriya"
           ],
           "category": "7 notes",
           "source": [
@@ -9078,8 +9078,8 @@ var data = {
           "name": [
             "Napolitaine Majeure",
             "Mélodique Dorien",
-            "Mela Kokilapriya (Inde)",
-            "Raga Kokilaravam (Inde)"
+            "Mela Kokilapriya",
+            "Raga Kokilaravam"
           ],
           "category": "7 notes",
           "source": [
@@ -9112,7 +9112,7 @@ var data = {
           ],
           "name": [
             "Napolitaine Mineure",
-            "Raga Dhunibinnashadjam (Inde)",
+            "Raga Dhunibinnashadjam",
             "Maqam Shahnaz Kurdi (Arabie)"
           ],
           "category": "7 notes",
@@ -9224,7 +9224,7 @@ var data = {
             "Orientale",
             "Orientale 1",
             "Tsinganikos (Grèce)",
-            "Raga Ahira Lalita (Inde)"
+            "Raga Ahira Lalita"
           ],
           "category": "7 notes",
           "source": [
@@ -9611,7 +9611,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Nandkauns (Inde)",
+            "Raga Nandkauns",
             "Rock'n Roll"
           ],
           "category": "7 notes",
@@ -9641,7 +9641,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Ragesri (Inde)"
+            "Raga Ragesri"
           ],
           "category": "7 notes",
           "source": [
@@ -9670,7 +9670,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Sorati (Inde)"
+            "Raga Sorati"
           ],
           "category": "7 notes",
           "source": [
@@ -9856,7 +9856,7 @@ var data = {
             10
           ],
           "name": [
-            "Todi Bvii Mela Sadvidhamargini (Inde)"
+            "Todi Bvii Mela Sadvidhamargini"
           ],
           "category": "7 notes",
           "source": [
@@ -10719,7 +10719,7 @@ var data = {
             11
           ],
           "name": [
-            "Lydien Dominant + Septième Naturel",
+            "Lydien Dominant + Septième Naturelle",
             "Lydien À La Fois Naturel Et 7e Dominante"
           ],
           "category": "8 notes",
@@ -10918,7 +10918,7 @@ var data = {
             11
           ],
           "name": [
-            "Mela Tanarupi (Inde)"
+            "Mela Tanarupi"
           ],
           "category": "8 notes",
           "source": [
@@ -11404,7 +11404,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Bhatiyar (Inde)"
+            "Raga Bhatiyar"
           ],
           "category": "8 notes",
           "source": [
@@ -11445,7 +11445,7 @@ var data = {
             10
           ],
           "name": [
-            "Raga Cintamani (Inde)"
+            "Raga Cintamani"
           ],
           "category": "8 notes",
           "source": [
@@ -11487,7 +11487,7 @@ var data = {
           ],
           "name": [
             "Raga Mian Ki Malhar",
-            "Bahar (Inde)"
+            "Bahar"
           ],
           "category": "8 notes",
           "source": [
@@ -11518,7 +11518,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Ramkali (Inde)"
+            "Raga Ramkali"
           ],
           "category": "8 notes",
           "source": [
@@ -11559,7 +11559,7 @@ var data = {
             11
           ],
           "name": [
-            "Raga Saurashtra (Inde)"
+            "Raga Saurashtra"
           ],
           "category": "8 notes",
           "source": [
@@ -11591,7 +11591,7 @@ var data = {
           ],
           "name": [
             "Utility Minor",
-            "Raga Suha (Inde)",
+            "Raga Suha",
             "Grégorien 4"
           ],
           "category": "8 notes",
