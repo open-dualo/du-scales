@@ -59,7 +59,7 @@ nav li.current {
     min-height: 10em;
 }
 nav li.current:last-child {
-    min-height: 5em;
+    min-height: 5.1em;
 }
 nav li.current ul {
     height: auto;
@@ -260,18 +260,19 @@ nav li.current li.selected {
         font-size: 1.1em;
     }
 }
-@media screen and (max-device-width: 600px) {
+@media screen and (max-device-width: 600px) and (orientation : portrait) {
     body {
-        font-size: 2em;
+        font-size: 2.5em;
     }
 }
-@media screen and (max-width: 600px), screen and (max-device-width: 600px) {
+@media screen and (max-width: 600px), screen and (max-device-width: 600px) and (orientation : portrait) {
     header {
+        font-size: .7em;
         display: flex;
         justify-content: center;
     }
     footer {
-        text-align: center;
+        display: none;
     }
     .wrapper {
         flex-direction: column;
@@ -283,19 +284,21 @@ nav li.current li.selected {
         width: auto;
         float: none;
         order: 1;
-        overflow: hidden;
     }
-    .wrapper * {
+    .wrapper,
+    nav,
+    nav * {
         transition: min-height .3s ease-in-out;
     }
     .content,
     .svg-container {
-        flex-basis: auto;
-        overflow: hidden;
+        flex-shrink: 0;
     }
 }
 .content.escape,
 .content.escape h2 {
+    flex: 0 100 auto;
     cursor: pointer;
     user-select: none;
+    overflow: hidden;
 }
