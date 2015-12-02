@@ -181,9 +181,11 @@ function keys(d,i) {
 };
 
 function transpose(d,i) {
-  transpo = i%24;
-  update();
-  newTitle();
+  if (category != "") {
+    transpo = i%24;
+    update();
+    newTitle();
+  };
 };
 
 function newTitle() {
@@ -194,6 +196,17 @@ function update(){
   touch.attr("class", lighten);
   text.text(keys);
 };
+
+if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+    var msViewportStyle = document.createElement("style");
+    msViewportStyle.appendChild(
+        document.createTextNode(
+            "@-ms-viewport{width:auto!important}"
+        )
+    );
+    document.getElementsByTagName("head")[0].
+        appendChild(msViewportStyle);
+}
 
 /*var ica = 0;
 var isc = 0;
