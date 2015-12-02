@@ -43,6 +43,24 @@ body {
         -ms-flex-direction: column;
             flex-direction: column;
 }
+/* iPad with portrait orientation.*/
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait){
+  body {
+    height: 1024px;
+  }
+}
+/* iPad with landscape orientation.*/
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape){
+  body {
+    height: 768px;
+  }
+}
+/* iPhone 5 */
+@media screen and (device-aspect-ratio: 40/71) {
+  body {
+    height: 500px;
+  }
+}
 .logo {
     float: left;
     height: 4em;
@@ -243,18 +261,33 @@ nav {
 nav li {
     border-bottom: 2px solid #444;
     margin: 0;
-    padding: 1em 0 0 0;
+    padding: 0;
     cursor: pointer;
     text-align: center;
-    /*line-height: 2.5em;*/
     min-height: 2em;
     font-size: 1.2em;
 }
+nav li div {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    -webkit-flex-direction: column;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    -webkit-box-pack: center;
+    -webkit-justify-content: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    min-height: 3em;
+}
 nav ul {
-    margin: 1em 0 0 0;
     color: #111;
     background: #BBB;
     height: 0;
+    margin: 0;
     padding: 0;
     list-style-type: none;
     cursor: default;

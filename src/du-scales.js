@@ -39,12 +39,14 @@ var categories = navig
   .selectAll("li")
     .data(data.scales)
   .enter()
-    .append("li")
-    .text(function(d){return d.key + ' (' + d.values.length + ')'})
-    .on("click", toggleCategory)
-    .append("ul");
+    .append("li");
+
+categories
+  .append("div").text(function(d){return d.key + ' (' + d.values.length + ')'})
+  .on("click", toggleCategory)
 
 var scales = categories
+  .append("ul")
   .selectAll("li")
     .data(function(d){return d.values})
   .enter()
@@ -55,15 +57,16 @@ var scales = categories
 var openCategory = false;
 
 function toggleCategory(d,i) {
-  if (!d3.select(this).classed("current"))
+  var li = d3.select(this.parentNode);
+  if (!li.classed("current"))
   {        
     d3.select(".current").classed("current", false);
-    d3.select(this).classed("current", true);
+    li.classed("current", true);
     openCategory = true;
   }
-  else if (d3.mouse(this.childNodes[1])[1] < 0)
+  else if (d3.mouse(this.parentNode.childNodes[1])[1] < 0)
   {
-    d3.select(this).classed("current", false);
+    li.classed("current", false);
     openCategory = false;
   }
   deviceEscape();
