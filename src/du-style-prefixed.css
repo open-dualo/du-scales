@@ -55,12 +55,6 @@ body {
     height: 768px;
   }
 }
-/* iPhone 5 */
-@media screen and (device-aspect-ratio: 40/71) {
-  body {
-    height: 500px;
-  }
-}
 .logo {
     float: left;
     height: 4em;
@@ -281,7 +275,7 @@ nav li div {
     -webkit-justify-content: center;
         -ms-flex-pack: center;
             justify-content: center;
-    min-height: 3em;
+    min-height: 2.5em;
 }
 nav ul {
     color: #111;
