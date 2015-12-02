@@ -74,7 +74,7 @@ function toggleCategory(d,i) {
 
 function deviceEscape() {
   var w = Math.min.apply(null, [window.innerWidth, screen.width]);
-  if (w <= 600) {
+  if (w <= 800) {
     content.classed("escape", openCategory);
   }
 }

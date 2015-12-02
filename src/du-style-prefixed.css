@@ -15,45 +15,18 @@
     border: solid 1px #444;
 }
 html {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
     box-sizing: border-box;
     cursor: default;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
+    flex-direction: column;
+    user-select: none;
 }
 body {
     height: 100vh;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-}
-/* iPad with portrait orientation.*/
-@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait){
-  body {
-    height: 1024px;
-  }
-}
-/* iPad with landscape orientation.*/
-@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape){
-  body {
-    height: 768px;
-  }
+    flex-direction: column;
 }
 .logo {
     float: left;
@@ -62,55 +35,25 @@ body {
 }
 .wrapper {
     overflow: auto;
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 1 auto;
-        -ms-flex: 1 1 auto;
-            flex: 1 1 auto;
+    flex: 1 1 auto;
     display: block;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-        -ms-flex-direction: row;
-            flex-direction: row;
+    flex-direction: row;
 }
 nav {
     overflow: auto;
     width: 18em;
     display: block;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    flex-direction: column;
 }
 nav li {
     overflow: hidden;
-    -webkit-box-flex: 0;
-    -webkit-flex: 0 1 auto;
-        -ms-flex: 0 1 auto;
-            flex: 0 1 auto;
+    flex: 0 1 auto;
     display: block;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    flex-direction: column;
+    justify-content: center;
 }
 nav li.current {
     min-height: 10em;
@@ -123,28 +66,15 @@ nav li.current ul {
     overflow-y: auto;
 }
 .content {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 1 0%;
-        -ms-flex: 1 1 0%;
-            flex: 1 1 0%;
+    flex: 1 1 0%;
     overflow: auto;
     display: block;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
+    flex-direction: column;
     min-height: 6em;
 }
 .svg-container {
-    -webkit-box-flex: 1;
-    -webkit-flex: 1 1 0%;
-        -ms-flex: 1 1 0%;
-            flex: 1 1 0%;
+    flex: 1 1 0%;
     overflow: hidden;
     padding: 0 5%;
     min-height: 60vmin;
@@ -183,10 +113,7 @@ h2 {
     font-size: 1.2em;
     font-weight: normal;
     text-align: center;
-    -webkit-user-select: text;
-       -moz-user-select: text;
-        -ms-user-select: text;
-            user-select: text;
+    user-select: text;
     cursor: auto;
 }
 .content {
@@ -240,7 +167,6 @@ footer a {
     font-size: 1em;
     font-style: normal;
     text-decoration: none;
-    -webkit-transition: opacity .2s;
     transition: opacity .2s;
 }
 footer a:last-child {
@@ -262,19 +188,9 @@ nav li {
     font-size: 1.2em;
 }
 nav li div {
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: vertical;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: column;
-        -ms-flex-direction: column;
-            flex-direction: column;
-    -webkit-box-pack: center;
-    -webkit-justify-content: center;
-        -ms-flex-pack: center;
-            justify-content: center;
+    flex-direction: column;
+    justify-content: center;
     min-height: 2.5em;
 }
 nav ul {
@@ -308,18 +224,9 @@ nav li.current li.selected {
 }
 .buttons_flex {
     display: block;
-    display: -webkit-box;
-    display: -webkit-flex;
-    display: -ms-flexbox;
     display: flex;
-    -webkit-box-orient: horizontal;
-    -webkit-box-direction: normal;
-    -webkit-flex-direction: row;
-        -ms-flex-direction: row;
-            flex-direction: row;
-    -webkit-justify-content: space-around;
-        -ms-flex-pack: distribute;
-            justify-content: space-around;
+    flex-direction: row;
+    justify-content: space-around;
 }
 .buttons_flex div {
     color: #666;
@@ -349,41 +256,31 @@ nav li.current li.selected {
 
 /* Responsive */
 @media screen and (max-width: 950px) {
-    body {
-        font-size: .9em;
-    }
+    body {font-size: .9em}
 }
-@media screen and (max-width: 600px) {
-    body {
-        font-size: 1.1em;
-    }
+@media screen and (max-width: 800px) {
+    body {font-size: 1.1em}
 }
-@media screen and (max-device-width: 600px) and (orientation : portrait) {
-    body {
-        font-size: 2.5em;
-    }
+@media screen and (max-width: 414px) {
+    body {font-size: .9em}
 }
-@media screen and (max-width: 600px), screen and (max-device-width: 600px) and (orientation : portrait) {
+@media screen and (max-device-width: 800px) and (orientation : portrait) {
+    body {font-size: 2em}
+}
+@media screen and (max-device-width: 414px) and (orientation : portrait) {
+    body {font-size: 2.5em}
+}
+@media screen and (max-width: 800px), screen and (max-device-width: 800px) and (orientation : portrait) {
     header {
         font-size: .7em;
-        display: -webkit-box;
-        display: -webkit-flex;
-        display: -ms-flexbox;
         display: flex;
-        -webkit-box-pack: center;
-        -webkit-justify-content: center;
-            -ms-flex-pack: center;
-                justify-content: center;
+        justify-content: center;
     }
     footer {
         display: none;
     }
     .wrapper {
-        -webkit-box-orient: vertical;
-        -webkit-box-direction: normal;
-        -webkit-flex-direction: column;
-            -ms-flex-direction: column;
-                flex-direction: column;
+        flex-direction: column;
     }
     .buttons_flex div {
         font-size: 1em;
@@ -391,15 +288,11 @@ nav li.current li.selected {
     nav {
         width: auto;
         float: none;
-        -webkit-box-ordinal-group: 2;
-        -webkit-order: 1;
-            -ms-flex-order: 1;
-                order: 1;
+        order: 1;
     }
     .wrapper,
     nav,
     nav * {
-        -webkit-transition: min-height .3s ease-in-out;
         transition: min-height .3s ease-in-out;
     }
     nav li.current ul {
@@ -408,21 +301,13 @@ nav li.current li.selected {
     }
     .content,
     .svg-container {
-        -webkit-flex-shrink: 0;
-            -ms-flex-negative: 0;
-                flex-shrink: 0;
+        flex-shrink: 0;
     }
 }
 .content.escape,
 .content.escape h2 {
-    -webkit-box-flex: 0;
-    -webkit-flex: 0 100 auto;
-        -ms-flex: 0 100 auto;
-            flex: 0 100 auto;
+    flex: 0 100 auto;
     cursor: pointer;
-    -webkit-user-select: none;
-       -moz-user-select: none;
-        -ms-user-select: none;
-            user-select: none;
+    user-select: none;
     overflow: hidden;
 }

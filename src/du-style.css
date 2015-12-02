@@ -28,18 +28,6 @@ body {
     display: flex;
     flex-direction: column;
 }
-/* iPad with portrait orientation.*/
-@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait){
-  body {
-    height: 1024px;
-  }
-}
-/* iPad with landscape orientation.*/
-@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape){
-  body {
-    height: 768px;
-  }
-}
 .logo {
     float: left;
     height: 4em;
@@ -272,17 +260,17 @@ nav li.current li.selected {
         font-size: .9em;
     }
 }
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 768px) {
     body {
         font-size: 1.1em;
     }
 }
-@media screen and (max-device-width: 600px) and (orientation : portrait) {
+@media screen and (max-device-width: 768px) and (orientation : portrait) {
     body {
         font-size: 2.5em;
     }
 }
-@media screen and (max-width: 600px), screen and (max-device-width: 600px) and (orientation : portrait) {
+@media screen and (max-width: 768px), screen and (max-device-width: 768px) and (orientation : portrait) {
     header {
         font-size: .7em;
         display: flex;
