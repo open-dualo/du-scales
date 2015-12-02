@@ -243,18 +243,18 @@ nav {
 nav li {
     border-bottom: 2px solid #444;
     margin: 0;
-    padding: 0;
+    padding: 1em 0 0 0;
     cursor: pointer;
     text-align: center;
-    line-height: 2.5em;
-    min-height: 2.5em;
+    /*line-height: 2.5em;*/
+    min-height: 2em;
     font-size: 1.2em;
 }
 nav ul {
+    margin: 1em 0 0 0;
     color: #111;
     background: #BBB;
     height: 0;
-    margin: 0;
     padding: 0;
     list-style-type: none;
     cursor: default;
@@ -264,7 +264,7 @@ nav li li {
     padding: .5em;
     font-size: .9em;
     min-height: 1.8em;
-    line-height: 1.2em;
+    /*line-height: 1.2em;*/
     text-align: left;
     padding-left: 1em;
 }
@@ -321,7 +321,7 @@ nav li.current li.selected {
 }
 
 /* Responsive */
-/*@media screen and (max-width: 950px) {
+@media screen and (max-width: 950px) {
     body {
         font-size: .9em;
     }
@@ -333,9 +333,9 @@ nav li.current li.selected {
 }
 @media screen and (max-device-width: 600px) and (orientation : portrait) {
     body {
-        font-size: 1em;
+        font-size: 2.5em;
     }
-}*/
+}
 @media screen and (max-width: 600px), screen and (max-device-width: 600px) and (orientation : portrait) {
     header {
         font-size: .7em;
