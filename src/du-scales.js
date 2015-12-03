@@ -96,7 +96,6 @@ function toggleScale(d,i) {
     currScale.index = i;
     update_choices();
     update();
-    newTitle();
   };
 };
 
@@ -182,7 +181,6 @@ function transpose(d,i) {
   if (category != "") {
     transpo = i%24;
     update();
-    newTitle();
   };
 };
 
@@ -193,6 +191,7 @@ function newTitle() {
 function update(){
   touch.attr("class", lighten);
   text.text(keys);
+  newTitle();
 };
 
 /*var ica = 0;

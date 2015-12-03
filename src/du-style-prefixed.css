@@ -1,4 +1,17 @@
-/* Layout */
+.example {
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-transition: all .5s;
+    transition: all .5s;
+    -webkit-user-select: none;
+       -moz-user-select: none;
+        -ms-user-select: none;
+            user-select: none;
+    background: -webkit-linear-gradient(top, white, black);
+    background: linear-gradient(to bottom, white, black);
+}/* Layout */
 
 ::-webkit-scrollbar {
     width: 12px;
@@ -284,7 +297,6 @@ nav li li {
     padding: .5em;
     font-size: .9em;
     min-height: 1.8em;
-    /*line-height: 1.2em;*/
     text-align: left;
     padding-left: 1em;
 }
@@ -340,25 +352,13 @@ nav li.current li.selected {
     content: "";
 }
 
-/* Responsive */
-/*@media screen and (max-width: 950px) {
-    body {font-size: .9em}
-}
+/* responsive */
+
 @media screen and (max-width: 800px) {
-    body {font-size: 1.1em}
-}*/
-@media screen and (max-width: 414px) {
-    body {font-size: .9em}
+    body {font-size: .8em}
+    footer {display: none}
+    header {font-size: .7em}
 }
-/*@media screen and (max-device-width: 800px) and (orientation : portrait) {
-    body {font-size: 1.5em}
-}
-@media screen and (max-device-width: 600px) and (orientation : portrait) {
-    body {font-size: 2em}
-}
-@media screen and (max-device-width: 414px) and (orientation : portrait) {
-    body {font-size: 2.5em}
-}*/
 @media screen and (max-width: 800px) and (orientation : portrait) {
     header {
         font-size: .7em;
