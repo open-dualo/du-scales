@@ -1,7 +1,7 @@
 /* Layout */
 
 ::-webkit-scrollbar {
-    width: 12px;
+    width: 6px;
 }
 ::-webkit-scrollbar-track {
     padding: 2px;
@@ -343,9 +343,27 @@ nav li.current li.selected {
 /* responsive */
 
 @media screen and (max-width: 800px) {
-    body {font-size: .8em}
     footer {display: none}
     header {font-size: .7em}
+    body {font-size: .8em}
+}
+@media screen and (max-width: 640px) {
+    body {font-size: .7em}
+}
+@media screen and (max-width: 480px) {
+    body {font-size: .6em}
+}
+@media screen and (max-width: 800px) and (orientation : portrait) {
+    body {font-size: 1.5em}
+}
+@media screen and (max-width: 640px) and (orientation : portrait) {
+    body {font-size: 1.1em}
+}
+@media screen and (max-width: 480px) and (orientation : portrait) {
+    body {font-size: .9em}
+}
+@media screen and (max-width: 384px) and (orientation : portrait) {
+    body {font-size: .8em}
 }
 @media screen and (max-width: 800px) and (orientation : portrait) {
     header {
