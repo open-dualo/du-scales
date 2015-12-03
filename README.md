@@ -1,5 +1,14 @@
 # Du-Scales : Explorateur de gammes pour le Dualo du-touch.
 
+## News du 3-12-2015
+
+L'application du-scales devrait maintenant s'afficher correctement sur les smartphones et tablettes ! :)
+
+Il suffit de vous rendre sur la page !
+http://open-dualo.github.io/du-scales/
+
+![](src/images/smartphones.png)
+
 ## News du 21-11-2015
 
 Nouvelle version de l'application du-scales, avec :
