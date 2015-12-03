@@ -69,7 +69,8 @@ nav li.current:last-child {
 }
 nav li.current ul {
     height: auto;
-    overflow-y: auto;
+    overflow-y: scroll;
+    -webkit-overflow-scrolling: touch;
 }
 .content {
     flex: 1 1 0%;
@@ -308,10 +309,6 @@ nav li.current li.selected {
     nav,
     nav * {
         transition: min-height .3s ease-in-out;
-    }
-    nav li.current ul {
-        overflow-y: scroll;
-        -webkit-overflow-scrolling: touch;
     }
     .content,
     .svg-container {
