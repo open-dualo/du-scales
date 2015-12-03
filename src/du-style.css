@@ -274,7 +274,7 @@ nav li.current li.selected {
     body {font-size: .6em}
 }
 @media screen and (max-width: 800px) and (orientation : portrait) {
-    body {font-size: 1.5em}
+    body {font-size: 1.3em}
 }
 @media screen and (max-width: 640px) and (orientation : portrait) {
     body {font-size: 1.1em}
