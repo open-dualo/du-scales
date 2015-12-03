@@ -6,6 +6,7 @@
   <meta charset="UTF-8">
   <meta http-equiv="content-language" content="fr-FR,en-US" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
   <meta property="og:image" content="src/images/preview.png">
   <link rel="image_src"     href="src/images/preview.png">
   <link rel="icon" href="src/images/logo-16x16.png"   sizes="16x16"   type="image/png">
@@ -20,6 +21,17 @@
   Le dualo du-touch, ainsi que le principe dualo, ont l'objectif particulier de simplifier la musique, la rendre visuelle, logique, instinctive, mémotechnique.
   Projet libre et open-source, par Julien Caillot (BilouMaster Joke).
   Consultez le code et la base de données sur GitHub ! (JavaScript / CSS3 / HTML5 / D3js / SVG / JSON)" />
+  <script>
+    (function() {
+      if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile/)) {
+        var msViewportStyle = document.createElement("style");
+        msViewportStyle.appendChild(
+          document.createTextNode("@-ms-viewport{width:auto!important}")
+        );
+        document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+      }
+    })();
+  </script>
 </head>
 
 <body>
