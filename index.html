@@ -1,26 +1,52 @@
 <!DOCTYPE html>
-<html>
+<html lang="fr">
 
 <head>
   <title>du-scales : Toutes les gammes, selon le principe dualo</title>
   <meta charset="UTF-8">
-  <meta http-equiv="content-language" content="fr-FR,en-US" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta property="og:image" content="src/images/smartphones.png">
-  <link rel="image_src"     href="src/images/smartphones.png">
+  <link rel="image_src" href="src/images/smartphones.png">
   <link rel="icon" href="src/images/logo-16x16.png"   sizes="16x16"   type="image/png">
   <link rel="icon" href="src/images/logo-32x32.png"   sizes="32x32"   type="image/png">
+  <link rel="icon" href="src/images/logo-57x57.png"   sizes="57x57"   type="image/png">
+  <link rel="icon" href="src/images/logo-72x72.png"   sizes="72x72"   type="image/png">
   <link rel="icon" href="src/images/logo-96x96.png"   sizes="96x96"   type="image/png">
+  <link rel="icon" href="src/images/logo-114x114.png" sizes="114x114" type="image/png">
   <link rel="icon" href="src/images/logo-128x128.png" sizes="128x128" type="image/png">
+  <link rel="icon" href="src/images/logo-128x128.png" sizes="152x152" type="image/png">
+  <link rel="icon" href="src/images/logo-128x128.png" sizes="167x167" type="image/png">
+  <link rel="icon" href="src/images/logo-128x128.png" sizes="180x180" type="image/png">
   <link rel="icon" href="src/images/logo-270x270.png" sizes="270x270" type="image/png">
   <link rel="icon" href="src/images/logo-558x558.png" sizes="558x558" type="image/png">
-  <link rel="stylesheet"   href="src/du-style-prefixed.css">
+  <link rel="stylesheet" href="src/du-style-prefixed.css">
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="src/images/logo-57x57.png">
+  <link rel="apple-touch-icon" sizes="72x72" href="src/images/logo-72x72.png">
+  <link rel="apple-touch-icon" sizes="114x114" href="src/images/logo-114x114.png">
+  <link rel="apple-touch-icon" sizes="152x152" href="src/images/logo-152x152.png">
+  <link rel="apple-touch-icon" sizes="167x167" href="src/images/logo-167x167.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="src/images/logo-180x180.png">
+  <link href="src/splashscreens/iphone5_splash.png" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="src/splashscreens/iphone6_splash.png" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="src/splashscreens/iphoneplus_splash.png" media="(device-width: 621px) and (device-height: 1104px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="src/splashscreens/iphonex_splash.png" media="(device-width: 375px) and (device-height: 812px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="src/splashscreens/iphonexr_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="src/splashscreens/iphonexsmax_splash.png" media="(device-width: 414px) and (device-height: 896px) and (-webkit-device-pixel-ratio: 3)" rel="apple-touch-startup-image" />
+  <link href="src/splashscreens/ipad_splash.png" media="(device-width: 768px) and (device-height: 1024px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="splashscreens/ipadpro1_splash.png" media="(device-width: 834px) and (device-height: 1112px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="splashscreens/ipadpro3_splash.png" media="(device-width: 834px) and (device-height: 1194px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <link href="splashscreens/ipadpro2_splash.png" media="(device-width: 1024px) and (device-height: 1366px) and (-webkit-device-pixel-ratio: 2)" rel="apple-touch-startup-image" />
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black">
+  <meta name="apple-mobile-web-app-title" content="du-scales">
+  <meta name="theme-color" content="#111111">
   <meta name="description" content=
   "Dictionnaire intéractif de 351 gammes uniques, affichage clavier piano ou dualo du-touch.
   Le dualo du-touch, ainsi que le principe dualo, ont l'objectif particulier de simplifier la musique, la rendre visuelle, logique, instinctive, mémotechnique.
   Projet libre et open-source, par Julien Caillot (BilouMaster Joke).
-  Consultez le code et la base de données sur GitHub ! (JavaScript / CSS3 / HTML5 / D3js / SVG / JSON)" />
+  Consultez le code et la base de données sur GitHub ! (JavaScript / CSS3 / HTML5 / D3js / SVG / JSON)">
   <script>
     (function() {
       if ("-ms-user-select" in document.documentElement.style && navigator.userAgent.match(/IEMobile/)) {
@@ -77,10 +103,24 @@
     </a>
   </footer>
 
-  <script src="src/d3.min.js"    charset="utf-8"></script>
-  <script src="src/data/data.js" charset="utf-8"></script>
-  <script src="src/du-scales.js" charset="utf-8"></script>
-
+  <script src="src/d3.min.js"></script>
+  <script src="src/data/data.js"></script>
+  <script src="src/du-scales.js"></script>
+  <script src="install.js"></script>
+  <script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', function() {
+      navigator.serviceWorker.register('service-worker.js').then(function(registration) {
+        // Registration was successful
+        console.log('ServiceWorker registration successful with scope: ', registration.scope);
+      }, function(err) {
+        // registration failed :(
+        console.log('ServiceWorker registration failed: ', err);
+      });
+    });
+  }
+  </script>
+  
 </body>
 
 </html>

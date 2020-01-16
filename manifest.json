@@ -1,0 +1,21 @@
+{
+  "name":"du-scales",
+  "short_name":"du-scales",
+  "theme_color":"#111111",
+  "background_color":"#444444",
+  "display":"standalone",
+  "scope":"/du-scales",
+  "start_url":"/du-scales/index.html",
+  "icons":[
+    {
+      "src":"src/images/logo-192x192.png",
+      "sizes":"192x192",
+      "type":"image/png"
+    },
+    {
+      "src":"src/images/logo-512x512.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    }
+  ]
+}
